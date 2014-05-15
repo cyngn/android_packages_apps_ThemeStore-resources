@@ -18,12 +18,12 @@
 
     <string name="app_name">Themes Showcase</string>
 
-    <string name="switching_to_theme">Switching to theme</string>
+    <string name="switching_to_theme">Switching to theme\u2026</string>
 
     <!-- Drawer -->
     <string name="themes">Themes</string>
     <string name="home_screen">Home screen</string>
-    <string name="lock_screen">Lock wallpapers</string>
+    <string name="lock_screen">Lock screen</string>
     <string name="icons">Icons</string>
     <string name="fonts">Fonts</string>
     <string name="wallpapers">Wallpapers</string>
