@@ -17,7 +17,7 @@
 -->
 <resources>
   <string name="themes">Teman</string>
-  <string name="home_screen">Startsidan</string>
+  <string name="home_screen">Hemskärm</string>
   <string name="fonts">Typsnitt</string>
   <string name="wallpapers">Bakgrundsbilder</string>
   <string name="soundpacks">Ljudpaket</string>
@@ -28,5 +28,6 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Gratis</string>
   <string name="retry">Försök igen</string>
+  <string name="price_installed">Installerad</string>
   <string name="view_in_theme_chooser">Visa i temaväljaren</string>
 </resources>
