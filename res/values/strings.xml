@@ -18,8 +18,6 @@
 
     <string name="app_name">Themes Showcase</string>
 
-    <string name="switching_to_theme">Switching to theme\u2026</string>
-
     <!-- Drawer -->
     <string name="themes">Themes</string>
     <string name="home_screen">Home screen</string>
