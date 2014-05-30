@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">תצוגת ערכות עיצוב</string>
-  <string name="switching_to_theme">מחליף לערכה\u2026</string>
   <string name="themes">ערכות עיצוב</string>
   <string name="home_screen">דף הבית</string>
   <string name="lock_screen">רקעי מסך הנעילה</string>

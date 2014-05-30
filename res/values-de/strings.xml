@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Design-Galerie</string>
-  <string name="switching_to_theme">Design wird angewendet\u2026</string>
   <string name="themes">Designs</string>
   <string name="home_screen">Startbildschirm</string>
   <string name="lock_screen">Sperrbildschirm-Hintergründe</string>

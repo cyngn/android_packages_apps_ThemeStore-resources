@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Teemojen esittely</string>
-  <string name="switching_to_theme">Vaihdetaan teemaa\u2026</string>
   <string name="themes">Teemat</string>
   <string name="home_screen">Kotinäyttö</string>
   <string name="lock_screen">Lukitustaustakuvat</string>

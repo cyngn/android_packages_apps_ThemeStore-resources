@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">主題陳列室</string>
-  <string name="switching_to_theme">正在切換到主題\u2026</string>
   <string name="themes">主題</string>
   <string name="home_screen">主螢幕</string>
   <string name="lock_screen">鎖定牆紙</string>

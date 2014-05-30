@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Tema velger</string>
-  <string name="switching_to_theme">Bytter til tema\u2026</string>
   <string name="themes">Temaer</string>
   <string name="home_screen">Hjemmeskjerm</string>
   <string name="lock_screen">Lås bakgrunnsbilder</string>

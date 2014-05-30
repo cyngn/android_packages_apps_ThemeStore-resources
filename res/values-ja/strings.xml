@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">テーマショーケース</string>
-  <string name="switching_to_theme">テーマを切り替え中\u2026</string>
   <string name="themes">テーマ</string>
   <string name="home_screen">ホーム画面</string>
   <string name="lock_screen">ロック画面の壁紙</string>

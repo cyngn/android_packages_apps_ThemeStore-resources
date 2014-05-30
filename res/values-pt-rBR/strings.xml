@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Vitrine de Temas</string>
-  <string name="switching_to_theme">Mudando para o tema\u2026</string>
   <string name="themes">Temas</string>
   <string name="home_screen">Tela inicial</string>
   <string name="lock_screen">Papéis de parede da tela de bloqueio</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Prezentacja motywu</string>
-  <string name="switching_to_theme">Przełączenie na motyw\u2026</string>
   <string name="themes">Motywy</string>
   <string name="home_screen">Ekran główny</string>
   <string name="lock_screen">Tapeta ekranu blokady</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">عرض المواضيع</string>
-  <string name="switching_to_theme">التبديل إلى الموضوع\u2026</string>
   <string name="themes">المواضيع</string>
   <string name="home_screen">الشاشة الرئيسية</string>
   <string name="lock_screen">خلفيات قفل</string>

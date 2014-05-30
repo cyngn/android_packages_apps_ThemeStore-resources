@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Aparador de temes</string>
-  <string name="switching_to_theme">S\'està canviant de tema\u2026</string>
   <string name="themes">Temes</string>
   <string name="home_screen">Pantalla d\'inici</string>
   <string name="lock_screen">Bloqueja els fons de pantalla</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Tema Vitrini</string>
-  <string name="switching_to_theme">Tema değiştiriliyor\u2026</string>
   <string name="themes">Temalar</string>
   <string name="home_screen">Ana ekran</string>
   <string name="lock_screen">Kilit ekranı duvar kağıtları</string>

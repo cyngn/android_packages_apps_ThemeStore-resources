@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Escaparate de temes</string>
-  <string name="switching_to_theme">Cambiando al tema\u2026</string>
   <string name="themes">Temes</string>
   <string name="home_screen">Escritoriu</string>
   <string name="lock_screen">Bloquiar fondos de pantalla</string>

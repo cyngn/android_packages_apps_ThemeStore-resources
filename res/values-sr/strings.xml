@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Витрина тема</string>
-  <string name="switching_to_theme">Пребацивање на тему\u2026</string>
   <string name="themes">Теме</string>
   <string name="home_screen">Почетни екран</string>
   <string name="lock_screen">Тапети закључавања</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">แสดงชุดรูปแบบ</string>
-  <string name="switching_to_theme">กำลังสลับชุดรูปแบบ</string>
   <string name="themes">ชุดรูปแบบ</string>
   <string name="home_screen">หน้าจอหลัก</string>
   <string name="lock_screen">หน้าล็อคจอ</string>

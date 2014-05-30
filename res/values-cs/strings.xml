@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Náhled témat</string>
-  <string name="switching_to_theme">Aplikování tématu\u2026</string>
   <string name="themes">Témata</string>
   <string name="home_screen">Domací plocha</string>
   <string name="lock_screen">Tapety zámku obrazovky</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Pameran Tema</string>
-  <string name="switching_to_theme">Beralih ke tema\u2026</string>
   <string name="themes">Tema</string>
   <string name="home_screen">Layar Utama</string>
   <string name="lock_screen">Kunci wallpaper</string>

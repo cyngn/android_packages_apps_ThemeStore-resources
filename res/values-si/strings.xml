@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">තේමා ප්‍රදර්ශන වැස්ම</string>
-  <string name="switching_to_theme">තේමාවට මාරුවෙමින්\u2026</string>
   <string name="themes">තේමා</string>
   <string name="home_screen">මුල් තිරය</string>
   <string name="lock_screen">අගුළු වෝල්පේපර</string>

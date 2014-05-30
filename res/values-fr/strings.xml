@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Galerie de thème</string>
-  <string name="switching_to_theme">Application du thème\u2026</string>
   <string name="themes">Thèmes</string>
   <string name="home_screen">Écran d\'accueil</string>
   <string name="lock_screen">Fonds d\'écran de verrouillage</string>

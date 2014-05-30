@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Κατάστημα Θεμάτων</string>
-  <string name="switching_to_theme">Μετάβαση στο θέμα\u2026</string>
   <string name="themes">Θέματα</string>
   <string name="home_screen">Αρχική οθόνη</string>
   <string name="lock_screen">Ταπετσαρίες κλειδώματος</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Témaválasztó</string>
-  <string name="switching_to_theme">Váltás a témára\2026</string>
   <string name="themes">Témák</string>
   <string name="home_screen">Kezdőképernyő</string>
   <string name="lock_screen">Képernyőzár hátterek</string>

@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Vetrina temi</string>
-  <string name="switching_to_theme">Cambiando tema\u2026</string>
   <string name="themes">Temi</string>
   <string name="home_screen">Pagina Home</string>
   <string name="lock_screen">Sfondi sblocco</string>
