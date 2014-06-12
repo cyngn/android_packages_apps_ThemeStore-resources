@@ -16,10 +16,14 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Temavisaren</string>
   <string name="themes">Teman</string>
   <string name="home_screen">Hemskärm</string>
+  <string name="lock_screen">Lås bakgrundsbilder</string>
+  <string name="icons">Ikoner</string>
   <string name="fonts">Typsnitt</string>
   <string name="wallpapers">Bakgrundsbilder</string>
+  <string name="boot_anims">Uppstartsanimationer</string>
   <string name="soundpacks">Ljudpaket</string>
   <string name="purchase">Köp</string>
   <string name="change_theme">Ändra tema</string>
@@ -27,6 +31,8 @@
   <string name="unknown_author">Okänd upphovsman</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Gratis</string>
+  <string name="error_connection">Det gick inte att nå servern.</string>
+  <string name="error_invalid_response">Servern returnerade inga teman.</string>
   <string name="retry">Försök igen</string>
   <string name="price_installed">Installerad</string>
   <string name="view_in_theme_chooser">Visa i temaväljaren</string>

@@ -19,14 +19,14 @@
   <string name="app_name">Витрина тема</string>
   <string name="themes">Теме</string>
   <string name="home_screen">Почетни екран</string>
-  <string name="lock_screen">Тапети закључавања</string>
+  <string name="lock_screen">Позадине закључавања</string>
   <string name="icons">Иконе</string>
   <string name="fonts">Фонтови</string>
-  <string name="wallpapers">Тапети</string>
+  <string name="wallpapers">Позадине</string>
   <string name="boot_anims">Покретачке анимације</string>
   <string name="soundpacks">Пакети звукова</string>
   <string name="purchase">Куповина</string>
-  <string name="change_theme">Промените тему</string>
+  <string name="change_theme">Промени тему</string>
   <string name="styles">Стилови</string>
   <string name="unknown_author">Аутор непознат</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
@@ -35,5 +35,5 @@
   <string name="error_invalid_response">Зачудо, сервер није вратио ниједну тему.</string>
   <string name="retry">Понови</string>
   <string name="price_installed">Инсталирано</string>
-  <string name="view_in_theme_chooser">Погледајте у бирачу тема</string>
+  <string name="view_in_theme_chooser">Погледај у бирачу тема</string>
 </resources>
