@@ -19,7 +19,7 @@
   <string name="app_name">Thema Showcase</string>
   <string name="themes">Thema\'s</string>
   <string name="home_screen">Startscherm</string>
-  <string name="lock_screen">Vergrendelingsscherm</string>
+  <string name="lock_screen">Vergrendelings\nscherm</string>
   <string name="icons">Pictogrammen</string>
   <string name="fonts">Lettertypen</string>
   <string name="wallpapers">Achtergronden</string>

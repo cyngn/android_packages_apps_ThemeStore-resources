@@ -23,13 +23,13 @@
   <string name="icons">アイコン</string>
   <string name="fonts">フォント</string>
   <string name="wallpapers">壁紙</string>
-  <string name="boot_anims">起動アニメーション</string>
+  <string name="boot_anims">ブートアニメーション</string>
   <string name="soundpacks">サウンドパック</string>
   <string name="purchase">購入</string>
   <string name="change_theme">テーマを変更する</string>
   <string name="styles">スタイル</string>
   <string name="unknown_author">作者不明</string>
-  <string name="font_preview_letters">あいうえおABCabc123</string>
+  <string name="font_preview_letters">あいうえおAaBbCc123</string>
   <string name="price_free">無料</string>
   <string name="error_connection">サーバーへの接続中にエラーが発生しました。</string>
   <string name="error_invalid_response">サーバーが応答していません。</string>

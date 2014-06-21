@@ -19,7 +19,7 @@
   <string name="app_name">Design-Galerie</string>
   <string name="themes">Designs</string>
   <string name="home_screen">Startbildschirm</string>
-  <string name="lock_screen">Sperrbildschirm-Hintergründe</string>
+  <string name="lock_screen">Sperrbildschirm</string>
   <string name="icons">Symbole</string>
   <string name="fonts">Schriftarten</string>
   <string name="wallpapers">Hintergründe</string>

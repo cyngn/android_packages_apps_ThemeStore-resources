@@ -19,11 +19,11 @@
   <string name="app_name">Teemojen esittely</string>
   <string name="themes">Teemat</string>
   <string name="home_screen">Kotinäyttö</string>
-  <string name="lock_screen">Lukitustaustakuvat</string>
+  <string name="lock_screen">Lukitusnäytön\ntaustakuvat</string>
   <string name="icons">Kuvakkeet</string>
   <string name="fonts">Fontit</string>
   <string name="wallpapers">Taustakuvat</string>
-  <string name="boot_anims">Käynnistysanimaatiot</string>
+  <string name="boot_anims">Käynnistys-\nanimaatiot</string>
   <string name="soundpacks">Äänipaketit</string>
   <string name="purchase">Osta</string>
   <string name="change_theme">Vaihda teema</string>
