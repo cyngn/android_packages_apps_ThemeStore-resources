@@ -30,7 +30,7 @@
   <string name="styles">Style</string>
   <string name="unknown_author">Onbekende verskaffer</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="price_free">Vry</string>
+  <string name="price_free">Gratis</string>
   <string name="error_connection">Fout: Die bediener kon nie bereik word nie.</string>
   <string name="error_invalid_response">Die bediener het geen temas verskaf nie.</string>
   <string name="retry">Probeer Weer</string>
