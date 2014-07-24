@@ -28,7 +28,7 @@
   <string name="purchase">구입</string>
   <string name="change_theme">테마 변경</string>
   <string name="styles">스타일</string>
-  <string name="unknown_author">알 수 없는 작자</string>
+  <string name="unknown_author">작자 미상</string>
   <string name="font_preview_letters">가나다AaBbCc123</string>
   <string name="price_free">무료</string>
   <string name="error_connection">서버에 접근하는 중 오류가 발생했습니다.</string>

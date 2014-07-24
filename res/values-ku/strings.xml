@@ -19,8 +19,8 @@
   <string name="app_name">شێوازی ڕووکارەکان</string>
   <string name="themes">ڕووکارەکان</string>
   <string name="home_screen">وێنەی سەرشاشە</string>
-  <string name="lock_screen">وێنەی قفڵی شاشە</string>
-  <string name="icons">ئایکۆن</string>
+  <string name="lock_screen">وێنەی قفڵی ڕوونما</string>
+  <string name="icons">وێنۆچکه‌</string>
   <string name="fonts">فۆنت</string>
   <string name="wallpapers">وێنه‌ی سه‌رشاشه‌</string>
   <string name="boot_anims">کاریگەری کاتی داگیرسان</string>
