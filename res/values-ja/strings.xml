@@ -26,14 +26,14 @@
   <string name="boot_anims">ブートアニメーション</string>
   <string name="soundpacks">サウンドパック</string>
   <string name="purchase">購入</string>
-  <string name="change_theme">テーマを変更する</string>
+  <string name="change_theme">テーマを変更</string>
   <string name="styles">スタイル</string>
-  <string name="unknown_author">作者不明</string>
-  <string name="font_preview_letters">あいうえおAaBbCc123</string>
+  <string name="unknown_author">作成者不明</string>
+  <string name="font_preview_letters">あア漢字ABCabc123</string>
   <string name="price_free">無料</string>
   <string name="error_connection">サーバーへの接続中にエラーが発生しました。</string>
   <string name="error_invalid_response">サーバーが応答していません。</string>
   <string name="retry">再試行</string>
   <string name="price_installed">インストール済み</string>
-  <string name="view_in_theme_chooser">テーマ選択画面で表示する</string>
+  <string name="view_in_theme_chooser">テーマ選択画面で表示</string>
 </resources>
