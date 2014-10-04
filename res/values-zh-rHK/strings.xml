@@ -19,10 +19,10 @@
   <string name="app_name">主題陳列室</string>
   <string name="themes">主題</string>
   <string name="home_screen">主螢幕</string>
-  <string name="lock_screen">鎖定桌布</string>
+  <string name="lock_screen">鎖定畫面牆紙</string>
   <string name="icons">圖示</string>
   <string name="fonts">字體</string>
-  <string name="wallpapers">桌布</string>
+  <string name="wallpapers">牆紙</string>
   <string name="boot_anims">開機動畫</string>
   <string name="soundpacks">音效包</string>
   <string name="purchase">購買</string>
