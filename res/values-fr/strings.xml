@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Galerie de thème</string>
+  <string name="app_name">Galerie de thèmes</string>
   <string name="themes">Thèmes</string>
   <string name="home_screen">Écran d\'accueil</string>
   <string name="lock_screen">Fonds d\'écran de verrouillage</string>
