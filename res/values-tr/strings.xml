@@ -19,7 +19,7 @@
   <string name="app_name">Tema Vitrini</string>
   <string name="themes">Temalar</string>
   <string name="home_screen">Ana ekran</string>
-  <string name="lock_screen">Kilit ekranı duvar kağıtları</string>
+  <string name="lock_screen">Kilit ekranı duvar kağıtları </string>
   <string name="icons">Simgeler</string>
   <string name="fonts">Yazı tipleri</string>
   <string name="wallpapers">Duvar kağıtları</string>
@@ -35,5 +35,5 @@
   <string name="error_invalid_response">İlginç ki, sunucu hiç tema göndermedi.</string>
   <string name="retry">Yeniden dene</string>
   <string name="price_installed">Yüklü</string>
-  <string name="view_in_theme_chooser">Tema Seçicide görüntüle</string>
+  <string name="view_in_theme_chooser">Tema Seçici\'de görüntüle </string>
 </resources>
