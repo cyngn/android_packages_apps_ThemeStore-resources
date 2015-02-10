@@ -31,7 +31,7 @@
   <string name="unknown_author">作者不明</string>
   <string name="font_preview_letters">AaBbCcDd123中文字</string>
   <string name="price_free">免費</string>
-  <string name="error_connection">連線到伺服器時發生錯誤。</string>
+  <string name="error_connection">連接到伺服器時發生錯誤。</string>
   <string name="error_invalid_response">說也奇怪，伺服器沒有回傳任何主題。</string>
   <string name="retry">重試</string>
   <string name="price_installed">已安裝</string>
