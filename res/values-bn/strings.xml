@@ -19,5 +19,18 @@
   <string name="app_name">থিম শোকেস</string>
   <string name="themes">থিমস</string>
   <string name="home_screen">মূল পর্দা</string>
+  <string name="lock_screen">লক ওয়ালপেপারস</string>
   <string name="icons">প্রতিমূর্তি</string>
+  <string name="fonts">হরফ</string>
+  <string name="wallpapers">ওয়ালপেপার গুলি</string>
+  <string name="boot_anims">বুট এনিমেশন সমূহ</string>
+  <string name="soundpacks">শব্দ গুচ্ছ</string>
+  <string name="purchase">ক্রয়</string>
+  <string name="change_theme">থিম পরিবর্তন করুন</string>
+  <string name="styles">শৈলী</string>
+  <string name="unknown_author">অজ্ঞাত প্রণেতা</string>
+  <string name="font_preview_letters">অঅআআককখখ১২৩</string>
+  <string name="error_connection">সার্ভারে পৌঁছনোর সময় একটি ত্রুটি হয়েছিল।</string>
+  <string name="retry">পুনঃপ্রচেষ্টা</string>
+  <string name="price_installed">ইনস্টল হয়েছে</string>
 </resources>
