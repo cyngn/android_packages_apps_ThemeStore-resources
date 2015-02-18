@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Náhled motivu</string>
+  <string name="app_name">Náhled motivů</string>
   <string name="themes">Motivy</string>
-  <string name="home_screen">Domací plocha</string>
+  <string name="home_screen">Domácí plocha</string>
   <string name="lock_screen">Tapety zámku obrazovky</string>
   <string name="icons">Ikony</string>
   <string name="fonts">Písma</string>
@@ -35,5 +35,5 @@
   <string name="error_invalid_response">Server témat neposkytl žádný seznam dostupných témat.</string>
   <string name="retry">Opakovat</string>
   <string name="price_installed">Instalováno</string>
-  <string name="view_in_theme_chooser">Zobrazit v nastavení „Motiv vzhledu“</string>
+  <string name="view_in_theme_chooser">Zobrazit v nastavení „Motivy“</string>
 </resources>
