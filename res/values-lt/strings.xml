@@ -23,7 +23,7 @@
   <string name="icons">Piktogramos</string>
   <string name="fonts">Šriftai</string>
   <string name="wallpapers">Darbalaukio fonai</string>
-  <string name="boot_anims">Įkrovos animacijos</string>
+  <string name="boot_anims">Paleidimo animacijos</string>
   <string name="soundpacks">Garso paketai</string>
   <string name="purchase">Pirkti</string>
   <string name="change_theme">Pakeisti temą</string>
