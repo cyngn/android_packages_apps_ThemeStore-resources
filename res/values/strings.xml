@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014-2015 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,20 +17,20 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
 
     <string name="app_name">Themes</string>
-    <string name="version_name" translate="false">2.0</string>
+    <string name="version_name" translatable="false">2.0</string>
 
     <!-- Action Bar -->
     <string name="search">Search</string>
     <string name="search_hint">Find a theme</string>
 
     <!-- Drawer -->
-    <string name="username">cid@cyngn.com</string> <!-- TODO: Remove test string -->
+    <string name="username" translatable="false">cid@cyngn.com</string> <!-- TODO: Remove test string -->
     <string name="featured">Featured</string>
     <string name="collections">Collections</string>
     <string name="components">Components</string>
     <string name="showcase">Showcase</string>
     <string name="my_stuff">My stuff</string>
-    <string name="theme_chooser">Theme chooser</string>
+    <string name="theme_chooser">Theme Chooser</string>
     <string name="settings">Settings</string>
 
     <string name="purchase">Purchase</string>
@@ -43,7 +43,7 @@
     <string name="price_free">Free</string>
 
     <!-- Errors -->
-    <string name="error_connection">Connection Error</string>
+    <string name="error_connection">Connection error</string>
     <string name="error_invalid_response">Oddly enough, the server did not return any themes.</string>
     <string name="error_authentication">There was a problem with the authentication server.</string>
     <string name="error_nav_item_needs_authentication">Option unavailable until authenticated. Did you press the retry button?</string>
@@ -60,7 +60,7 @@
     <string name="for_sale">For sale</string>
 
     <!-- Subsections for Mystuff -->
-    <string name="my_themes">My Themes</string>
+    <string name="my_themes">My themes</string>
     <string name="installed">Installed</string>
 
     <!-- Component Categories -->
@@ -82,7 +82,7 @@
     <string name="more_by_this_designer">More by this designer</string>
     <string name="report_theme">Report theme</string>
     <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
-    <string name="send_email_chooser">Send e-mail via...</string>
+    <string name="send_email_chooser">Send email via\u2026</string>
     <string name="price_installed">Installed</string>
     <string name="price_uninstall">Uninstall</string>
     <string name="apply">Apply</string>
@@ -93,14 +93,14 @@
     <!-- Theme Detail Description -->
     <string name="about_theme_name">About %s</string>
     <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
-    <string name="downloads">%s Downloads</string>
+    <string name="downloads">%s downloads</string>
     <string name="rate">Rate</string>
     <string name="rated">Rated</string>
 
     <!-- All Reviews for a given theme -->
     <plurals name="all_reviews_title">
-        <item quantity="one">%s Rating</item>
-        <item quantity="other">%s Ratings</item>
+        <item quantity="one">%s rating</item>
+        <item quantity="other">%s ratings</item>
     </plurals>
 
     <!-- Rating Popup -->
@@ -119,12 +119,12 @@
     <string name="cancel">Cancel</string>
 
     <!-- Download path -->
-    <string name="installing_notification_text">Installing %1$s&#8230;</string>
+    <string name="installing_notification_text">Installing \'%1$s\'\u2026</string>
     <string name="installing">Installing</string>
     <string name="updating">Updating</string>
 
     <!-- Error strings -->
-    <string name="error_dialog_button_text">Ok</string>
+    <string name="error_dialog_button_text">OK</string>
     <string name="installing_error_notification_text">Error installing %1$s</string>
     <string name="download_error_notification_text">Error downloading</string>
     <string name="pm_error_notification_text">Could not install theme: %1$s</string>
@@ -134,30 +134,30 @@
     <string name="about">About</string>
     <string name="pref_title_download_notifications">Notifications</string>
     <string name="pref_summary_download_notifications">Notify me when a theme has an update</string>
-    <string name="pref_title_update_connection_type">Auto-Update</string>
+    <string name="pref_title_update_connection_type">Auto-update</string>
 
-    <string name="pref_title_clear_search_history">Clear Search History</string>
+    <string name="pref_title_clear_search_history">Clear search history</string>
     <string name="pref_summary_clear_sarch_history">Removes all the searches you performed</string>
     <string name="pref_summary_opensource_licenses">License details for open source software</string>
     <string name="pref_title_opensource_licenses">Open source licenses</string>
-    <string name="pref_title_buildversion">Build Version</string>
+    <string name="pref_title_buildversion">Build version</string>
 
     <!-- Preferences: Auto update -->
     <string name="pref_update_connection_type_never_update">Never auto-update</string>
-    <string name="pref_update_connection_type_over_wifi">Auto-update with Wi-Fi only</string>
+    <string name="pref_update_connection_type_over_wifi">Auto-update via Wi-Fi only</string>
     <string name="pref_update_connection_type_any_time">Auto-update any time</string>
 
     <!-- Detail included components -->
     <string name="included_components_header_title">Included components</string>
-    <string name="included_component_boot_animation">Boot Animation</string>
+    <string name="included_component_boot_animation">Boot animation</string>
     <string name="included_component_font">Font</string>
-    <string name="included_component_icon_pack">Icon Pack</string>
-    <string name="included_component_navigation_bar">Navigation Bar</string>
-    <string name="included_component_sound_pack">Sound Pack</string>
-    <string name="included_component_status_bar">Status Bar</string>
+    <string name="included_component_icon_pack">Icon pack</string>
+    <string name="included_component_navigation_bar">Navigation bar</string>
+    <string name="included_component_sound_pack">Sound pack</string>
+    <string name="included_component_status_bar">Status bar</string>
     <string name="included_component_controls">Controls</string>
     <string name="included_component_wallpaper">Wallpaper</string>
-    <string name="included_component_lockscreen_wallpaper">Lockscreen Wallpaper</string>
+    <string name="included_component_lockscreen_wallpaper">Lockscreen wallpaper</string>
 
     <!-- Search -->
     <string name="recent_searches">Recent searches</string>
@@ -168,8 +168,8 @@
     <!-- Example: "5 theme updates"-->
     <!-- All Reviews for a given theme -->
     <plurals name="update_notification_title">
-        <item quantity="one">%d Theme Update</item>
-        <item quantity="other">%d Theme Updates</item>
+        <item quantity="one">%d theme update</item>
+        <item quantity="other">%d theme updates</item>
     </plurals>
     <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
     <plurals name="update_notification_msg">
@@ -181,7 +181,7 @@
     <string name="update_notification_x_more">+%d more</string>
 
     <string name="no_themes_available">No results</string>
-    <string name="get_themes">Get Themes</string>
+    <string name="get_themes">Get themes</string>
 
     <!-- Eula Strings -->
     <string name="eula_decline">Decline</string>
