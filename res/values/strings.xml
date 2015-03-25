@@ -157,7 +157,7 @@
     <string name="included_component_status_bar">Status bar</string>
     <string name="included_component_controls">Controls</string>
     <string name="included_component_wallpaper">Wallpaper</string>
-    <string name="included_component_lockscreen_wallpaper">Lockscreen wallpaper</string>
+    <string name="included_component_lockscreen_wallpaper">Lock screen wallpaper</string>
 
     <!-- Search -->
     <string name="recent_searches">Recent searches</string>
