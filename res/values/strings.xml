@@ -76,7 +76,7 @@
     <string name="updating_pkgname">Updating \'%s\'\u2026</string>
 
     <!-- Subsections for Mystuff -->
-    <string name="my_themes">My Themes</string>
+    <string name="my_themes">My themes</string>
     <string name="installed">Installed</string>
 
     <!-- Component Categories -->
@@ -175,7 +175,7 @@
     <string name="included_component_status_bar">Status bar</string>
     <string name="included_component_controls">Controls</string>
     <string name="included_component_wallpaper">Wallpaper</string>
-    <string name="included_component_lockscreen_wallpaper">Lockscreen wallpaper</string>
+    <string name="included_component_lockscreen_wallpaper">Lock screen wallpaper</string>
 
     <!-- Search -->
     <string name="recent_searches">Recent searches</string>
