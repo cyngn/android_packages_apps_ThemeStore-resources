@@ -16,13 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
-  <string name="purchase">سېتىۋېلىش</string>
-  <string name="change_theme">ئۆرنەك ئۆزگەرت</string>
-  <string name="unknown_author">يازغۇچى يوچۇن</string>
+  <string name="purchase">Koop</string>
+  <string name="change_theme">Verander tema</string>
+  <string name="unknown_author">Onbekende verskaffer</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="price_free">ھەقسىز</string>
-  <string name="error_invalid_response">ئەجەپلىنەرلىكى، مۇلازىمېتىر ھېچقانداق ئۆرنەك قايتۇرمىدى.</string>
-  <string name="retry">قايتا سىنا</string>
-  <string name="view_in_theme_chooser">ئۆرنەك تاللىغۇچتا كۆرسەت</string>
-  <string name="price_installed">ئورنىتىلغان</string>
+  <string name="price_free">Gratis</string>
+  <string name="error_invalid_response">Die bediener het geen temas verskaf nie.</string>
+  <string name="retry">Probeer Weer</string>
+  <string name="view_in_theme_chooser">Kyk binne Tema Kieser</string>
+  <string name="price_installed">Geïnstalleer</string>
 </resources>

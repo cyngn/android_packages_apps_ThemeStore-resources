@@ -16,13 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
-  <string name="purchase">سېتىۋېلىش</string>
-  <string name="change_theme">ئۆرنەك ئۆزگەرت</string>
-  <string name="unknown_author">يازغۇچى يوچۇن</string>
+  <string name="purchase">רכישה</string>
+  <string name="change_theme">שנה ערכת עיצוב</string>
+  <string name="unknown_author">מחבר לא ידוע</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="price_free">ھەقسىز</string>
-  <string name="error_invalid_response">ئەجەپلىنەرلىكى، مۇلازىمېتىر ھېچقانداق ئۆرنەك قايتۇرمىدى.</string>
-  <string name="retry">قايتا سىنا</string>
-  <string name="view_in_theme_chooser">ئۆرنەك تاللىغۇچتا كۆرسەت</string>
-  <string name="price_installed">ئورنىتىلغان</string>
+  <string name="price_free">חינם</string>
+  <string name="error_invalid_response">באופן מוזר, השרת לא החזיר אף ערכת עיצוב.</string>
+  <string name="retry">נסה שנית</string>
+  <string name="view_in_theme_chooser">הצג בבוחר ערכות העיצוב</string>
+  <string name="price_installed">מותקן</string>
+  <string name="sort_alphabetically">א-ת / A-Z</string>
+  <string name="sort_rating">דירוג</string>
+  <string name="sort_popular">פופולרי</string>
+  <string name="play_store">חנות Play</string>
 </resources>

@@ -16,13 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
-  <string name="purchase">سېتىۋېلىش</string>
-  <string name="change_theme">ئۆرنەك ئۆزگەرت</string>
-  <string name="unknown_author">يازغۇچى يوچۇن</string>
-  <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="price_free">ھەقسىز</string>
-  <string name="error_invalid_response">ئەجەپلىنەرلىكى، مۇلازىمېتىر ھېچقانداق ئۆرنەك قايتۇرمىدى.</string>
-  <string name="retry">قايتا سىنا</string>
-  <string name="view_in_theme_chooser">ئۆرنەك تاللىغۇچتا كۆرسەت</string>
-  <string name="price_installed">ئورنىتىلغان</string>
+  <string name="purchase">購買</string>
+  <string name="change_theme">變更主題</string>
+  <string name="unknown_author">作者不明</string>
+  <string name="font_preview_letters">AaBbCcDd123中文字</string>
+  <string name="price_free">免費</string>
+  <string name="error_invalid_response">說也奇怪，伺服器沒有回傳任何主題。</string>
+  <string name="retry">重試</string>
+  <string name="view_in_theme_chooser">在主題選擇器中檢視</string>
+  <string name="price_installed">已安裝</string>
 </resources>
