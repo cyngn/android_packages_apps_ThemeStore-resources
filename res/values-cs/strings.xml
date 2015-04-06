@@ -146,7 +146,7 @@
   <string name="get_themes">Získat motivy</string>
   <string name="eula_decline">Odmítnout</string>
   <string name="eula_accept">Přijmout</string>
-  <string name="eula_message">Používáním Obchodu s motivy souhlasíte s <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\"></xliff:g> podmínkami služby Cyanogen obchod s motivy.<![CDATA[<\a>]]></string>
+  <string name="eula_message">Používáním Obchodu s motivy souhlasíte s <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g> podmínkami služby Cyanogen obchod s motivy.<![CDATA[<\a>]]></string>
   <string name="sort_newest">Nejnovější</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Hodnocení</string>

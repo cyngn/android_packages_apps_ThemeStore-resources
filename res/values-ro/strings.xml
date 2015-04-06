@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Teme</string>
   <string name="purchase">Cumpărare</string>
   <string name="change_theme">Schimbă tema</string>
   <string name="unknown_author">Autor necunoscut</string>
@@ -24,5 +25,17 @@
   <string name="error_invalid_response">Ciudat, dar server-ul nu a returnat nicio temă.</string>
   <string name="retry">Reîncearcă</string>
   <string name="view_in_theme_chooser">Vezi în Alegere Teme</string>
+  <string name="paid_3rd_party_price">$</string>
+  <string name="my_themes">Temele mele</string>
+  <string name="category_sound_packs">Pachete sunet</string>
   <string name="price_installed">Instalat</string>
+  <string name="size">dimensiune</string>
+  <string name="about_theme_name">Despre %s</string>
+  <string name="rate_title_hint">Titlu</string>
+  <string name="cancel">Revocare</string>
+  <string name="error_dialog_button_text">OK</string>
+  <string name="about">Despre</string>
+  <string name="included_component_sound_pack">Pachet sunet</string>
+  <string name="included_component_wallpaper">Tapet</string>
+  <string name="sort_alphabetically">A-Z</string>
 </resources>
