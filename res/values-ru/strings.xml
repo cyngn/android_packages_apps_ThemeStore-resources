@@ -16,13 +16,57 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Темы</string>
+  <string name="search">Поиск</string>
+  <string name="search_hint">Найти темы</string>
+  <string name="featured">Рекомендуемые</string>
+  <string name="collections">Коллекции</string>
+  <string name="components">Компоненты</string>
+  <string name="showcase">Витрина</string>
+  <string name="my_stuff">Мои вещи</string>
+  <string name="theme_chooser">Темы</string>
+  <string name="settings">Настройки</string>
   <string name="purchase">Купить</string>
   <string name="change_theme">Изменить тему</string>
   <string name="unknown_author">Автор не указан</string>
   <string name="font_preview_letters">АаБбCcDd123</string>
   <string name="price_free">Бесплатно</string>
+  <string name="error_connection">Ошибка соединения</string>
   <string name="error_invalid_response">Как ни странно, сервер не передал сведения о темах.</string>
+  <string name="error_authentication">Обнаружена проблема с сервером авторизации.</string>
   <string name="retry">Повторить попытку</string>
   <string name="view_in_theme_chooser">Открыть в Диспетчере тем</string>
+  <string name="free">Бесплатно</string>
+  <string name="my_themes">Мои темы</string>
+  <string name="installed">Установленные</string>
+  <string name="category_icons">Значки</string>
+  <string name="category_status_bar">Строка состояния</string>
+  <string name="category_controls">Элементы управления</string>
+  <string name="category_fonts">Шрифты</string>
+  <string name="category_navigation_bar">Панель навигации</string>
+  <string name="category_boot_animations">Анимации загрузки</string>
+  <string name="category_wallpapers">Обои</string>
+  <string name="category_sound_packs">Наборы звуков</string>
+  <string name="update">Обновить</string>
+  <string name="read_more">Подробнее</string>
   <string name="price_installed">Установлено</string>
+  <string name="price_uninstall">Удалить</string>
+  <string name="apply">Применить</string>
+  <string name="applied">Применено</string>
+  <string name="version">версия</string>
+  <string name="size">размер</string>
+  <string name="downloads">%s скачиваний</string>
+  <string name="rate">Оценить</string>
+  <string name="rated">Оценено</string>
+  <string name="rate_title">Оценить %s</string>
+  <string name="submit">Отправить</string>
+  <string name="included_component_wallpaper">Обои</string>
+  <string name="included_component_lockscreen_wallpaper">Обои экрана блокировки</string>
+  <string name="recent_searches">Недавние запросы</string>
+  <string name="update_notification_x_more">+ещё %d</string>
+  <string name="no_themes_available">Ничего не найдено</string>
+  <string name="get_themes">Получить темы</string>
+  <string name="eula_decline">Отказаться</string>
+  <string name="eula_accept">Согласиться</string>
+  <string name="eula_message">Используя магазин тем, вы соглашаетесь с <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>условиями использования магазина тем Cyanogen.<![CDATA[<\a>]]></string>
 </resources>
