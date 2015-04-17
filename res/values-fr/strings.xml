@@ -31,7 +31,9 @@
   <string name="retry">Réessayer</string>
   <string name="view_in_theme_chooser">Afficher dans le sélecteur de thème</string>
   <string name="free">Gratuit</string>
+  <string name="no_updates">Tous les thèmes sont à jour</string>
   <string name="update_all">Tout mettre à jour</string>
+  <string name="checking_for_updates">Vérification des mises à jour\u2026</string>
   <string name="my_themes">Mes thèmes</string>
   <string name="category_icons">Icônes</string>
   <string name="category_status_bar">Barre d\'état</string>
@@ -40,6 +42,8 @@
   <string name="category_navigation_bar">Barre de navigation</string>
   <string name="category_boot_animations">Animations de démarrage</string>
   <string name="price_installed">Installé</string>
+  <string name="price_uninstall">Désinstaller</string>
+  <string name="apply">Appliquer</string>
   <string name="error_dialog_button_text">OK</string>
   <string name="about">À propos</string>
   <string name="sort_alphabetically">A-Z</string>

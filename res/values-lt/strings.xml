@@ -146,7 +146,7 @@
   <string name="get_themes">Gauti temų</string>
   <string name="eula_decline">Atsisakyti</string>
   <string name="eula_accept">Sutikti</string>
-  <string name="eula_message">Naudojant temų parduotuvę, jūs sutinkate su <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>„Cyanogen“ temų parduotuvės paslaugų teikimo sąlygomis.<![CDATA[<\a>]]></string>
+  <string name="eula_message">Naudodami temų parduotuvę, jūs sutinkate su <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>„Cyanogen“ temų parduotuvės paslaugų teikimo sąlygomis.<![CDATA[<\a>]]></string>
   <string name="sort_newest">Naujausia</string>
   <string name="sort_alphabetically">A - Z</string>
   <string name="sort_rating">Įvertinimas</string>
