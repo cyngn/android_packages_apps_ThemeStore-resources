@@ -129,5 +129,5 @@
   <string name="get_themes">Hae teemoja</string>
   <string name="eula_decline">Hylkää</string>
   <string name="eula_accept">Hyväksy</string>
-  <string name="eula_message">Käyttämällä Theme Storea, hyväksyt <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\"></xliff:g>Cyanogenin Theme Storen käyttöehdot<![CDATA[</a>]]></string>
+  <string name="eula_message">Käyttämällä Theme Storea, hyväksyt <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogenin Theme Storen käyttöehdot<![CDATA[</a>]]></string>
 </resources>

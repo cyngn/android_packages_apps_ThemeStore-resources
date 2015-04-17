@@ -15,4 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="settings">Ynstellingen</string>
+  <string name="cancel">Annulearje</string>
+</resources>
