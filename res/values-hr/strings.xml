@@ -15,4 +15,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="eula_message">Korištenjem Trgovine tema, prihvaćate <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g> Uvjete korištenja Cyanogen Trgovine tema.<![CDATA[<\a>]]></string>
+</resources>

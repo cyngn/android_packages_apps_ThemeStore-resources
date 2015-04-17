@@ -19,6 +19,7 @@
   <string name="app_name">Thèmes</string>
   <string name="search">Rechercher</string>
   <string name="search_hint">Trouver un thème</string>
+  <string name="collections">Collections</string>
   <string name="settings">Paramètres</string>
   <string name="purchase">Acheter</string>
   <string name="change_theme">Changer de thème</string>
@@ -30,9 +31,13 @@
   <string name="retry">Réessayer</string>
   <string name="view_in_theme_chooser">Afficher dans le sélecteur de thème</string>
   <string name="category_icons">Icônes</string>
+  <string name="category_status_bar">Barre d\'état</string>
   <string name="category_controls">Contrôles</string>
   <string name="category_fonts">Polices</string>
+  <string name="category_navigation_bar">Barre de navigation</string>
   <string name="category_wallpapers">Fonds d\'écran</string>
   <string name="price_installed">Installé</string>
+  <string name="rate">Noter</string>
+  <string name="rated">Noté</string>
   <string name="included_component_font">Police</string>
 </resources>
