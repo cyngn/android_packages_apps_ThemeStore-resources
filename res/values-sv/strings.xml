@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Temaväljare</string>
+  <string name="settings">Inställningar</string>
   <string name="purchase">Köp</string>
   <string name="change_theme">Ändra tema</string>
   <string name="unknown_author">Okänd upphovsman</string>

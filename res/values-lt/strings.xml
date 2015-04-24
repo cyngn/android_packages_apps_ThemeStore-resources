@@ -47,7 +47,7 @@
   <string name="category_controls">Valdymas</string>
   <string name="category_fonts">Šriftai</string>
   <string name="category_navigation_bar">Naršymo juosta</string>
-  <string name="category_boot_animations">Įkrovos animacijos</string>
+  <string name="category_boot_animations">Paleidimo animacijos</string>
   <string name="category_wallpapers">Darbalaukio fonai</string>
   <string name="category_sound_packs">Garso paketai</string>
   <string name="update">Atnaujinti</string>
@@ -70,7 +70,7 @@
   <string name="rated">Įvertinta</string>
   <plurals name="all_reviews_title">
     <item quantity="one">%s įvertinimas</item>
-    <item quantity="few">%s įvertinimų</item>
+    <item quantity="few">%s įvertinimai</item>
     <item quantity="other">%s įvertinimų</item>
   </plurals>
   <string name="rate_title">Įvertinti %s</string>
@@ -91,9 +91,9 @@
   <string name="installing_error_notification_text">Klaida diegiant %1$s</string>
   <string name="download_error_notification_text">Klaida atsisiunčiant</string>
   <string name="pm_error_notification_text">Nepavyko įdiegti temos: %1$s</string>
-  <string name="general">Bendri</string>
+  <string name="general">Bendra</string>
   <string name="about">Apie</string>
-  <string name="pref_title_download_notifications">Įspėjimai</string>
+  <string name="pref_title_download_notifications">Pranešimai</string>
   <string name="pref_summary_download_notifications">Pranešti, kai tema turi atnaujinimą</string>
   <string name="pref_title_update_connection_type">Automatinis atnaujinimas</string>
   <string name="pref_title_clear_search_history">Išvalyti paieškos istorija</string>
@@ -103,7 +103,7 @@
   <string name="pref_title_buildversion">Versijos numeris</string>
   <string name="pref_update_connection_type_never_update">Niekada neatnaujinti automatiškai</string>
   <string name="pref_update_connection_type_over_wifi">Atnaujinti automatiškai tik per „Wi-Fi“</string>
-  <string name="pref_update_connection_type_any_time">Automatiškai atnaujinti bet kuriuo metu</string>
+  <string name="pref_update_connection_type_any_time">Atnaujinti automatiškai bet kuriuo metu</string>
   <string name="included_components_header_title">Įtraukti komponentai</string>
   <string name="included_component_boot_animation">Paleidimo animacija</string>
   <string name="included_component_font">Šriftas</string>
@@ -119,7 +119,7 @@
   <string name="suggested_searches">Siūlomos paieškos</string>
   <plurals name="update_notification_title">
     <item quantity="one">%d temos atnaujinimas</item>
-    <item quantity="few">%d temų atnaujinimų</item>
+    <item quantity="few">%d temų atnaujinimai</item>
     <item quantity="other">%d temų atnaujinimų</item>
   </plurals>
   <plurals name="update_notification_msg">

@@ -19,6 +19,7 @@
   <string name="app_name">Motywy</string>
   <string name="search">Szukaj</string>
   <string name="search_hint">Znajdź motyw</string>
+  <string name="featured">Polecane</string>
   <string name="collections">Kolekcje</string>
   <string name="components">Składniki</string>
   <string name="my_stuff">Moje pliki</string>
