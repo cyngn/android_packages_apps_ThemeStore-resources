@@ -42,7 +42,7 @@
   <string name="all">Kaikki</string>
   <string name="for_sale">Myynnissä</string>
   <string name="premium">Premium</string>
-  <string name="paid_3rd_party_price">$</string>
+  <string name="paid_3rd_party_price">€</string>
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d päivitys saatavilla</item>
     <item quantity="other">%d päivitystä saatavilla</item>

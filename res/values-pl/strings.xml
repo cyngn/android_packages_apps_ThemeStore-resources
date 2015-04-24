@@ -86,6 +86,7 @@
     <item quantity="few">%s oceny</item>
     <item quantity="other">%s ocen</item>
   </plurals>
+  <string name="rate_title">Oceń %s</string>
   <string name="rate_title_hint">Tytuł</string>
   <string name="rate_message_hint">Wiadomość</string>
   <string name="submit">Wyślij</string>
@@ -116,6 +117,7 @@
   <string name="pref_update_connection_type_never_update">Nigdy nie aktualizuj automatycznie</string>
   <string name="pref_update_connection_type_over_wifi">Automatyczna aktualizacja tylko przez Wi-Fi</string>
   <string name="pref_update_connection_type_any_time">Automatyczna aktualizacja zawsze</string>
+  <string name="included_components_header_title">Zawiera</string>
   <string name="included_component_boot_animation">Animacja uruchamiania</string>
   <string name="included_component_font">Czcionka</string>
   <string name="included_component_icon_pack">Paczka ikon</string>

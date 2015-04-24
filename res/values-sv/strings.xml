@@ -16,6 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Temaväljare</string>
+  <string name="theme_packs">Temapaket</string>
+  <string name="settings">Inställningar</string>
   <string name="purchase">Köp</string>
   <string name="change_theme">Ändra tema</string>
   <string name="unknown_author">Okänd upphovsman</string>
@@ -24,5 +27,6 @@
   <string name="error_invalid_response">Servern returnerade inga teman.</string>
   <string name="retry">Försök igen</string>
   <string name="view_in_theme_chooser">Visa i temaväljaren</string>
+  <string name="all">Alla</string>
   <string name="price_installed">Installerad</string>
 </resources>

@@ -21,14 +21,17 @@
   <string name="search_hint">Finde ein Design</string>
   <string name="theme_packs">Designpakete</string>
   <string name="components">Komponenten</string>
+  <string name="theme_chooser">Designs</string>
   <string name="settings">Einstellungen</string>
   <string name="purchase">Kaufen</string>
   <string name="change_theme">Design ändern</string>
   <string name="unknown_author">Autor unbekannt</string>
+  <string name="available_via_store">Erhältlich im %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Kostenlos</string>
   <string name="error_connection">Verbindungsfehler</string>
   <string name="error_invalid_response">Die Server-Anfrage lieferte keine Designs zurück</string>
+  <string name="error_authentication">Es gibt ein Problem mit dem Authentifizierungsserver.</string>
   <string name="retry">Wiederholen</string>
   <string name="view_in_theme_chooser">In der Designauswahl anzeigen</string>
   <string name="free">Kostenlos</string>
