@@ -56,6 +56,7 @@
   <string name="installed">Zainstalowane</string>
   <string name="category_icons">Ikony</string>
   <string name="category_status_bar">Pasek stanu</string>
+  <string name="category_controls">Przełączniki</string>
   <string name="category_fonts">Czcionki</string>
   <string name="category_navigation_bar">Pasek nawigacji</string>
   <string name="category_boot_animations">Animacje uruchamiania</string>
@@ -124,6 +125,7 @@
   <string name="included_component_navigation_bar">Pasek nawigacji</string>
   <string name="included_component_sound_pack">Paczka dźwięków</string>
   <string name="included_component_status_bar">Pasek stanu</string>
+  <string name="included_component_controls">Przełączniki</string>
   <string name="included_component_wallpaper">Tapeta</string>
   <string name="included_component_lockscreen_wallpaper">Tapeta ekranu blokady</string>
   <string name="recent_searches">Ostatnie wyszukiwania</string>
@@ -144,6 +146,7 @@
   <string name="get_themes">Pobierz motywy</string>
   <string name="eula_decline">Odrzuć</string>
   <string name="eula_accept">Akceptuj</string>
+  <string name="eula_message">Korzystając ze Sklepu Motywów, zgadzasz się na <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Warunki Usługi Sklep Motywów Cyanogen.<![CDATA[<\a>]]></string>
   <string name="sort_newest">Najnowsze</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Najlepiej oceniane</string>
