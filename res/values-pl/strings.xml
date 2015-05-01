@@ -22,6 +22,7 @@
   <string name="featured">Polecane</string>
   <string name="collections">Kolekcje</string>
   <string name="components">Składniki</string>
+  <string name="showcase">Pokaz</string>
   <string name="my_stuff">Moje pliki</string>
   <string name="theme_chooser">Menedżer Motywów</string>
   <string name="settings">Ustawienia</string>
@@ -43,6 +44,7 @@
   <string name="installed">Zainstalowane</string>
   <string name="category_icons">Ikony</string>
   <string name="category_status_bar">Pasek stanu</string>
+  <string name="category_controls">Przełączniki</string>
   <string name="category_fonts">Czcionki</string>
   <string name="category_navigation_bar">Pasek nawigacji</string>
   <string name="category_boot_animations">Animacje uruchamiania</string>
@@ -71,6 +73,7 @@
     <item quantity="few">%s oceny</item>
     <item quantity="other">%s ocen</item>
   </plurals>
+  <string name="rate_title">Oceń %s</string>
   <string name="rate_title_hint">Tytuł</string>
   <string name="rate_message_hint">Wiadomość</string>
   <string name="submit">Wyślij</string>
@@ -101,12 +104,14 @@
   <string name="pref_update_connection_type_never_update">Nigdy nie aktualizuj automatycznie</string>
   <string name="pref_update_connection_type_over_wifi">Automatyczna aktualizacja tylko przez Wi-Fi</string>
   <string name="pref_update_connection_type_any_time">Automatyczna aktualizacja zawsze</string>
+  <string name="included_components_header_title">Zawiera</string>
   <string name="included_component_boot_animation">Animacja uruchamiania</string>
   <string name="included_component_font">Czcionka</string>
   <string name="included_component_icon_pack">Paczka ikon</string>
   <string name="included_component_navigation_bar">Pasek nawigacji</string>
   <string name="included_component_sound_pack">Paczka dźwięków</string>
   <string name="included_component_status_bar">Pasek stanu</string>
+  <string name="included_component_controls">Przełączniki</string>
   <string name="included_component_wallpaper">Tapeta</string>
   <string name="included_component_lockscreen_wallpaper">Tapeta ekranu blokady</string>
   <string name="recent_searches">Ostatnie wyszukiwania</string>
@@ -127,4 +132,5 @@
   <string name="get_themes">Pobierz motywy</string>
   <string name="eula_decline">Odrzuć</string>
   <string name="eula_accept">Akceptuj</string>
+  <string name="eula_message">Korzystając ze Sklepu Motywów, zgadzasz się na <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Warunki Usługi Sklep Motywów Cyanogen.<![CDATA[<\a>]]></string>
 </resources>

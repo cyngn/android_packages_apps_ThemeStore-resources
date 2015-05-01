@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="search">گه‌ڕان</string>
+  <string name="settings">ڕێکخستنەکان</string>
   <string name="purchase">کڕاوەکان</string>
   <string name="change_theme">گۆڕینی ڕووکار</string>
   <string name="unknown_author">دانەر نەناسراوە</string>
@@ -25,4 +27,5 @@
   <string name="retry">هەوڵدانەوە</string>
   <string name="view_in_theme_chooser">بینین لە هەڵبژاردنی رووکارەکاندا</string>
   <string name="price_installed">دابەزێنراوە</string>
+  <string name="apply">جێبه‌جێکردن</string>
 </resources>

@@ -19,6 +19,7 @@
   <string name="app_name">Designs</string>
   <string name="search">Suche</string>
   <string name="components">Komponenten</string>
+  <string name="theme_chooser">Designauswahl</string>
   <string name="settings">Einstellungen</string>
   <string name="purchase">Kaufen</string>
   <string name="change_theme">Design ändern</string>
