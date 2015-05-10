@@ -16,7 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">سیم</string>
   <string name="search">گه‌ڕان</string>
+  <string name="theme_chooser">گۆڕه‌ری باکگراوه‌ند</string>
   <string name="settings">ڕێکخستنەکان</string>
   <string name="purchase">کڕاوەکان</string>
   <string name="change_theme">گۆڕینی ڕووکار</string>
@@ -26,6 +28,15 @@
   <string name="error_invalid_response">پەیوەندی نیە، ڕاژەکار هیچ ڕووکارێکی نەگێڕایەوە.</string>
   <string name="retry">هەوڵدانەوە</string>
   <string name="view_in_theme_chooser">بینین لە هەڵبژاردنی رووکارەکاندا</string>
+  <string name="free">خۆڕایی</string>
+  <string name="for_sale">فرۆشی</string>
+  <string name="category_fonts">فۆنته‌کان</string>
+  <string name="update">نوێ کردنەوە</string>
   <string name="price_installed">دابەزێنراوە</string>
   <string name="apply">جێبه‌جێکردن</string>
+  <string name="version">وەشان</string>
+  <string name="size">قەبارە</string>
+  <string name="rate">ڕێژە</string>
+  <string name="rate_message_hint">کورتە نامە</string>
+  <string name="delete">سڕینەوە</string>
 </resources>
