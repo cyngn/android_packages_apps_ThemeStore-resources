@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Gaiak</string>
+  <string name="featured">Nabarmendua</string>
   <string name="purchase">Erosi</string>
   <string name="change_theme">Gaia aldatu</string>
   <string name="unknown_author">Autore ezezaguna</string>
@@ -25,4 +27,7 @@
   <string name="retry">Berriro saiatu</string>
   <string name="view_in_theme_chooser">Gai hautatzailean ikusi</string>
   <string name="price_installed">Instalatuta</string>
+  <string name="delete">Ezabatu</string>
+  <string name="pref_summary_clear_sarch_history">Aurretik egin dituzun bilaketa guztiak ezabatzen ditu</string>
+  <string name="pref_update_connection_type_over_wifi">Automatikoki eguneratu Wi-Fi bidez soilik</string>
 </resources>
