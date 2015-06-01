@@ -82,6 +82,11 @@
   <string name="downloads">%s stiahnutí</string>
   <string name="rate">Ohodnotiť</string>
   <string name="rated">Ohodnotené</string>
+  <plurals name="all_reviews_title">
+    <item quantity="one">%s hodnotenie</item>
+    <item quantity="few">%s hodnotenia</item>
+    <item quantity="other">%s hodnotení</item>
+  </plurals>
   <string name="rate_title">Ohodnotiť %s</string>
   <string name="rate_title_hint">Názov</string>
   <string name="rate_message_hint">Správa</string>

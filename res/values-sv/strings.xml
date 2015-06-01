@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Temaväljare</string>
+  <string name="search">Sök</string>
   <string name="theme_packs">Temapaket</string>
   <string name="settings">Inställningar</string>
   <string name="purchase">Köp</string>
