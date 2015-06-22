@@ -18,9 +18,12 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Designs</string>
   <string name="search">Suche</string>
+  <string name="search_hint">Design finden</string>
   <string name="featured">Empfohlen</string>
   <string name="collections">Sammlungen</string>
   <string name="components">Komponenten</string>
+  <string name="showcase">Vorstellung</string>
+  <string name="my_stuff">Meine Sachen</string>
   <string name="theme_chooser">Designauswahl</string>
   <string name="settings">Einstellungen</string>
   <string name="purchase">Kaufen</string>
@@ -31,6 +34,7 @@
   <string name="error_connection">Verbindungsfehler</string>
   <string name="error_invalid_response">Die Server-Anfrage lieferte keine Designs zurück</string>
   <string name="error_authentication">Es gibt ein Problem mit dem Authentifizierungsserver.</string>
+  <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen.</string>
   <string name="retry">Wiederholen</string>
   <string name="view_in_theme_chooser">In der Designauswahl anzeigen</string>
   <string name="free">Kostenlos</string>
@@ -125,4 +129,5 @@
   <string name="get_themes">Designs beziehen</string>
   <string name="eula_decline">Ablehnen</string>
   <string name="eula_accept">Akzeptieren</string>
+  <string name="eula_message">Durch Verwenden des Theme Stores stimmen Sie den <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Theme Store Nutzungsbedingungen<![CDATA[<\a>]]> zu.</string>
 </resources>

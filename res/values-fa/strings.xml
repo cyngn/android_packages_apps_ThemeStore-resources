@@ -15,4 +15,17 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">مضامین</string>
+  <string name="my_themes">مضامین من</string>
+  <string name="category_status_bar">نوار وضعیت</string>
+  <string name="category_wallpapers">کاغذدیواری‌ها</string>
+  <string name="delete">حذف</string>
+  <string name="cancel">لغو</string>
+  <string name="pref_title_download_notifications">اعلان‎ها</string>
+  <string name="pref_title_buildversion">نسخه ساخت</string>
+  <string name="pref_update_connection_type_over_wifi">بروزرسانی خودکار فقط از طریق وای‌فای</string>
+  <string name="included_component_status_bar">نوار وضعیت</string>
+  <string name="included_component_wallpaper">کاغذدیواری</string>
+  <string name="included_component_lockscreen_wallpaper">کاغذدیواری قفل صفحه</string>
+</resources>
