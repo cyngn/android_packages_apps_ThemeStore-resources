@@ -18,6 +18,7 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Teme</string>
   <string name="search">Căutare</string>
+  <string name="components">Componente</string>
   <string name="settings">Setări</string>
   <string name="purchase">Cumpărare</string>
   <string name="change_theme">Schimbă tema</string>
@@ -28,13 +29,18 @@
   <string name="error_invalid_response">Ciudat, dar server-ul nu a returnat nicio temă.</string>
   <string name="retry">Reîncearcă</string>
   <string name="view_in_theme_chooser">Vezi în Alegere Teme</string>
+  <string name="all">Toate</string>
   <string name="premium">Premium</string>
   <string name="paid_3rd_party_price">$</string>
   <string name="my_themes">Temele mele</string>
+  <string name="installed">Instalat</string>
   <string name="category_icons">Pictograme</string>
   <string name="category_status_bar">Bara de stare</string>
+  <string name="category_controls">Controale</string>
+  <string name="category_fonts">Fonturi</string>
   <string name="category_navigation_bar">Bara de navigare</string>
   <string name="category_boot_animations">Animații pornire</string>
+  <string name="category_wallpapers">Tapete</string>
   <string name="category_sound_packs">Pachete sunet</string>
   <string name="update">Actualizare</string>
   <string name="price_installed">Instalat</string>
@@ -45,12 +51,18 @@
   <string name="rate_message_hint">Mesaj</string>
   <string name="cancel">Revocare</string>
   <string name="error_dialog_button_text">OK</string>
+  <string name="general">Generale</string>
   <string name="about">Despre</string>
   <string name="pref_title_download_notifications">Notificări</string>
+  <string name="included_component_boot_animation">Animație pornire</string>
   <string name="included_component_navigation_bar">Bara de navigare</string>
   <string name="included_component_sound_pack">Pachet sunet</string>
   <string name="included_component_status_bar">Bara de stare</string>
+  <string name="included_component_controls">Controale</string>
   <string name="included_component_wallpaper">Tapet</string>
+  <string name="recent_searches">Căutări recente</string>
   <string name="no_recent_searches">Nu există căutări recente</string>
+  <string name="no_themes_available">Niciun rezultat</string>
+  <string name="eula_accept">Accept</string>
   <string name="sort_alphabetically">A-Z</string>
 </resources>

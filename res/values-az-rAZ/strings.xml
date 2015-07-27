@@ -24,5 +24,7 @@
   <string name="error_invalid_response">Qəribədir ki, server heç tema göndərməyib.</string>
   <string name="retry">Yenidən yoxla</string>
   <string name="view_in_theme_chooser">Tema Seçicidə göstər</string>
+  <string name="category_navigation_bar">Hərəkət zolağı</string>
   <string name="price_installed">Quraşdırılıb</string>
+  <string name="included_component_navigation_bar">Hərəkət zolağı</string>
 </resources>
