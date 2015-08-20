@@ -142,7 +142,7 @@
   <string name="get_themes">Obtenir des thèmes</string>
   <string name="eula_decline">Refuser</string>
   <string name="eula_accept">Accepter</string>
-  <string name="eula_message">En utilisant le Theme Store, vous acceptez les < xliff:g id = "eula_link" ><! [CDATA [< un href = \ "https://cyngn.com/legal/themestore-eula ">]]></xliff:g>Conditions d\'utilisation du Theme Store Cyanogen.<![CDATA[<\a>]]></string>
+  <string name="eula_message">En utilisant le Theme Store, vous acceptez les <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Conditions d\'utilisation du Theme Store Cyanogen.<![CDATA[<\a>]]></string>
   <string name="sort_newest">Plus récent</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Notation</string>

@@ -142,7 +142,7 @@
   <string name="get_themes">Få temaer</string>
   <string name="eula_decline">Avbryt</string>
   <string name="eula_accept">Godta</string>
-  <string name="eula_message">Ved å bruke tema butikken, godtar du <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\"></xliff:g>Cyanogen tema Store vilkårene. <![CDATA[<\a>]]></string>
+  <string name="eula_message">Ved å bruke tema butikken, godtar du <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen tema Store vilkårene.<![CDATA[<\a>]]></string>
   <string name="sort_newest">Nyeste</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Vurdering</string>
