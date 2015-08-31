@@ -31,6 +31,7 @@
   <string name="price_free">Gratuit</string>
   <string name="error_connection">Eroare de conexiune</string>
   <string name="error_invalid_response">Ciudat, dar server-ul nu a returnat nicio temă.</string>
+  <string name="error_authentication">A existat o problemă cu serverul de autentificare.</string>
   <string name="error_nav_item_needs_authentication">Opțiune indisponibilă până când sunteți autentificat. Ați apăsat butonul de reîncercare?</string>
   <string name="retry">Reîncearcă</string>
   <string name="view_in_theme_chooser">Vezi în Alegere Teme</string>
@@ -47,6 +48,7 @@
   <string name="no_updates">Toate temele actualizate</string>
   <string name="update_all">Actualizați toate</string>
   <string name="checking_for_updates">Verificare pentru actualizări\u2026</string>
+  <string name="updating_pkgname">Actualizând \"%s\"\u2026</string>
   <string name="my_themes">Temele mele</string>
   <string name="installed">Instalat</string>
   <string name="category_icons">Pictograme</string>
@@ -62,6 +64,7 @@
   <string name="contact_the_designer">Contactați proiectantul</string>
   <string name="visit_website">Vizitați site-ul</string>
   <string name="more_by_this_designer">Mai multe de acest designer</string>
+  <string name="report_theme">Raportați tema</string>
   <string name="price_installed">Instalat</string>
   <string name="price_uninstall">Dezinstalați</string>
   <string name="version">versiune</string>
@@ -75,12 +78,15 @@
   <string name="rate_message_hint">Mesaj</string>
   <string name="submit">Trimite</string>
   <string name="delete">Ștergeți</string>
+  <string name="rate_the_theme">Vă rugăm să evaluați această temă între 1 și 5 stele</string>
+  <string name="report_dialog_title">Raportați tema</string>
   <string name="report_dialog_reason_title">Motivul de raportare:</string>
   <string name="report_dialog_reason_sexual_graphic">Conținut sexual sau grafic</string>
   <string name="report_dialog_reason_abusive_hateful">Conținut abuziv sau de ură</string>
   <string name="cancel">Revocare</string>
   <string name="installing">Instalare</string>
   <string name="error_dialog_button_text">OK</string>
+  <string name="download_error_notification_text">Eroare de descărcare</string>
   <string name="pm_error_notification_text">Nu s-a putut instala tema: %1$s</string>
   <string name="general">Generale</string>
   <string name="about">Despre</string>
@@ -101,6 +107,11 @@
   <string name="recent_searches">Căutări recente</string>
   <string name="no_recent_searches">Nu există căutări recente</string>
   <string name="suggested_searches">Căutări sugerate</string>
+  <plurals name="update_notification_msg">
+    <item quantity="one">Atingeți pentru a actualiza %s</item>
+    <item quantity="few">Atingeți pentru a actualiza %1$s și %2$s</item>
+    <item quantity="other">Atingeți pentru a actualiza %1$s și %2$s</item>
+  </plurals>
   <string name="update_notification_x_more">+%d mai multe</string>
   <string name="no_themes_available">Niciun rezultat</string>
   <string name="eula_decline">Declin</string>
