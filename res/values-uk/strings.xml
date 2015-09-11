@@ -147,7 +147,7 @@
   <string name="eula_decline">Відхилити</string>
   <string name="eula_accept">Прийняти</string>
   <string name="eula_message">Використовуючи Крамницю Тем, ви погоджуєтесь на <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Умови використання крамниці тем Cyanogen.<![CDATA[<\a>]]></string>
-  <string name="sort_newest">Новітні</string>
+  <string name="sort_newest">Найновійші</string>
   <string name="sort_alphabetically">А-Я</string>
   <string name="sort_rating">З високою оцінкою</string>
   <string name="sort_popular">Популярні</string>
