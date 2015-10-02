@@ -46,7 +46,6 @@
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d ажурирање доступно</item>
     <item quantity="few">%d ажурирања доступна</item>
-    <item quantity="many">%d ажурирања доступна</item>
     <item quantity="other">%d ажурирања доступна</item>
   </plurals>
   <string name="no_updates">Све теме су ажуриране</string>
@@ -86,7 +85,6 @@
   <plurals name="all_reviews_title">
     <item quantity="one">%s оцена</item>
     <item quantity="few">%s оцене</item>
-    <item quantity="many">%s оцене</item>
     <item quantity="other">%s оцене</item>
   </plurals>
   <string name="rate_title">Оцена %s</string>
@@ -136,13 +134,11 @@
   <plurals name="update_notification_title">
     <item quantity="one">%d ажурирање теме</item>
     <item quantity="few">%d ажурирања теме</item>
-    <item quantity="many">%d ажурирања теме</item>
     <item quantity="other">%d ажурирања теме</item>
   </plurals>
   <plurals name="update_notification_msg">
     <item quantity="one">Додирни за ажурирање %s</item>
     <item quantity="few">Додирни за ажурирања %1$s и %2$s</item>
-    <item quantity="many">Додирни за ажурирања %1$s и %2$s</item>
     <item quantity="other">Додирни за ажурирања %1$s и %2$s</item>
   </plurals>
   <string name="update_notification_x_more">+%d више</string>
