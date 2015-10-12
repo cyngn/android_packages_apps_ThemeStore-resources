@@ -55,6 +55,7 @@
   <string name="category_status_bar">Statusläischt</string>
   <string name="category_controls">Steierelementer</string>
   <string name="category_fonts">Schrëften</string>
+  <string name="category_navigation_bar">Navigatiounsläischt</string>
   <string name="category_boot_animations">Startanimatiounen</string>
   <string name="category_wallpapers">Hannergrondbiller</string>
   <string name="category_sound_packs">Tounpäck</string>
@@ -114,6 +115,7 @@
   <string name="get_themes">Designen eroflueden</string>
   <string name="eula_decline">Refuséieren</string>
   <string name="eula_accept">Acceptéieren</string>
+  <string name="sort_newest">Neist</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Bewäertung</string>
   <string name="sort_popular">Beléift</string>
