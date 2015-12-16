@@ -99,7 +99,7 @@
   <string name="updating">更新中</string>
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">%1$sをインストール中にエラーが発生しました</string>
-  <string name="download_error_notification_text">ダウンロード中にエラーが発生しました</string>
+  <string name="download_error_notification_text">ダウンロードでエラーが発生しました</string>
   <string name="pm_error_notification_text">テーマをインストールできませんでした: %1$s</string>
   <string name="general">全般</string>
   <string name="about">情報</string>
