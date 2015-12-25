@@ -47,7 +47,7 @@
     <item quantity="one">%d güncelleme mevcut</item>
     <item quantity="other">%d güncelleme mevcut</item>
   </plurals>
-  <string name="no_updates">Tüm Temalar güncel</string>
+  <string name="no_updates">Tüm temalar güncel</string>
   <string name="update_all">Tümünü güncelle</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor\u2026</string>
   <string name="updating_pkgname">\'%s\' güncelleniyor\u2026</string>
@@ -67,7 +67,7 @@
   <string name="visit_website">Web sitesini ziyaret edin</string>
   <string name="email_designer">Tasarımcıya e-posta atın</string>
   <string name="more_by_this_designer">Tasarımcının diğer ürünleri</string>
-  <string name="report_theme">Temayı raporla</string>
+  <string name="report_theme">Temayı rapor et</string>
   <string name="send_email_chooser">E-posta gönder;</string>
   <string name="price_installed">Yüklü</string>
   <string name="price_uninstall">Kaldır</string>
