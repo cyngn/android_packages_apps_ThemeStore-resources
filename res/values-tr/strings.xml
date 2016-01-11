@@ -68,7 +68,7 @@
   <string name="email_designer">Tasarımcıya e-posta atın</string>
   <string name="more_by_this_designer">Tasarımcının diğer ürünleri</string>
   <string name="report_theme">Temayı rapor et</string>
-  <string name="send_email_chooser">E-posta gönder;</string>
+  <string name="send_email_chooser">\u2026 aracılığıyla e-posta gönder</string>
   <string name="price_installed">Yüklü</string>
   <string name="price_uninstall">Kaldır</string>
   <string name="apply">Uygula</string>
@@ -76,9 +76,9 @@
   <string name="version">sürüm</string>
   <string name="size">boyut</string>
   <string name="incompatible_outdated">%s CM\'nin eski bir sürümü için tasarlanmıştır. Bu tema ile uyumluluk sorunlarıyla karşılaşabilirsiniz.</string>
-  <string name="incompatible_newer">%s CM\'nin daha yeni bir sürümü için tasarlanmıştır ve yüklenemez.</string>
+  <string name="incompatible_newer">%s, CM\'nin daha yeni bir sürümü için tasarlanmıştır ve yüklenemez.</string>
   <string name="about_theme_name">%s hakkında</string>
-  <string name="downloads">%s kere indirildi</string>
+  <string name="downloads">%s indirme</string>
   <string name="rate">Oyla</string>
   <string name="rated">Değerlendirildi</string>
   <plurals name="all_reviews_title">
@@ -142,7 +142,7 @@
   <string name="get_themes">Temaları alın</string>
   <string name="eula_decline">Reddet</string>
   <string name="eula_accept">Kabul et</string>
-  <string name="eula_message">Tema Mağazasını kullanarak, <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Tema Mağazası Hizmet Şartlarını<![CDATA[<\a>]]> kabul etmiş sayılırsınız</string>
+  <string name="eula_message">Tema Mağazasını kullanarak <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Tema Mağazası Hizmet Şartları\'nı<![CDATA[<\a>]]> kabul etmiş sayılırsınız</string>
   <string name="sort_newest">En yeni</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Değerlendirme</string>

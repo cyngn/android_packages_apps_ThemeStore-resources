@@ -26,10 +26,18 @@
   <string name="my_stuff">أشيائي</string>
   <string name="theme_chooser">اختيار السمة</string>
   <string name="settings">إعدادات</string>
+  <string name="purchase">شراء</string>
+  <string name="change_theme">تغيير السمة</string>
+  <string name="unknown_author">مؤلف غير معروف</string>
   <string name="available_via_store">متاح عبر %s</string>
+  <string name="font_preview_letters">AaBbCcDd123</string>
+  <string name="price_free">مجاناً</string>
   <string name="error_connection">خطأ في الاتصال</string>
+  <string name="error_invalid_response">من الغريب، لم يرجع الخادم أي سمات.</string>
   <string name="error_authentication">هناك مشكلة في خادم المصادقة.</string>
   <string name="error_nav_item_needs_authentication">الخيار غير متوفر حتى المصادقة. هل ضغطت على زر إعادة المحاولة؟</string>
+  <string name="retry">إعادة المحاولة</string>
+  <string name="view_in_theme_chooser">عرض في محدد السمة</string>
   <string name="free">مجاناً</string>
   <string name="all">الكل</string>
   <string name="for_sale">للبيع</string>
@@ -65,6 +73,7 @@
   <string name="more_by_this_designer">المزيد من أعمال هذا المصمم</string>
   <string name="report_theme">الإبلاغ عن سمة</string>
   <string name="send_email_chooser">إرسال البريد الإلكتروني عبر\u2026</string>
+  <string name="price_installed">مثبت</string>
   <string name="price_uninstall">إلغاء تثبيت</string>
   <string name="apply">تطبيق</string>
   <string name="applied">مطبق</string>

@@ -15,4 +15,38 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Teme</string>
+  <string name="search">Pretraživanje</string>
+  <string name="search_hint">Pronađite temu</string>
+  <string name="featured">Istaknute</string>
+  <string name="theme_packs">Paketi tema</string>
+  <string name="components">Komponente</string>
+  <string name="showcase">Izlog</string>
+  <string name="my_stuff">Moje stvari</string>
+  <string name="theme_chooser">Birač tema</string>
+  <string name="settings">Postavke</string>
+  <string name="purchase">Kupi</string>
+  <string name="change_theme">Promijeni temu</string>
+  <string name="unknown_author">Nepoznati autor</string>
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d ažuriranje dostupno</item>
+    <item quantity="few">%d ažuriranja dostupna</item>
+    <item quantity="other">%d ažuriranja dostupno</item>
+  </plurals>
+  <plurals name="all_reviews_title">
+    <item quantity="one">%s ocjena</item>
+    <item quantity="few">%s ocjene</item>
+    <item quantity="other">%s ocjena</item>
+  </plurals>
+  <plurals name="update_notification_title">
+    <item quantity="one">%d ažuriranje teme</item>
+    <item quantity="few">%d ažuriranja tema</item>
+    <item quantity="other">%d ažuriranja tema</item>
+  </plurals>
+  <plurals name="update_notification_msg">
+    <item quantity="one">Dodirni za ažuriranje %s</item>
+    <item quantity="few">Dodirni za ažuriranja %1$s i %2$s</item>
+    <item quantity="other">Dodirni za ažuriranja %1$s i %2$s</item>
+  </plurals>
+</resources>
