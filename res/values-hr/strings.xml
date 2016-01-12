@@ -15,4 +15,18 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">Teme</string>
+  <string name="search">Pretraživanje</string>
+  <string name="search_hint">Pronađite temu</string>
+  <string name="featured">Istaknute</string>
+  <string name="theme_packs">Paketi tema</string>
+  <string name="components">Komponente</string>
+  <string name="showcase">Izlog</string>
+  <string name="my_stuff">Moje stvari</string>
+  <string name="theme_chooser">Birač tema</string>
+  <string name="settings">Postavke</string>
+  <string name="purchase">Kupi</string>
+  <string name="change_theme">Promijeni temu</string>
+  <string name="unknown_author">Nepoznati autor</string>
+</resources>

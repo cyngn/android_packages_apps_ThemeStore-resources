@@ -68,6 +68,8 @@
   <string name="email_designer">Tasarımcıya e-posta atın</string>
   <string name="more_by_this_designer">Tasarımcının diğer ürünleri</string>
   <string name="report_theme">Temayı rapor et</string>
+  <string name="send_email_chooser">\u2026 aracılığıyla e-posta gönder</string>
+  <string name="price_installed">Yüklü</string>
   <string name="price_uninstall">Kaldır</string>
   <string name="apply">Uygula</string>
   <string name="applied">Uygulandı</string>
@@ -86,8 +88,11 @@
   <string name="rate_title">%s ögesini değerlendir</string>
   <string name="rate_title_hint">Başlık</string>
   <string name="rate_message_hint">Mesaj</string>
+  <string name="submit">Gönder</string>
+  <string name="delete">Sil</string>
   <string name="rate_the_theme">Lütfen bu temayı 1 ile 5 yıldız arasında değerlendirin</string>
   <string name="report_dialog_title">Temayı raporla</string>
+  <string name="report_dialog_reason_title">Raporlama nedeni:</string>
   <string name="report_dialog_reason_sexual_graphic">Cinsel veya grafik içerik</string>
   <string name="report_dialog_reason_abusive_hateful">Kötü niyetli veya nefret dolu içerik</string>
   <string name="cancel">İptal</string>
@@ -102,6 +107,9 @@
   <string name="about">Hakkında</string>
   <string name="pref_title_download_notifications">Bildirimler</string>
   <string name="pref_summary_download_notifications">Bir tema güncellemesi olduğunda bana bildir</string>
+  <string name="pref_title_update_connection_type">Otomatik güncelleme</string>
+  <string name="pref_title_clear_search_history">Arama geçmişini temizle</string>
+  <string name="pref_summary_clear_sarch_history">Gerçekleştirdiğiniz tüm aramaları kaldırır</string>
   <string name="pref_summary_opensource_licenses">Açık kaynak yazılım için lisans ayrıntıları</string>
   <string name="pref_title_opensource_licenses">Açık kaynak lisansları</string>
   <string name="pref_title_buildversion">İnşa sürümü</string>
@@ -110,14 +118,34 @@
   <string name="pref_update_connection_type_any_time">Her zaman otomatik güncelle</string>
   <string name="included_components_header_title">İçerdiği bileşenler</string>
   <string name="included_component_boot_animation">Açılış animasyonu</string>
+  <string name="included_component_font">Yazı tipi</string>
+  <string name="included_component_icon_pack">Simge paketi</string>
   <string name="included_component_navigation_bar">Dolaşım çubuğu</string>
   <string name="included_component_sound_pack">Ses paketi</string>
   <string name="included_component_status_bar">Durum çubuğu</string>
+  <string name="included_component_controls">Kontroller</string>
+  <string name="included_component_wallpaper">Duvar kağıdı</string>
   <string name="included_component_lockscreen_wallpaper">Kilit ekranı duvar kağıdı</string>
   <string name="recent_searches">Son aramalar</string>
   <string name="no_recent_searches">Son arama yok</string>
+  <string name="suggested_searches">Önerilen aramalar</string>
+  <plurals name="update_notification_title">
+    <item quantity="one">%d tema güncellemesi</item>
+    <item quantity="other">%d tema güncellemesi</item>
+  </plurals>
+  <plurals name="update_notification_msg">
+    <item quantity="one">%s güncellemesi için dokunun</item>
+    <item quantity="other">%1$s ve %2$s güncellemeleri için dokunun</item>
+  </plurals>
   <string name="update_notification_x_more">+%d daha</string>
   <string name="no_themes_available">Sonuç yok</string>
+  <string name="get_themes">Temaları alın</string>
+  <string name="eula_decline">Reddet</string>
+  <string name="eula_accept">Kabul et</string>
   <string name="eula_message">Tema Mağazasını kullanarak <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Tema Mağazası Hizmet Şartları\'nı<![CDATA[<\a>]]> kabul etmiş sayılırsınız</string>
   <string name="sort_newest">En yeni</string>
+  <string name="sort_alphabetically">A-Z</string>
+  <string name="sort_rating">Değerlendirme</string>
+  <string name="sort_popular">Popüler</string>
+  <string name="play_store">Play Store</string>
 </resources>
