@@ -67,6 +67,7 @@
   <string name="report_theme">Raportați tema</string>
   <string name="price_installed">Instalat</string>
   <string name="price_uninstall">Dezinstalați</string>
+  <string name="applied">Aplicate</string>
   <string name="version">versiune</string>
   <string name="size">dimensiune</string>
   <string name="about_theme_name">Despre %s</string>

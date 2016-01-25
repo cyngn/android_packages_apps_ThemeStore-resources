@@ -110,6 +110,14 @@
   <string name="included_component_lockscreen_wallpaper">Spärschierm-Hannergrondbild</string>
   <string name="recent_searches">Rezent Sichbegrëffer</string>
   <string name="no_recent_searches">Keng rezent Sichbegrëffer</string>
+  <plurals name="update_notification_title">
+    <item quantity="one">%d Design-Aktualiséierung</item>
+    <item quantity="other">%d Design-Aktualiséierungen</item>
+  </plurals>
+  <plurals name="update_notification_msg">
+    <item quantity="one">Beréiere fir %s ze aktualiséieren</item>
+    <item quantity="other">Beréiere fir %1$s an %2$s ze aktualiséieren</item>
+  </plurals>
   <string name="update_notification_x_more">+%d méi</string>
   <string name="no_themes_available">Keng Resultater</string>
   <string name="get_themes">Designen eroflueden</string>
