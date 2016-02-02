@@ -70,10 +70,16 @@
   <string name="applied">Aplicate</string>
   <string name="version">versiune</string>
   <string name="size">dimensiune</string>
+  <string name="incompatible_newer">%s a fost conceput pentru o versiune mai nouă de CM și nu poate fi instalat.</string>
   <string name="about_theme_name">Despre %s</string>
   <string name="downloads">%s descărcări</string>
   <string name="rate">Evaluare</string>
   <string name="rated">Evaluat</string>
+  <plurals name="all_reviews_title">
+    <item quantity="one">%s evaluare</item>
+    <item quantity="few">%s evaluări</item>
+    <item quantity="other">%s evaluări</item>
+  </plurals>
   <string name="rate_title">Evaluare %s</string>
   <string name="rate_title_hint">Titlu</string>
   <string name="rate_message_hint">Mesaj</string>
