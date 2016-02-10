@@ -116,7 +116,7 @@
   <string name="pref_title_opensource_licenses">Open source licence</string>
   <string name="pref_title_buildversion">Verze sestavení</string>
   <string name="pref_update_connection_type_never_update">Nikdy neaktualizovat automaticky</string>
-  <string name="pref_update_connection_type_over_wifi">Automaticky aktualizovat pouze přes Wi-Fi</string>
+  <string name="pref_update_connection_type_over_wifi">Automaticky aktualizovat pouze přes Wi\u2011Fi</string>
   <string name="pref_update_connection_type_any_time">Vždy automaticky aktualizovat</string>
   <string name="included_components_header_title">Zahrnuté komponenty</string>
   <string name="included_component_boot_animation">Startovací animace</string>

@@ -18,11 +18,11 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Designs</string>
   <string name="search">Suche</string>
-  <string name="search_hint">Finde ein Design</string>
+  <string name="search_hint">Ein Design finden</string>
   <string name="featured">Empfohlen</string>
   <string name="theme_packs">Designpakete</string>
   <string name="components">Komponenten</string>
-  <string name="showcase">Vorstellung</string>
+  <string name="showcase">Showcase</string>
   <string name="my_stuff">Meine Sachen</string>
   <string name="theme_chooser">Designs</string>
   <string name="settings">Einstellungen</string>
@@ -33,7 +33,7 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Kostenlos</string>
   <string name="error_connection">Verbindungsfehler</string>
-  <string name="error_invalid_response">Die Server-Anfrage lieferte keine Designs zurück</string>
+  <string name="error_invalid_response">Die Server-Anfrage hat keine Designs zurückgegeben.</string>
   <string name="error_authentication">Es gibt ein Problem mit dem Authentifizierungsserver.</string>
   <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen?</string>
   <string name="retry">Wiederholen</string>
@@ -44,13 +44,13 @@
   <string name="premium">Premium</string>
   <string name="paid_3rd_party_price">$</string>
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d Aktualisierung verfügbar</item>
-    <item quantity="other">%d Aktualisierungen verfügbar</item>
+    <item quantity="one">%d Update verfügbar</item>
+    <item quantity="other">%d Updates verfügbar</item>
   </plurals>
   <string name="no_updates">Alle Designs sind auf dem aktuellsten Stand</string>
   <string name="update_all">Alle Aktualisieren</string>
-  <string name="checking_for_updates">Suche nach Aktualisierungen\u2026</string>
-  <string name="updating_pkgname">Aktualisiere \"%s\"\u2026</string>
+  <string name="checking_for_updates">Suche nach Updates\u2026</string>
+  <string name="updating_pkgname">\"%s\" wird aktualisiert\u2026</string>
   <string name="my_themes">Meine Designs</string>
   <string name="installed">Installiert</string>
   <string name="category_icons">Symbole</string>
@@ -96,7 +96,7 @@
   <string name="report_dialog_reason_sexual_graphic">Sexuelle Inhalte oder Darstellung von Gewalt</string>
   <string name="report_dialog_reason_abusive_hateful">Beleidigende oder hasserfüllte Inhalte</string>
   <string name="cancel">Abbrechen</string>
-  <string name="installing_notification_text">Installiere \"%1$s\"\u2026</string>
+  <string name="installing_notification_text">\"%1$s\" wird installiert\u2026</string>
   <string name="installing">Installiere</string>
   <string name="updating">Aktualisiere</string>
   <string name="error_dialog_button_text">OK</string>
@@ -106,7 +106,7 @@
   <string name="general">Allgemein</string>
   <string name="about">Über</string>
   <string name="pref_title_download_notifications">Benachrichtigungen</string>
-  <string name="pref_summary_download_notifications">Benachrichtigen, wenn eine Aktualisierung für ein Design vorhanden ist</string>
+  <string name="pref_summary_download_notifications">Benachrichtigen, wenn ein Update für ein Design vorhanden ist</string>
   <string name="pref_title_update_connection_type">Automatische Aktualisierung</string>
   <string name="pref_title_clear_search_history">Suchverlauf löschen</string>
   <string name="pref_summary_clear_sarch_history">Entfernt alle Suchen, die Sie ausgeführt haben</string>

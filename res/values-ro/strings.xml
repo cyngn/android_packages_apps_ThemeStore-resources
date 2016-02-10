@@ -86,6 +86,7 @@
   <string name="report_dialog_reason_sexual_graphic">Conținut sexual sau grafic</string>
   <string name="report_dialog_reason_abusive_hateful">Conținut abuziv sau de ură</string>
   <string name="cancel">Revocare</string>
+  <string name="installing_notification_text">Se instalează \'%1$s\'\u2026</string>
   <string name="installing">Instalare</string>
   <string name="error_dialog_button_text">OK</string>
   <string name="download_error_notification_text">Eroare de descărcare</string>
@@ -101,6 +102,7 @@
   <string name="included_components_header_title">Componentele incluse</string>
   <string name="included_component_boot_animation">Animație pornire</string>
   <string name="included_component_font">Font</string>
+  <string name="included_component_icon_pack">Pachet de pictograme</string>
   <string name="included_component_navigation_bar">Bara de navigare</string>
   <string name="included_component_sound_pack">Pachet sunet</string>
   <string name="included_component_status_bar">Bara de stare</string>
