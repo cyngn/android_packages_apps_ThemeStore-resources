@@ -43,7 +43,7 @@
   <string name="for_sale">待售</string>
   <string name="premium">優質</string>
   <plurals name="number_of_updates_avail">
-    <item quantity="other">%d 個更新可用</item>
+    <item quantity="other">%d 個可用更新</item>
   </plurals>
   <string name="no_updates">所有主題皆是最新</string>
   <string name="update_all">全部更新</string>
@@ -130,7 +130,7 @@
     <item quantity="other">%d 主題更新</item>
   </plurals>
   <plurals name="update_notification_msg">
-    <item quantity="other">觸控以更新 %1$s和%2$s</item>
+    <item quantity="other">按一下以更新 %1$s 和 %2$s</item>
   </plurals>
   <string name="update_notification_x_more">還有 +%d 個</string>
   <string name="no_themes_available">沒有結果</string>

@@ -18,11 +18,11 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Designs</string>
   <string name="search">Suche</string>
-  <string name="search_hint">Finde ein Design</string>
+  <string name="search_hint">Ein Design finden</string>
   <string name="featured">Empfohlen</string>
   <string name="theme_packs">Designpakete</string>
   <string name="components">Komponenten</string>
-  <string name="showcase">Vorstellung</string>
+  <string name="showcase">Showcase</string>
   <string name="my_stuff">Meine Sachen</string>
   <string name="theme_chooser">Designs</string>
   <string name="settings">Einstellungen</string>
@@ -33,10 +33,10 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="price_free">Kostenlos</string>
   <string name="error_connection">Verbindungsfehler</string>
-  <string name="error_invalid_response">Die Server-Anfrage lieferte keine Designs zurück</string>
+  <string name="error_invalid_response">Die Server-Anfrage hat keine Designs zurückgegeben.</string>
   <string name="error_authentication">Es gibt ein Problem mit dem Authentifizierungsserver.</string>
-  <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen?</string>
-  <string name="retry">Wiederholen</string>
+  <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen.</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="view_in_theme_chooser">In der Designauswahl anzeigen</string>
   <string name="free">Kostenlos</string>
   <string name="all">Alle</string>
@@ -47,10 +47,10 @@
     <item quantity="one">%d Aktualisierung verfügbar</item>
     <item quantity="other">%d Aktualisierungen verfügbar</item>
   </plurals>
-  <string name="no_updates">Alle Designs sind auf dem aktuellsten Stand</string>
+  <string name="no_updates">Alle Designs sind auf dem neuesten Stand.</string>
   <string name="update_all">Alle Aktualisieren</string>
-  <string name="checking_for_updates">Suche nach Aktualisierungen\u2026</string>
-  <string name="updating_pkgname">Aktualisiere \"%s\"\u2026</string>
+  <string name="checking_for_updates">Updates werden gesucht\u2026</string>
+  <string name="updating_pkgname">\"%s\" wird aktualisiert\u2026</string>
   <string name="my_themes">Meine Designs</string>
   <string name="installed">Installiert</string>
   <string name="category_icons">Symbole</string>
@@ -85,20 +85,20 @@
     <item quantity="one">%s Bewertung</item>
     <item quantity="other">%s Bewertungen</item>
   </plurals>
-  <string name="rate_title">Bewerte %s</string>
+  <string name="rate_title">%s bewerten</string>
   <string name="rate_title_hint">Titel</string>
   <string name="rate_message_hint">Nachricht</string>
   <string name="submit">Absenden</string>
   <string name="delete">Löschen</string>
-  <string name="rate_the_theme">Bitte bewerten Sie dieses Design mit 1 bis 5 Sternen</string>
+  <string name="rate_the_theme">Bitte bewerten Sie dieses Design mit 1 bis 5 Sternen.</string>
   <string name="report_dialog_title">Design melden</string>
   <string name="report_dialog_reason_title">Grund für die Meldung:</string>
   <string name="report_dialog_reason_sexual_graphic">Sexuelle Inhalte oder Darstellung von Gewalt</string>
   <string name="report_dialog_reason_abusive_hateful">Beleidigende oder hasserfüllte Inhalte</string>
   <string name="cancel">Abbrechen</string>
-  <string name="installing_notification_text">Installiere \"%1$s\"\u2026</string>
-  <string name="installing">Installiere</string>
-  <string name="updating">Aktualisiere</string>
+  <string name="installing_notification_text">\"%1$s\" wird installiert\u2026</string>
+  <string name="installing">Installation wird ausgeführt</string>
+  <string name="updating">Aktualisierung wird ausgeführt</string>
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Fehler beim Installieren von %1$s</string>
   <string name="download_error_notification_text">Fehler beim Herunterladen</string>
@@ -106,7 +106,7 @@
   <string name="general">Allgemein</string>
   <string name="about">Über</string>
   <string name="pref_title_download_notifications">Benachrichtigungen</string>
-  <string name="pref_summary_download_notifications">Benachrichtigen, wenn eine Aktualisierung für ein Design vorhanden ist</string>
+  <string name="pref_summary_download_notifications">Benachrichtigen, wenn ein Update für ein Design vorhanden ist</string>
   <string name="pref_title_update_connection_type">Automatische Aktualisierung</string>
   <string name="pref_title_clear_search_history">Suchverlauf löschen</string>
   <string name="pref_summary_clear_sarch_history">Entfernt alle Suchen, die Sie ausgeführt haben</string>
@@ -119,7 +119,7 @@
   <string name="included_components_header_title">Enthaltene Komponenten</string>
   <string name="included_component_boot_animation">Boot-Animation</string>
   <string name="included_component_font">Schriftart</string>
-  <string name="included_component_icon_pack">Symbolpakete</string>
+  <string name="included_component_icon_pack">Symbolpaket</string>
   <string name="included_component_navigation_bar">Navigationsleiste</string>
   <string name="included_component_sound_pack">Tonpaket</string>
   <string name="included_component_status_bar">Statusleiste</string>
@@ -137,12 +137,12 @@
     <item quantity="one">Berühren, um %s zu aktualisieren</item>
     <item quantity="other">Berühren, um %1$s und %2$s zu aktualisieren</item>
   </plurals>
-  <string name="update_notification_x_more">+%d mehr</string>
+  <string name="update_notification_x_more">+%d weitere</string>
   <string name="no_themes_available">Keine Suchergebnisse</string>
   <string name="get_themes">Designs beziehen</string>
   <string name="eula_decline">Ablehnen</string>
   <string name="eula_accept">Akzeptieren</string>
-  <string name="eula_message">Durch Verwenden des Theme Stores stimmen Sie den <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Theme Store Nutzungsbedingungen<![CDATA[<\a>]]> zu</string>
+  <string name="eula_message">Durch Verwenden des Theme Stores stimmen Sie den <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Theme Store-Nutzungsbedingungen<![CDATA[<\a>]]> zu.</string>
   <string name="sort_newest">Neueste</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Bewertung</string>

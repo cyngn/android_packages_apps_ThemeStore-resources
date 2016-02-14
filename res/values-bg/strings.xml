@@ -81,6 +81,10 @@
   <string name="downloads">%s са изтеглени</string>
   <string name="rate">Оцени</string>
   <string name="rated">Оценено</string>
+  <plurals name="all_reviews_title">
+    <item quantity="one">%s оценка</item>
+    <item quantity="other">%s оценки</item>
+  </plurals>
   <string name="rate_title">Оцени %s</string>
   <string name="rate_title_hint">Заглавие</string>
   <string name="rate_message_hint">Съобщение</string>
@@ -125,6 +129,14 @@
   <string name="recent_searches">Последни търсения</string>
   <string name="no_recent_searches">Няма последни търсения</string>
   <string name="suggested_searches">Предложения за търсения</string>
+  <plurals name="update_notification_title">
+    <item quantity="one">%d тема е актуализирана</item>
+    <item quantity="other">%d теми са актуализирани</item>
+  </plurals>
+  <plurals name="update_notification_msg">
+    <item quantity="one">Докоснете за да актуализирате %s</item>
+    <item quantity="other">Докоснете за да актуализирате %1$s и %2$s</item>
+  </plurals>
   <string name="update_notification_x_more">Още %d</string>
   <string name="no_themes_available">Няма резултати</string>
   <string name="get_themes">Получите теми</string>
