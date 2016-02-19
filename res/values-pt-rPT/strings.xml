@@ -54,7 +54,7 @@
   <string name="installed">Instalado</string>
   <string name="category_icons">Ícones</string>
   <string name="category_status_bar">Barra de estado</string>
-  <string name="category_controls">Controles</string>
+  <string name="category_controls">Controlos</string>
   <string name="category_fonts">Tipos de letra</string>
   <string name="category_navigation_bar">Barra de navegação</string>
   <string name="category_boot_animations">Animação de inicialização</string>
@@ -122,7 +122,7 @@
   <string name="included_component_navigation_bar">Barra de navegação</string>
   <string name="included_component_sound_pack">Pacote de som</string>
   <string name="included_component_status_bar">Barra de estado</string>
-  <string name="included_component_controls">Controles</string>
+  <string name="included_component_controls">Controlos</string>
   <string name="included_component_wallpaper">Imagem de fundo</string>
   <string name="included_component_lockscreen_wallpaper">Imagem do ecrã de bloqueio</string>
   <string name="recent_searches">Pesquisas recentes</string>

@@ -69,4 +69,5 @@
   <string name="rate_title">Ocijeni %s</string>
   <string name="rate_title_hint">Naslov</string>
   <string name="rate_message_hint">Poruka</string>
+  <string name="error_dialog_button_text">U redu</string>
 </resources>

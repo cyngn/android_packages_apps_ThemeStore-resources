@@ -32,7 +32,7 @@
   <string name="available_via_store">Доступно в %s</string>
   <string name="font_preview_letters">АаБбCcDd123</string>
   <string name="price_free">Бесплатно</string>
-  <string name="error_connection">Ошибка соединения</string>
+  <string name="error_connection">Ошибка подключения</string>
   <string name="error_invalid_response">Как ни странно, сервер не передал сведения о темах.</string>
   <string name="error_authentication">Обнаружена проблема с сервером авторизации.</string>
   <string name="error_nav_item_needs_authentication">Данная опция недоступна без авторизации. Повторить попытку?</string>

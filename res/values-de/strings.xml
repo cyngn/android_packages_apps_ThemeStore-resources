@@ -24,7 +24,7 @@
   <string name="components">Komponenten</string>
   <string name="showcase">Showcase</string>
   <string name="my_stuff">Meine Sachen</string>
-  <string name="theme_chooser">Designs</string>
+  <string name="theme_chooser">Designauswahl</string>
   <string name="settings">Einstellungen</string>
   <string name="purchase">Kaufen</string>
   <string name="change_theme">Design ändern</string>
@@ -35,8 +35,8 @@
   <string name="error_connection">Verbindungsfehler</string>
   <string name="error_invalid_response">Die Server-Anfrage hat keine Designs zurückgegeben.</string>
   <string name="error_authentication">Es gibt ein Problem mit dem Authentifizierungsserver.</string>
-  <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen?</string>
-  <string name="retry">Wiederholen</string>
+  <string name="error_nav_item_needs_authentication">Diese Option ist bis zur Authentifizierung nicht verfügbar. Bitte erneut versuchen.</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="view_in_theme_chooser">In der Designauswahl anzeigen</string>
   <string name="free">Kostenlos</string>
   <string name="all">Alle</string>
@@ -47,9 +47,9 @@
     <item quantity="one">%d Update verfügbar</item>
     <item quantity="other">%d Updates verfügbar</item>
   </plurals>
-  <string name="no_updates">Alle Designs sind auf dem aktuellsten Stand</string>
+  <string name="no_updates">Alle Designs sind auf dem neuesten Stand.</string>
   <string name="update_all">Alle Aktualisieren</string>
-  <string name="checking_for_updates">Suche nach Updates\u2026</string>
+  <string name="checking_for_updates">Updates werden gesucht\u2026</string>
   <string name="updating_pkgname">\"%s\" wird aktualisiert\u2026</string>
   <string name="my_themes">Meine Designs</string>
   <string name="installed">Installiert</string>
@@ -68,7 +68,7 @@
   <string name="email_designer">Designer via E-Mail kontaktieren</string>
   <string name="more_by_this_designer">Mehr von diesem Designer</string>
   <string name="report_theme">Design melden</string>
-  <string name="send_email_chooser">Sende E-Mail via\u2026</string>
+  <string name="send_email_chooser">Senden von E-Mail via\u2026</string>
   <string name="price_installed">Installiert</string>
   <string name="price_uninstall">Deinstallieren</string>
   <string name="apply">Anwenden</string>
@@ -76,7 +76,7 @@
   <string name="version">Version</string>
   <string name="size">Größe</string>
   <string name="incompatible_outdated">Hinweis: %s wurde für eine ältere CM-Version entwickelt. Es können Kompatibilitätsprobleme mit diesem Design auftreten.</string>
-  <string name="incompatible_newer">%s wurde für eine neuere Version von CM erstellt und kann nicht installiert werden.</string>
+  <string name="incompatible_newer">%s wurde für eine neuere Version von CM entwickelt und kann nicht installiert werden.</string>
   <string name="about_theme_name">Über %s</string>
   <string name="downloads">%s Downloads</string>
   <string name="rate">Bewerten</string>
@@ -85,20 +85,20 @@
     <item quantity="one">%s Bewertung</item>
     <item quantity="other">%s Bewertungen</item>
   </plurals>
-  <string name="rate_title">Bewerte %s</string>
+  <string name="rate_title">%s bewerten</string>
   <string name="rate_title_hint">Titel</string>
   <string name="rate_message_hint">Nachricht</string>
   <string name="submit">Absenden</string>
   <string name="delete">Löschen</string>
-  <string name="rate_the_theme">Bitte bewerten Sie dieses Design mit 1 bis 5 Sternen</string>
+  <string name="rate_the_theme">Bitte bewerten Sie dieses Design mit 1 bis 5 Sternen.</string>
   <string name="report_dialog_title">Design melden</string>
   <string name="report_dialog_reason_title">Grund für die Meldung:</string>
   <string name="report_dialog_reason_sexual_graphic">Sexuelle Inhalte oder Darstellung von Gewalt</string>
   <string name="report_dialog_reason_abusive_hateful">Beleidigende oder hasserfüllte Inhalte</string>
   <string name="cancel">Abbrechen</string>
   <string name="installing_notification_text">\"%1$s\" wird installiert\u2026</string>
-  <string name="installing">Installiere</string>
-  <string name="updating">Aktualisiere</string>
+  <string name="installing">Installation wird ausgeführt</string>
+  <string name="updating">Aktualisierung wird ausgeführt</string>
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Fehler beim Installieren von %1$s</string>
   <string name="download_error_notification_text">Fehler beim Herunterladen</string>
@@ -119,7 +119,7 @@
   <string name="included_components_header_title">Enthaltene Komponenten</string>
   <string name="included_component_boot_animation">Boot-Animation</string>
   <string name="included_component_font">Schriftart</string>
-  <string name="included_component_icon_pack">Symbolpakete</string>
+  <string name="included_component_icon_pack">Symbolpaket</string>
   <string name="included_component_navigation_bar">Navigationsleiste</string>
   <string name="included_component_sound_pack">Tonpaket</string>
   <string name="included_component_status_bar">Statusleiste</string>
@@ -137,12 +137,12 @@
     <item quantity="one">Berühren, um %s zu aktualisieren</item>
     <item quantity="other">Berühren, um %1$s und %2$s zu aktualisieren</item>
   </plurals>
-  <string name="update_notification_x_more">+%d mehr</string>
+  <string name="update_notification_x_more">+%d weitere</string>
   <string name="no_themes_available">Keine Suchergebnisse</string>
   <string name="get_themes">Designs beziehen</string>
   <string name="eula_decline">Ablehnen</string>
   <string name="eula_accept">Akzeptieren</string>
-  <string name="eula_message">Durch Verwenden des Theme Stores stimmen Sie den <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Theme Store Nutzungsbedingungen<![CDATA[<\a>]]> zu</string>
+  <string name="eula_message">Durch Verwenden des Theme Stores stimmen Sie den <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen Theme Store-Nutzungsbedingungen<![CDATA[<\a>]]> zu.</string>
   <string name="sort_newest">Neueste</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Bewertung</string>

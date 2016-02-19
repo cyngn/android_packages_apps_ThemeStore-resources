@@ -23,7 +23,7 @@
   <string name="theme_packs">Packs de thèmes</string>
   <string name="components">Composants</string>
   <string name="showcase">Vitrine</string>
-  <string name="my_stuff">Mes affaires</string>
+  <string name="my_stuff">Mes trucs</string>
   <string name="theme_chooser">Sélecteur de thèmes</string>
   <string name="settings">Paramètres</string>
   <string name="purchase">Acheter</string>
@@ -34,7 +34,7 @@
   <string name="price_free">Gratuit</string>
   <string name="error_connection">Erreur de connexion</string>
   <string name="error_invalid_response">Curieusement, le serveur n\'a retourné aucun thème.</string>
-  <string name="error_authentication">Il y a eu un problème avec le serveur d\'authentification.</string>
+  <string name="error_authentication">Un problème s\'est produit sur le serveur d\'authentification.</string>
   <string name="error_nav_item_needs_authentication">Option indisponible sans authentification. Avez-vous appuyé sur le bouton Réessayer ?</string>
   <string name="retry">Réessayer</string>
   <string name="view_in_theme_chooser">Afficher dans le sélecteur de thème</string>
@@ -44,8 +44,8 @@
   <string name="premium">Premium</string>
   <string name="paid_3rd_party_price">$</string>
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d thème disponible</item>
-    <item quantity="other">%d thèmes disponibles</item>
+    <item quantity="one">%d mise à jour disponible</item>
+    <item quantity="other">%d mises à jour disponibles</item>
   </plurals>
   <string name="no_updates">Tous les thèmes sont à jour</string>
   <string name="update_all">Tout mettre à jour</string>
