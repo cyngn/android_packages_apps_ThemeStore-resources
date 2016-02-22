@@ -24,7 +24,7 @@
   <string name="components">Komponenten</string>
   <string name="showcase">Showcase</string>
   <string name="my_stuff">Meine Sachen</string>
-  <string name="theme_chooser">Designs</string>
+  <string name="theme_chooser">Designauswahl</string>
   <string name="settings">Einstellungen</string>
   <string name="purchase">Kaufen</string>
   <string name="change_theme">Design ändern</string>
@@ -44,8 +44,8 @@
   <string name="premium">Premium</string>
   <string name="paid_3rd_party_price">$</string>
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d Aktualisierung verfügbar</item>
-    <item quantity="other">%d Aktualisierungen verfügbar</item>
+    <item quantity="one">%d Update verfügbar</item>
+    <item quantity="other">%d Updates verfügbar</item>
   </plurals>
   <string name="no_updates">Alle Designs sind auf dem neuesten Stand.</string>
   <string name="update_all">Alle Aktualisieren</string>
@@ -68,7 +68,7 @@
   <string name="email_designer">Designer via E-Mail kontaktieren</string>
   <string name="more_by_this_designer">Mehr von diesem Designer</string>
   <string name="report_theme">Design melden</string>
-  <string name="send_email_chooser">Sende E-Mail via\u2026</string>
+  <string name="send_email_chooser">Senden von E-Mail via\u2026</string>
   <string name="price_installed">Installiert</string>
   <string name="price_uninstall">Deinstallieren</string>
   <string name="apply">Anwenden</string>
@@ -76,7 +76,7 @@
   <string name="version">Version</string>
   <string name="size">Größe</string>
   <string name="incompatible_outdated">Hinweis: %s wurde für eine ältere CM-Version entwickelt. Es können Kompatibilitätsprobleme mit diesem Design auftreten.</string>
-  <string name="incompatible_newer">%s wurde für eine neuere Version von CM erstellt und kann nicht installiert werden.</string>
+  <string name="incompatible_newer">%s wurde für eine neuere Version von CM entwickelt und kann nicht installiert werden.</string>
   <string name="about_theme_name">Über %s</string>
   <string name="downloads">%s Downloads</string>
   <string name="rate">Bewerten</string>

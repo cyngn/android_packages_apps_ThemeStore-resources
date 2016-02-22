@@ -23,7 +23,7 @@
   <string name="theme_packs">Packs de thèmes</string>
   <string name="components">Composants</string>
   <string name="showcase">Vitrine</string>
-  <string name="my_stuff">Mes affaires</string>
+  <string name="my_stuff">Mes trucs</string>
   <string name="theme_chooser">Sélecteur de thèmes</string>
   <string name="settings">Paramètres</string>
   <string name="purchase">Acheter</string>
@@ -34,7 +34,7 @@
   <string name="price_free">Gratuit</string>
   <string name="error_connection">Erreur de connexion</string>
   <string name="error_invalid_response">Curieusement, le serveur n\'a retourné aucun thème.</string>
-  <string name="error_authentication">Il y a eu un problème avec le serveur d\'authentification.</string>
+  <string name="error_authentication">Un problème s\'est produit sur le serveur d\'authentification.</string>
   <string name="error_nav_item_needs_authentication">Option indisponible sans authentification. Avez-vous appuyé sur le bouton Réessayer ?</string>
   <string name="retry">Réessayer</string>
   <string name="view_in_theme_chooser">Afficher dans le sélecteur de thème</string>

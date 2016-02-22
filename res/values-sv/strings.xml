@@ -114,7 +114,7 @@
   <string name="pref_title_opensource_licenses">Licens för öppen källkod</string>
   <string name="pref_title_buildversion">Byggversion</string>
   <string name="pref_update_connection_type_never_update">Uppdatera aldrig automatiskt</string>
-  <string name="pref_update_connection_type_over_wifi">Uppdatera automatiskt enbart via Wi-Fi</string>
+  <string name="pref_update_connection_type_over_wifi">Uppdatera automatiskt enbart via Wi\u2011Fi</string>
   <string name="pref_update_connection_type_any_time">Uppdatera automatiskt när som helst</string>
   <string name="included_components_header_title">Inkluderade komponenter</string>
   <string name="included_component_boot_animation">Uppstartsanimation</string>
