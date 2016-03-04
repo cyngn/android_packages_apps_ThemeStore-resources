@@ -16,6 +16,41 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <!-- Action Bar -->
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="settings">Ynstellingen</string>
+  <!-- Store Pricing, also shows pkg status -->
+  <!-- Errors -->
+  <!-- Retry connecting to server again -->
+  <!-- When Theme is installed, show this option in detail page -->
+  <!-- Subsections For Theme Listings -->
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
+  <!-- Updating Header Strings -->
+  <!-- Subsections for Mystuff -->
+  <!-- Component Categories -->
+  <!-- Theme Detail Strings -->
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
+  <!-- Theme Detail Description -->
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
+  <!-- All Reviews for a given theme -->
+  <!-- Rating Popup -->
+  <!-- Report theme dialog -->
   <string name="cancel">Annulearje</string>
+  <!-- Download path -->
+  <!-- Error strings -->
+  <!-- Preferences -->
+  <!-- Preferences: Auto update -->
+  <!-- Detail included components -->
+  <!-- Search -->
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
+  <!-- Eula Strings -->
+  <!-- Sorting -->
+  <!-- 3rd Party Stores -->
 </resources>

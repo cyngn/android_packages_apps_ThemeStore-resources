@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Temaväljare</string>
+  <!-- Action Bar -->
   <string name="search">Sök</string>
   <string name="search_hint">Hitta ett tema</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Aktuella</string>
   <string name="theme_packs">Temapaket</string>
   <string name="components">Komponenter</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Okänd upphovsman</string>
   <string name="available_via_store">Tillgänglig via %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Gratis</string>
+  <!-- Errors -->
   <string name="error_connection">Anslutningsfel</string>
-  <string name="error_invalid_response">Servern returnerade inga teman.</string>
+  <string name="error_invalid_response">Märkligt nog returnerade servern inga teman.</string>
   <string name="error_authentication">Det uppstod problem med autentiseringsservern.</string>
   <string name="error_nav_item_needs_authentication">Alternativet är otillgängligt tills autentiserad. Tryckte du på Försök igen-knappen?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Försök igen</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Visa i temaväljaren</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Gratis</string>
   <string name="all">Alla</string>
   <string name="for_sale">Till salu</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d uppdatering tillgänglig</item>
     <item quantity="other">%d uppdateringar tillgängliga</item>
@@ -51,8 +62,10 @@
   <string name="update_all">Uppdatera alla</string>
   <string name="checking_for_updates">Letar efter uppdateringar\u2026</string>
   <string name="updating_pkgname">Uppdaterar \'%s\'\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Mina teman</string>
   <string name="installed">Installerad</string>
+  <!-- Component Categories -->
   <string name="category_icons">Ikoner</string>
   <string name="category_status_bar">Statusfält</string>
   <string name="category_controls">Kontroller</string>
@@ -61,6 +74,7 @@
   <string name="category_boot_animations">Uppstartsanimationer</string>
   <string name="category_wallpapers">Bakgrundsbilder</string>
   <string name="category_sound_packs">Ljudpaket</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Uppdatera</string>
   <string name="read_more">Läs mer</string>
   <string name="contact_the_designer">Kontakta designern</string>
@@ -68,6 +82,7 @@
   <string name="email_designer">Skicka e-post till designer</string>
   <string name="more_by_this_designer">Mer av denna designer</string>
   <string name="report_theme">Rapportera tema</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Skicka e-post via\u2026</string>
   <string name="price_installed">Installerad</string>
   <string name="price_uninstall">Avinstallera</string>
@@ -77,32 +92,40 @@
   <string name="size">storlek</string>
   <string name="incompatible_outdated">%s skapades för en äldre version av CM. Du kan råka ut för kompabilitetsproblem med detta tema.</string>
   <string name="incompatible_newer">%s skapades för en nyare version av CM och kan inte installeras.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">Om %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s nedladdningar</string>
   <string name="rate">Betygsätt</string>
   <string name="rated">Betygsatt</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s betyg</item>
     <item quantity="other">%s betyg</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">Betygsätt %s</string>
   <string name="rate_title_hint">Titel</string>
   <string name="rate_message_hint">Meddelande</string>
   <string name="submit">Skicka</string>
   <string name="delete">Ta bort</string>
   <string name="rate_the_theme">Betygsätt detta tema med mellan 1 till 5 stjärnor</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Rapportera tema</string>
   <string name="report_dialog_reason_title">Rapportskäl:</string>
   <string name="report_dialog_reason_sexual_graphic">Sexuellt eller grafiskt innehåll</string>
   <string name="report_dialog_reason_abusive_hateful">Stötande  eller hatfyllt innehåll</string>
   <string name="cancel">Avbryt</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Installerar \'%1$s\'\u2026</string>
   <string name="installing">Installerar</string>
   <string name="updating">Uppdaterar</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Fel vid installation av %1$s</string>
   <string name="download_error_notification_text">Fel vid nedladdning</string>
   <string name="pm_error_notification_text">Kunde inte installera tema: %1$s</string>
+  <!-- Preferences -->
   <string name="general">Allmänt</string>
   <string name="about">Om</string>
   <string name="pref_title_download_notifications">Notifieringar</string>
@@ -113,9 +136,11 @@
   <string name="pref_summary_opensource_licenses">Detaljerna i licensavtalet för programvara med öppen källkod</string>
   <string name="pref_title_opensource_licenses">Licens för öppen källkod</string>
   <string name="pref_title_buildversion">Byggversion</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Uppdatera aldrig automatiskt</string>
   <string name="pref_update_connection_type_over_wifi">Uppdatera automatiskt enbart via Wi\u2011Fi</string>
   <string name="pref_update_connection_type_any_time">Uppdatera automatiskt när som helst</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">Inkluderade komponenter</string>
   <string name="included_component_boot_animation">Uppstartsanimation</string>
   <string name="included_component_font">Typsnitt</string>
@@ -126,26 +151,36 @@
   <string name="included_component_controls">Kontroller</string>
   <string name="included_component_wallpaper">Bakgrundsbild</string>
   <string name="included_component_lockscreen_wallpaper">Bakgrundbild till låsskärm</string>
+  <!-- Search -->
   <string name="recent_searches">Senaste sökningar</string>
   <string name="no_recent_searches">Inga tidigare sökningar</string>
   <string name="suggested_searches">Rekommenderade sökningar</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d temauppdatering</item>
     <item quantity="other">%d temauppdateringar</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">Tryck för att uppdatera %s</item>
     <item quantity="other">Tryck för att uppdatera %1$s och %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d mer</string>
   <string name="no_themes_available">Inga resultat</string>
   <string name="get_themes">Få teman</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Avböj</string>
   <string name="eula_accept">Acceptera</string>
   <string name="eula_message">Genom att använda temabutiken accepterar du <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>villkoren för Cyanogens temabutik.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Nyaste</string>
   <string name="sort_alphabetically">A-Ö</string>
   <string name="sort_rating">Betygsättning</string>
   <string name="sort_popular">Popularitet</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play-butik</string>
 </resources>

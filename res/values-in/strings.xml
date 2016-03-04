@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Tema</string>
+  <!-- Action Bar -->
   <string name="search">Cari</string>
   <string name="search_hint">Cari tema</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Utama</string>
   <string name="theme_packs">Paket tema</string>
   <string name="components">Komponen</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Pembuat tidak dikenal</string>
   <string name="available_via_store">Tersedia melalui %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Gratis</string>
+  <!-- Errors -->
   <string name="error_connection">Galat sambungan</string>
   <string name="error_invalid_response">Aneh, server tidak mengembalikan semua tema.</string>
   <string name="error_authentication">Terdapat masalah dengan server autentikasi.</string>
   <string name="error_nav_item_needs_authentication">Opsi tidak tersedia sampai autentikasi selesai. Apakah Anda menekan tombol coba lagi?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Ulangi</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Lihat di Theme Chooser</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Gratis</string>
   <string name="all">Semua</string>
   <string name="for_sale">Dijual</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="other">%d pembaruan tersedia</item>
   </plurals>
@@ -50,8 +61,10 @@
   <string name="update_all">Perbarui semua</string>
   <string name="checking_for_updates">Memeriksa pembaruan\u2026</string>
   <string name="updating_pkgname">Memperbarui \'%s\'\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Tema saya</string>
   <string name="installed">Terinstal</string>
+  <!-- Component Categories -->
   <string name="category_icons">Ikon</string>
   <string name="category_status_bar">Bilah status</string>
   <string name="category_controls">Kontrol</string>
@@ -60,6 +73,7 @@
   <string name="category_boot_animations">Animasi boot</string>
   <string name="category_wallpapers">Wallpaper</string>
   <string name="category_sound_packs">Paket suara</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Perbarui</string>
   <string name="read_more">Baca lebih lanjut</string>
   <string name="contact_the_designer">Hubungi desainer</string>
@@ -67,6 +81,7 @@
   <string name="email_designer">Kirim surel kepada desainer</string>
   <string name="more_by_this_designer">Yang lain dari desainer ini</string>
   <string name="report_theme">Laporkan tema</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Kirim surel melalui\u2026</string>
   <string name="price_installed">Terpasang</string>
   <string name="price_uninstall">Copot</string>
@@ -76,31 +91,39 @@
   <string name="size">ukuran</string>
   <string name="incompatible_outdated">%s dirancang untuk versi CM yang lebih lama. Anda mungkin mengalami masalah kompatibilitas dengan tema ini.</string>
   <string name="incompatible_newer">%s dirancang untuk versi CM yang lebih baru dan tidak dapat diinstal.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">Tentang %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s unduhan</string>
   <string name="rate">Nilai</string>
   <string name="rated">Dinilai</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="other">%s nilai</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">Nilai %s</string>
   <string name="rate_title_hint">Judul</string>
   <string name="rate_message_hint">Pesan</string>
   <string name="submit">Kirim</string>
   <string name="delete">Hapus</string>
   <string name="rate_the_theme">Silakan nilai tema ini di antara 1 dan 5 bintang</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Laporkan tema</string>
   <string name="report_dialog_reason_title">Alasan pelaporan:</string>
   <string name="report_dialog_reason_sexual_graphic">Konten mencolok atau seksual</string>
   <string name="report_dialog_reason_abusive_hateful">Konten kasar atau mengandung kebencian</string>
   <string name="cancel">Batal</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Menginstal \'%1$s\'\u2026</string>
   <string name="installing">Menginstal</string>
   <string name="updating">Memperbarui</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">OKE</string>
   <string name="installing_error_notification_text">Terjadi galat saat menginstal %1$s</string>
   <string name="download_error_notification_text">Terjadi galat saat mengunduh</string>
   <string name="pm_error_notification_text">Tidak dapat menginstal tema: %1$s</string>
+  <!-- Preferences -->
   <string name="general">Umum</string>
   <string name="about">Tentang</string>
   <string name="pref_title_download_notifications">Pemberitahuan</string>
@@ -111,9 +134,11 @@
   <string name="pref_summary_opensource_licenses">Rincian lisensi untuk perangkat lunak sumber terbuka</string>
   <string name="pref_title_opensource_licenses">Lisensi sumber terbuka</string>
   <string name="pref_title_buildversion">Versi kompilasi</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Jangan pernah perbarui otomatis</string>
   <string name="pref_update_connection_type_over_wifi">Perbarui otomatis hanya melalui Wi-Fi</string>
   <string name="pref_update_connection_type_any_time">Perbarui otomatis kapan saja</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">Komponen yang disertakan</string>
   <string name="included_component_boot_animation">Animasi boot</string>
   <string name="included_component_font">Fon</string>
@@ -124,24 +149,34 @@
   <string name="included_component_controls">Kontrol</string>
   <string name="included_component_wallpaper">Wallpaper</string>
   <string name="included_component_lockscreen_wallpaper">Wallpaper layar terkunci</string>
+  <!-- Search -->
   <string name="recent_searches">Pencarian terakhir</string>
   <string name="no_recent_searches">Tidak ada pencarian terakhir</string>
   <string name="suggested_searches">Penelusuran yang disarankan</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="other">%d pembaruan tema</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="other">Tekan untuk memperbarui %1$s dan %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d lain</string>
   <string name="no_themes_available">Tidak ada hasil</string>
   <string name="get_themes">Dapatkan tema</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Tolak</string>
   <string name="eula_accept">Terima</string>
   <string name="eula_message">Dengan menggunakan Toko Tema, Anda setuju dengan <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Persyaratan Layanan Toko Tema Cyanogen.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Terbaru</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Peringkat</string>
   <string name="sort_popular">Populer</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play Store</string>
 </resources>

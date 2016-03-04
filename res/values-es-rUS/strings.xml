@@ -15,4 +15,47 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="http://schemas.android.com/apk/res/android"/>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <!-- Action Bar -->
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
+  <string name="available_via_store">Disponible vía %s</string>
+  <!-- Store Pricing, also shows pkg status -->
+  <!-- Errors -->
+  <!-- Retry connecting to server again -->
+  <!-- When Theme is installed, show this option in detail page -->
+  <!-- Subsections For Theme Listings -->
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
+  <!-- Updating Header Strings -->
+  <!-- Subsections for Mystuff -->
+  <!-- Component Categories -->
+  <string name="category_boot_animations">Animaciones de inicio</string>
+  <!-- Theme Detail Strings -->
+  <string name="contact_the_designer">Contactar al diseñador</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
+  <string name="incompatible_outdated">%s fue diseñado para una versión anterior de CM. Puedes tener problemas de compatibilidad con este tema.</string>
+  <!-- Theme Detail Description -->
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
+  <!-- All Reviews for a given theme -->
+  <!-- Rating Popup -->
+  <string name="rate_title">Valorar %s</string>
+  <!-- Report theme dialog -->
+  <!-- Download path -->
+  <!-- Error strings -->
+  <!-- Preferences -->
+  <!-- Preferences: Auto update -->
+  <!-- Detail included components -->
+  <string name="included_component_lockscreen_wallpaper">Fondo de pantalla bloqueada</string>
+  <!-- Search -->
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
+  <!-- Eula Strings -->
+  <string name="eula_message">Al usar Theme Store, estás de acuerdo con los <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Términos de servicio de Theme Store de Cyanogen.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
+  <!-- 3rd Party Stores -->
+</resources>

@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">تم‌ها</string>
+  <!-- Action Bar -->
   <string name="search">جستجو</string>
   <string name="search_hint">پیداکردن تم</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">برجسته</string>
   <string name="theme_packs">بسته تم</string>
   <string name="components">اجزا</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">نویسنده نامعلوم</string>
   <string name="available_via_store">موجود از طریق %s</string>
   <string name="font_preview_letters">ا ب‌ پ‌ ت‌ ث ۱ ۲ ۳</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">رایگان</string>
+  <!-- Errors -->
   <string name="error_connection">خطای اتصال</string>
   <string name="error_invalid_response">بسیار عجیب است، در سرور هیچ زمینه ای وجود ندارد.</string>
   <string name="error_authentication">در تأیید سرور خطایی رخ داد.</string>
   <string name="error_nav_item_needs_authentication">گزینه‌ها تا زمان تأیید در دسترس نیستند. آیا دکمه تلاش مجدد را فشار دادید؟</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">سعي مجدد</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">مشاهده در انتخاب‌کننده تم</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">رایگان</string>
   <string name="all">همه</string>
   <string name="for_sale">برای فروش</string>
   <string name="premium">عالی</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="other">%d به‌روزرسانی موجود است</item>
   </plurals>
@@ -50,8 +61,10 @@
   <string name="update_all">به‌روزرسانی همه</string>
   <string name="checking_for_updates">بررسی به‌روزرسانی\u2026</string>
   <string name="updating_pkgname">در حال به‌روزرسانی \'%s\'\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">تم‌های من</string>
   <string name="installed">نصب‌شده</string>
+  <!-- Component Categories -->
   <string name="category_icons">آیکون‌ها</string>
   <string name="category_status_bar">نوار وضعیت</string>
   <string name="category_controls">کنترل‌ها</string>
@@ -60,6 +73,7 @@
   <string name="category_boot_animations">انیمیشن‌های بوت</string>
   <string name="category_wallpapers">کاغذدیواری‌ها</string>
   <string name="category_sound_packs">بسته‌های صدا</string>
+  <!-- Theme Detail Strings -->
   <string name="update">به‌روزرسانی</string>
   <string name="read_more">بیشتر بخوانید</string>
   <string name="contact_the_designer">تماس با طراح</string>
@@ -67,6 +81,7 @@
   <string name="email_designer">ایمیل به طراح</string>
   <string name="more_by_this_designer">بیشتر از این طراح</string>
   <string name="report_theme">گزارش تم</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">ارسال ایمیل از طریق\u2026</string>
   <string name="price_installed">نصب شده</string>
   <string name="price_uninstall">لغو نصب</string>
@@ -76,31 +91,39 @@
   <string name="size">اندازه</string>
   <string name="incompatible_outdated">توجه: %s برای نسخه‌های قدیمی CM طراحی شده است. ممکن است مشکلات مربوط به سازگاری این تم را مشاهده کنید.</string>
   <string name="incompatible_newer">توجه: %s برای نسخه‌های جدید CM طراحی شده است و نصب نمی‌شود.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">در مورد %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s دانلود</string>
   <string name="rate">امتیازدهی</string>
   <string name="rated">دارای امتیاز</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="other">%s امتیاز</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">امتیاز %s</string>
   <string name="rate_title_hint">عنوان</string>
   <string name="rate_message_hint">پیام</string>
   <string name="submit">ارسال</string>
   <string name="delete">حذف</string>
   <string name="rate_the_theme">لطفاً از 1 تا 5 ستاره به این تم امتیاز دهید</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">گزارش تم</string>
   <string name="report_dialog_reason_title">دلیل گزارش:</string>
   <string name="report_dialog_reason_sexual_graphic">محتوای گرافیک یا جنسی</string>
   <string name="report_dialog_reason_abusive_hateful">محتوای توهین‌آمیز یا مستهجن</string>
   <string name="cancel">لغو</string>
+  <!-- Download path -->
   <string name="installing_notification_text">در حال نصب \'%1$s\'\u2026</string>
   <string name="installing">درحال نصب</string>
   <string name="updating">در حال به‌روزرسانی</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">بسیارخب</string>
   <string name="installing_error_notification_text">خطا در نصب %1$s</string>
   <string name="download_error_notification_text">خطا در دانلود</string>
   <string name="pm_error_notification_text">نصب تم ناموفق بود: %1$s</string>
+  <!-- Preferences -->
   <string name="general">عمومي</string>
   <string name="about">درباره</string>
   <string name="pref_title_download_notifications">اعلان‌ها</string>
@@ -111,9 +134,11 @@
   <string name="pref_summary_opensource_licenses">جزئیات مجوز نرم‌افزارهای متن‌باز</string>
   <string name="pref_title_opensource_licenses">مجوزهای متن‌باز</string>
   <string name="pref_title_buildversion">نسخه ساخت</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">هیچگاه به‌روزرسانی خودکار انجام نشود</string>
   <string name="pref_update_connection_type_over_wifi">بروزرسانی خودکار فقط از طریق وای‌فای</string>
   <string name="pref_update_connection_type_any_time">به‌روزرسانی خودکار همیشه</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">اجزای همراه</string>
   <string name="included_component_boot_animation">انیمیشن بوت</string>
   <string name="included_component_font">فونت</string>
@@ -124,24 +149,34 @@
   <string name="included_component_controls">کنترل‌ها</string>
   <string name="included_component_wallpaper">کاغذدیواری</string>
   <string name="included_component_lockscreen_wallpaper">کاغذدیواری قفل صفحه</string>
+  <!-- Search -->
   <string name="recent_searches">جستجوهای اخیر</string>
   <string name="no_recent_searches">جستجوی اخیری وجود ندارد</string>
   <string name="suggested_searches">جستجوهای پیشنهادی</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="other">%d به‌روزرسانی تم</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="other">برای به‌روزرسانی %1$s و %2$s لمس کنید</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d عدد بیشتر</string>
   <string name="no_themes_available">بدون نتیجه</string>
   <string name="get_themes">دریافت تم</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">رد کردن</string>
   <string name="eula_accept">پذیرش</string>
   <string name="eula_message">با استفاده از فروشگاه تم، موافقت خود را با <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>شرایط استفاده از فروشگاه تم سیانوژن اعلام می‌کنید.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">جدیدترین</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">امتیاز</string>
   <string name="sort_popular">محبوب</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">پلی استور</string>
 </resources>

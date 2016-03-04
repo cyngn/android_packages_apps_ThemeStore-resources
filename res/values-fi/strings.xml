@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Teemat</string>
+  <!-- Action Bar -->
   <string name="search">Haku</string>
   <string name="search_hint">Etsi teema</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Suosituimmat</string>
   <string name="theme_packs">Teemapaketit</string>
   <string name="components">Osat</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Tuntematon tekijä</string>
   <string name="available_via_store">Saatavilla %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Ilmainen</string>
+  <!-- Errors -->
   <string name="error_connection">Yhteysvirhe</string>
   <string name="error_invalid_response">Kumma kyllä, palvelin ei lähettänyt yhtään teemaa.</string>
   <string name="error_authentication">Ongelma todennuspalvelimen kanssa.</string>
   <string name="error_nav_item_needs_authentication">Tämä ei ole käytettävissä ilman todennusta. Painoitko yritä uudelleen-painiketta?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Yritä uudelleen</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Katso teemavalitsimessa</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Ilmainen</string>
   <string name="all">Kaikki</string>
   <string name="for_sale">Myynnissä</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">€</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d päivitys saatavilla</item>
     <item quantity="other">%d päivitystä saatavilla</item>
@@ -51,8 +62,10 @@
   <string name="update_all">Päivitä kaikki</string>
   <string name="checking_for_updates">Tarkastetaan päivityksiä\u2026</string>
   <string name="updating_pkgname">Päivitetäänt teemaa \'%s\'\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Minun teemat</string>
   <string name="installed">Asennetut</string>
+  <!-- Component Categories -->
   <string name="category_icons">Kuvakkeet</string>
   <string name="category_status_bar">Tilapalkki</string>
   <string name="category_controls">Ohjaus</string>
@@ -61,6 +74,7 @@
   <string name="category_boot_animations">Käynnistys-\nanimaatiot</string>
   <string name="category_wallpapers">Taustakuvat</string>
   <string name="category_sound_packs">Äänipaketit</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Päivitä</string>
   <string name="read_more">Lue lisää</string>
   <string name="contact_the_designer">Ota yhteys tekijään</string>
@@ -68,6 +82,7 @@
   <string name="email_designer">Lähetä tekijälle sähköpostia</string>
   <string name="more_by_this_designer">Lisää tekijältä</string>
   <string name="report_theme">Ilmoita teemasta</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Lähetä sähköpostia sovelluksella\u2026</string>
   <string name="price_installed">Asennettu</string>
   <string name="price_uninstall">Poista</string>
@@ -77,32 +92,40 @@
   <string name="size">koko</string>
   <string name="incompatible_outdated">Teema \'%s\' on suunniteltu vanhemmalle CM:n versiolle. Teeman kanssa voi ilmetä yhteensopivuusongelmia.</string>
   <string name="incompatible_newer">Teema %s on suunniteltu uudemmalle CM versiolle, eikä sitä voida asentaa.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">Tietoja teemasta %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s latausta</string>
   <string name="rate">Arvostele</string>
   <string name="rated">Arvioidut</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s arvostelu</item>
     <item quantity="other">%s arvostelua</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">Arvostele %s</string>
   <string name="rate_title_hint">Nimi</string>
   <string name="rate_message_hint">Viesti</string>
   <string name="submit">Lähetä</string>
   <string name="delete">Poista</string>
   <string name="rate_the_theme">Arvostele tämä teema käyttäen 1-5 tähteä</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Ilmoita teemasta</string>
   <string name="report_dialog_reason_title">Ilmoituksen syy:</string>
   <string name="report_dialog_reason_sexual_graphic">Seksuaalista materiaalia</string>
   <string name="report_dialog_reason_abusive_hateful">Loukkaavaa tai vihamielistä sisältöä</string>
   <string name="cancel">Peruuta</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Asennetaan teemaa \'%1$s\'\u2026</string>
   <string name="installing">Asennetaan</string>
   <string name="updating">Päivitetään</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Virhe asennettaessa teemaa %1$s</string>
   <string name="download_error_notification_text">Virhe ladattaessa</string>
   <string name="pm_error_notification_text">Ei voitu asentaa teemaa: %1$s</string>
+  <!-- Preferences -->
   <string name="general">Yleiset</string>
   <string name="about">Tietoja</string>
   <string name="pref_title_download_notifications">Ilmoitukset</string>
@@ -113,9 +136,11 @@
   <string name="pref_summary_opensource_licenses">Avoimen lähdekoodin ohjelmistojen lisenssitiedot</string>
   <string name="pref_title_opensource_licenses">Avoimen lähdekoodin lisenssit</string>
   <string name="pref_title_buildversion">Ohjelmistoversio</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Älä koskaan päivitä automaattisesti</string>
   <string name="pref_update_connection_type_over_wifi">Automaattipäivitys vain Wi-Fin kautta</string>
   <string name="pref_update_connection_type_any_time">Päivitä aina automaattisesti</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">Teeman osat</string>
   <string name="included_component_boot_animation">Käynnistysanimaatio</string>
   <string name="included_component_font">Fontti</string>
@@ -126,26 +151,36 @@
   <string name="included_component_controls">Ohjaus</string>
   <string name="included_component_wallpaper">Taustakuva</string>
   <string name="included_component_lockscreen_wallpaper">Lukitusnäytön taustakuva</string>
+  <!-- Search -->
   <string name="recent_searches">Viimeisimmät haut</string>
   <string name="no_recent_searches">Ei viimeisiä hakuja</string>
   <string name="suggested_searches">Ehdotetut haut</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d teemapäivitys</item>
     <item quantity="other">%d teemapäivitystä</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">Päivitä teema %s painamalla tästä</item>
     <item quantity="other">Päivitä teemat %1$s ja %2$s painamalla tästä</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d lisää</string>
   <string name="no_themes_available">Ei tuloksia</string>
   <string name="get_themes">Hae teemoja</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Hylkää</string>
   <string name="eula_accept">Hyväksy</string>
   <string name="eula_message">Käyttämällä Theme Storea, hyväksyt <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogenin Theme Storen käyttöehdot.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Uusin</string>
   <string name="sort_alphabetically">A-Ö</string>
   <string name="sort_rating">Luokitus</string>
   <string name="sort_popular">Suosittu</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play-kaupasta</string>
 </resources>

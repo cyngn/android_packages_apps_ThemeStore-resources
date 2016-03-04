@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">ಥೀಮ್ಸ್</string>
+  <!-- Action Bar -->
   <string name="search">ಹುಡುಕಿ</string>
   <string name="search_hint">ಒಂದು ಥೀಮ್ ಹುಡುಕಿ</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">ಫೀಚರ್ಡ್</string>
   <string name="theme_packs">ಥೀಮ್ ಪ್ಯಾಕ್ಸ್</string>
   <string name="components">ಘಟಕಗಳು</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">ಲೇಖಕ ಅಜ್ಞಾತ</string>
   <string name="available_via_store">%s ಮೂಲಕ ಲಭ್ಯವಿದೆ</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">ಉಚಿತ</string>
+  <!-- Errors -->
   <string name="error_connection">ಸಂಪರ್ಕ ದೋಷ</string>
   <string name="error_invalid_response">ವಿಚಿತ್ರವಾಗಿದೆ, ಸರ್ವರ್ ಯಾವುದೇ ಥೀಮ್‍ಗಳನ್ನು ಹಿಂದಿರುಗಿಸಲಿಲ್ಲ.</string>
   <string name="error_authentication">ದೃಢೀಕರಣ ಸರ್ವರ್ ಜೊತೆ ಒಂದು ತೊಂದರೆಯಿದೆ.</string>
   <string name="error_nav_item_needs_authentication">ದೃಢೀಕರಿಸುವವರೆಗೆ ಆಯ್ಕೆಯು ಲಭ್ಯವಾಗುವುದಿಲ್ಲ. ನೀವು ಮರುಪ್ರಯತ್ನಿಸಿ ಬಟನ್ ಇತ್ತಿದ್ದೀರಾ?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">ಥೀಮ್ ಆಯ್ಕೆಕರ್ತದಲ್ಲಿ ವೀಕ್ಷಿಸಿ</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">ಉಚಿತ</string>
   <string name="all">ಎಲ್ಲಾ</string>
   <string name="for_sale">ಮಾರಾಟಕ್ಕಿದೆ</string>
   <string name="premium">ಪ್ರೀಮಿಯಂ</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d ನವೀಕರಣೆ ಲಭ್ಯವಿದೆ</item>
     <item quantity="other">%d ನವೀಕರಣೆಗಳು ಲಭ್ಯವಿದೆ</item>
@@ -51,8 +62,10 @@
   <string name="update_all">ಎಲ್ಲಾ ನವೀಕರಿಸು</string>
   <string name="checking_for_updates">ನವೀಕರಣೆಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ\u2026</string>
   <string name="updating_pkgname">\'%s\' ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">ನನ್ನ ಥೀಮ್ಸ್</string>
   <string name="installed">ಸ್ಥಾಪಿತ</string>
+  <!-- Component Categories -->
   <string name="category_icons">ಐಕಾನ್ಸ್</string>
   <string name="category_status_bar">ಸ್ಟೇಟಸ್ ಬಾರ್</string>
   <string name="category_controls">ಕಂಟ್ರೋಲ್ಸ್</string>
@@ -61,6 +74,7 @@
   <string name="category_boot_animations">ಬೂಟ್ ಆನಿಮೇಶನ್‍ಗಳು</string>
   <string name="category_wallpapers">ವಾಲ್‍ಪೇಪರ್‍ಗಳು</string>
   <string name="category_sound_packs">ಶಬ್ಧ ಪ್ಯಾಕ್ಸ್</string>
+  <!-- Theme Detail Strings -->
   <string name="update">ನವೀಕರಿಸಿ</string>
   <string name="read_more">ಮತ್ತಷ್ಟು ಓದಿ</string>
   <string name="contact_the_designer">ವಿನ್ಯಾಸಕರನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
@@ -68,6 +82,7 @@
   <string name="email_designer">ವಿನ್ಯಾಸಕಾರನಿಗೆ ಇಮೇಲ್ ಮಾಡಿ</string>
   <string name="more_by_this_designer">ಈ ವಿನ್ಯಾಸಕಾರನಿಂದ ಮತ್ತಷ್ಟು</string>
   <string name="report_theme">ಥೀಮ್ ವರದಿಮಾಡಿ</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">ಇದರಿಂದ ಇಮೇಲ್ ಕಳುಹಿಸಿ\u2026</string>
   <string name="price_installed">ಸ್ಥಾಪಿತ</string>
   <string name="price_uninstall">ಅನುಸ್ಥಾಪಿಸಿ</string>
@@ -77,32 +92,40 @@
   <string name="size">ಗಾತ್ರ</string>
   <string name="incompatible_outdated">ಗಮನಿಸಿ: %s ಹಳೆಯ ಆವೃತ್ತಿಯ CMಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಈ ಥೀಮ್ ಜೊತೆ ನೀಮಗೆ ಹೊಂದಾಣಿಕೆಯ ಸಮಸ್ಯೆಗಳ ಅನುಭವವಾಗಬಹುದು.</string>
   <string name="incompatible_newer">%s ಹೊಸ ಆವೃತ್ತಿಯ CMಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ ಮತ್ತು ಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">%s ಕುರಿತು</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s ಡೌನ್‍ಲೋಡ್‍ಗಳು</string>
   <string name="rate">ರೇಟ್</string>
   <string name="rated">ರೇಟೆಡ್</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s ರೇಟಿಂಗ್</item>
     <item quantity="other">%s ರೇಟಿಂಗ್ಸ್</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">ರೇಟ್ %s</string>
   <string name="rate_title_hint">ಶೀರ್ಷಿಕೆ</string>
   <string name="rate_message_hint">ಸಂದೇಶ</string>
   <string name="submit">ಸಲ್ಲಿಸಿ</string>
   <string name="delete">ಅಳಿಸಿ</string>
   <string name="rate_the_theme">ದಯವಿಟ್ಟು ಈ ಥೀಮ್‍ಗೆ 1 ರಿಂದ 5 ಸ್ಟಾರ್‍ಗಳ ಒಳಗೆ ರೇಟ್ ನೀಡಿ</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">ಥೀಮ್ ವರದಿಮಾಡಿ</string>
   <string name="report_dialog_reason_title">ವರದಿ ಮಾಡಲು ಕಾರಣ:</string>
   <string name="report_dialog_reason_sexual_graphic">ಲೈಂಗಿಕ ಅಥವ ಗ್ರಾಫಿಕ್ ಕಂಟೆಂಟ್</string>
   <string name="report_dialog_reason_abusive_hateful">ನಿಂದನಾತ್ಮಕ ಅಥವ ದ್ವೇಶಪೂರಿತ ಕಂಟೆಂಟ್</string>
   <string name="cancel">ರದ್ದು</string>
+  <!-- Download path -->
   <string name="installing_notification_text">\'%1$s\' ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ\u2026</string>
   <string name="installing">ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
   <string name="updating">ನವೀಕರಿಸುತ್ತಿದೆ</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">ಆಯ್ತು</string>
   <string name="installing_error_notification_text">%1$s ಸ್ಥಾಪಿಸುವಲ್ಲಿ ದೋಷವಾಗಿದೆ</string>
   <string name="download_error_notification_text">ಡೌನ್‍ಲೋಡ್ ಮಾಡುವಾಗ ದೋಷ</string>
   <string name="pm_error_notification_text">ಥೀಮ್ ಸ್ಥಾಪಿಸಲಾಗಲಿಲ್ಲ: %1$s</string>
+  <!-- Preferences -->
   <string name="general">ಸಾಮಾನ್ಯ</string>
   <string name="about">ಕುರಿತು</string>
   <string name="pref_title_download_notifications">ಅಧಿಸೂಚನೆಗಳು</string>
@@ -113,9 +136,11 @@
   <string name="pref_summary_opensource_licenses">ತೆರೆದ ಮೂಲ ತಂತ್ರಾಶಕ್ಕಾಗಿ ಪರವಾನಗಿ ವಿವರಗಳು</string>
   <string name="pref_title_opensource_licenses">ತೆರೆದ ಮೂಲ ಪರವಾನಗಿಗಳು</string>
   <string name="pref_title_buildversion">ನಿರ್ಮಾಣ ಆವೃತ್ತಿ</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">ಎಂದಿಗೂ ಸ್ವಯಂ-ನವೀಕರಿಸಬೇಡ</string>
   <string name="pref_update_connection_type_over_wifi">ವೈ-ಫೈ ಮೂಲಕ ಮಾತ್ರ ಸ್ವಯಂ-ನವೀಕರಿಸು</string>
   <string name="pref_update_connection_type_any_time">ಯಾವ ಸಮಯದಲ್ಲಾದರೂ ಸ್ವಯಂ-ನವೀಕರಿಸು</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">ಒಳಗೊಂಡ ಘಟಕಗಳು</string>
   <string name="included_component_boot_animation">ಬೂಟ್ ಅನಿಮೇಷನ್</string>
   <string name="included_component_font">ಫಾಂಟ್</string>
@@ -126,26 +151,36 @@
   <string name="included_component_controls">ಕಂಟ್ರೋಲ್ಸ್</string>
   <string name="included_component_wallpaper">ವಾಲ್‍ಪೇಪರ್</string>
   <string name="included_component_lockscreen_wallpaper">ಲಾಕ್‍ ಪರದೆ ವಾಲ್‍ಪೇಪರ್</string>
+  <!-- Search -->
   <string name="recent_searches">ಇತ್ತೀಚಿನ ಹುಡುಕಾಟಗಳು</string>
   <string name="no_recent_searches">ಯಾವುದೇ ಇತ್ತೀಚಿನ ಹುಡುಕಾಟಗಳಿಲ್ಲ</string>
   <string name="suggested_searches">ಸೂಚಿತ ಹುಡುಕಾಟಗಳು</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d ಥೀಮ್ ನವೀಕರಣೆ</item>
     <item quantity="other">%d ಥೀಮ್ ನವೀಕರಣೆಗಳು</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">%s ನವೀಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ</item>
     <item quantity="other">%1$s ಹಾಗು %2$s ನವೀಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%dಕ್ಕಿಂತ ಹೆಚ್ಚು</string>
   <string name="no_themes_available">ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ</string>
   <string name="get_themes">ಥೀಮ್ಸ್ ಪಡೆಯಿರಿ</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">ನಿರಾಕರಿಸಿ</string>
   <string name="eula_accept">ಅಂಗೀಕರಿಸಿ</string>
   <string name="eula_message">ಥೀಮ್ ಮಾರುಕಟ್ಟೆ ಉಪಯೋಗಿಸುವುದರಿಂದ, ನೀವು <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Cyanogen ಥೀಮ್ ಮಾರುಕಟ್ಟೆ ಸೇವಾ ನಿಯಮಗಳನ್ನು ಒಪ್ಪುತ್ತೀರಿ.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">ಹೊಸತಾದ</string>
   <string name="sort_alphabetically">ಅ-ಅಃ</string>
   <string name="sort_rating">ರೇಟಿಂಗ್</string>
   <string name="sort_popular">ಜನಪ್ರಿಯ</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">ಪ್ಲೇ ಸ್ಟೋರ್</string>
 </resources>
