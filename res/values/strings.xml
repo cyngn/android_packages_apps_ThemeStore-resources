@@ -17,7 +17,7 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
 
     <string name="app_name">Themes</string>
-    <string name="version_name" translatable="false">2.0</string>
+    <string name="version_name" translatable="false">2.1.0</string>
 
     <!-- Action Bar -->
     <string name="search">Search</string>
@@ -48,6 +48,8 @@
     <string name="error_invalid_response">Oddly enough, the server did not return any themes.</string>
     <string name="error_authentication">There was a problem with the authentication server.</string>
     <string name="error_nav_item_needs_authentication">Option unavailable until authenticated. Did you press the retry button?</string>
+    <string name="auth_failed_title">Connection error</string>
+    <string name="auth_failed_msg">The store requires an active internet connection.</string>
 
     <!-- Retry connecting to server again -->
     <string name="retry">Retry</string>
@@ -67,8 +69,8 @@
 
     <!-- Updating Header Strings -->
     <plurals name="number_of_updates_avail">
-        <item quantity="one">%d update available</item>
-        <item quantity="other">%d updates available</item>
+        <item quantity="one">%d free theme to update</item>
+        <item quantity="other">%d free themes to update</item>
     </plurals>
     <string name="no_updates">All themes up to date</string>
     <string name="update_all">Update all</string>
@@ -159,6 +161,10 @@
     <string name="pref_summary_opensource_licenses">License details for open source software</string>
     <string name="pref_title_opensource_licenses">Open source licenses</string>
     <string name="pref_title_buildversion">Build version</string>
+
+    <string name="back_button_label">Back</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="next_button_label">Next</string>
 
     <!-- Preferences: Auto update -->
     <string name="pref_update_connection_type_never_update">Never auto-update</string>
