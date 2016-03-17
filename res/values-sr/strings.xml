@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Зачудо, сервер није вратио ниједну тему.</string>
   <string name="error_authentication">Постоји проблем са сервером аутентикације.</string>
   <string name="error_nav_item_needs_authentication">Опција онемогућена пре аутентикације. Да ли сте притисли дугме за назад?</string>
+  <string name="auth_failed_title">Грешка при конекцији</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Понови</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d ажурирање доступно</item>
-    <item quantity="few">%d ажурирања доступна</item>
-    <item quantity="other">%d ажурирања доступна</item>
-  </plurals>
   <string name="no_updates">Све теме су ажуриране</string>
   <string name="update_all">Ажурирај све</string>
   <string name="checking_for_updates">Провери ажурирања\u2026</string>

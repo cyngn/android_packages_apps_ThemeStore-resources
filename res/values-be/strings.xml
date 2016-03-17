@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Як ні дзіўна, але сервер не перадаў звесткі пра тэмы.</string>
   <string name="error_authentication">Выяўлена праблема з серверам аўтарызацыі.</string>
   <string name="error_nav_item_needs_authentication">Дадзеная опцыя недаступная без аўтарызацыі. Паўтарыць спробу?</string>
+  <string name="auth_failed_title">Памылка злучэння</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Паўтарыць спробу</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">Даступна %d абнаўленне</item>
-    <item quantity="few">Даступна %d абнаўленні</item>
-    <item quantity="other">Даступна %d абнаўленняў</item>
-  </plurals>
   <string name="no_updates">Няма абнаўленняў</string>
   <string name="update_all">Абнавіць усё</string>
   <string name="checking_for_updates">Праверка абнаўленняў\u2026</string>

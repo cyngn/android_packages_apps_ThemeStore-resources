@@ -41,6 +41,7 @@
   <string name="error_invalid_response">De server geeft vreemd genoeg geen thema\'s door.</string>
   <string name="error_authentication">Er is een probleem opgetreden met de authenticatieserver.</string>
   <string name="error_nav_item_needs_authentication">Optie niet beschikbaar tot authenticatie. Heeft u de Opnieuw-knop gebruikt?</string>
+  <string name="auth_failed_title">Verbindingsfout</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Opnieuw proberen</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,8 +56,8 @@
   <string name="paid_3rd_party_price">€</string>
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d update beschikbaar</item>
-    <item quantity="other">%d updates beschikbaar</item>
+    <item quantity="one">Update voor %d gratis thema beschikbaar</item>
+    <item quantity="other">Update voor %d gratis thema\'s beschikbaar</item>
   </plurals>
   <string name="no_updates">Alle thema\'s zijn bijgewerkt</string>
   <string name="update_all">Alles bijwerken</string>
@@ -136,6 +137,9 @@
   <string name="pref_summary_opensource_licenses">Licentiedetails voor open-sourcesoftware</string>
   <string name="pref_title_opensource_licenses">Open-sourcelicenties</string>
   <string name="pref_title_buildversion">Build-versie</string>
+  <string name="back_button_label">Terug</string>
+  <string name="skip_button_label">Overslaan</string>
+  <string name="next_button_label">Volgende</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Nooit automatisch bijwerken</string>
   <string name="pref_update_connection_type_over_wifi">Alleen automatisch bijwerken via wifi</string>

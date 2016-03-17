@@ -41,6 +41,7 @@
   <string name="error_invalid_response">ವಿಚಿತ್ರವಾಗಿದೆ, ಸರ್ವರ್ ಯಾವುದೇ ಥೀಮ್‍ಗಳನ್ನು ಹಿಂದಿರುಗಿಸಲಿಲ್ಲ.</string>
   <string name="error_authentication">ದೃಢೀಕರಣ ಸರ್ವರ್ ಜೊತೆ ಒಂದು ತೊಂದರೆಯಿದೆ.</string>
   <string name="error_nav_item_needs_authentication">ದೃಢೀಕರಿಸುವವರೆಗೆ ಆಯ್ಕೆಯು ಲಭ್ಯವಾಗುವುದಿಲ್ಲ. ನೀವು ಮರುಪ್ರಯತ್ನಿಸಿ ಬಟನ್ ಇತ್ತಿದ್ದೀರಾ?</string>
+  <string name="auth_failed_title">ಸಂಪರ್ಕ ದೋಷ</string>
   <!-- Retry connecting to server again -->
   <string name="retry">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d ನವೀಕರಣೆ ಲಭ್ಯವಿದೆ</item>
-    <item quantity="other">%d ನವೀಕರಣೆಗಳು ಲಭ್ಯವಿದೆ</item>
-  </plurals>
   <string name="no_updates">ಎಲ್ಲಾ ಥೀಮ್ಸ್ ನವೀಕೃತವಾಗಿದೆ</string>
   <string name="update_all">ಎಲ್ಲಾ ನವೀಕರಿಸು</string>
   <string name="checking_for_updates">ನವೀಕರಣೆಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ\u2026</string>

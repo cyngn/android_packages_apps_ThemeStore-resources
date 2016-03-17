@@ -41,6 +41,7 @@
   <string name="error_invalid_response">이상하게도, 서버가 테마를 하나도 보내주지 않았습니다.</string>
   <string name="error_authentication">인증 서버에 문제가 있습니다.</string>
   <string name="error_nav_item_needs_authentication">옵션은 인증될 때까지 사용할 수 없습니다. 다시 시도하시겠습니까?</string>
+  <string name="auth_failed_title">연결 오류</string>
   <!-- Retry connecting to server again -->
   <string name="retry">다시 시도</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,9 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="other">%d개의 업데이트 가능</item>
-  </plurals>
   <string name="no_updates">모든 테마가 최신</string>
   <string name="update_all">모두 업데이트</string>
   <string name="checking_for_updates">업데이트 확인 중\u2026</string>

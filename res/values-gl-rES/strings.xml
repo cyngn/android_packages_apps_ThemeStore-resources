@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Vaia, o servidor non devolve temas.</string>
   <string name="error_authentication">Produciuse un problema co servidor de autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción non dispoñíbel ata autenticación. Premeu sobre o botón \'tentar de novo\'?</string>
+  <string name="auth_failed_title">Erro na conexión</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Tentar de novo</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d actualización dispoñíbel</item>
-    <item quantity="other">%d actualizacións dispoñíbeis</item>
-  </plurals>
   <string name="no_updates">Todos os temas actualizados</string>
   <string name="update_all">Actualizar todo</string>
   <string name="checking_for_updates">Buscando actualizacións\u2026</string>

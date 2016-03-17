@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Oddly enough, the server did not return any themes.</string>
   <string name="error_authentication">There was a problem with the authentication server.</string>
   <string name="error_nav_item_needs_authentication">Option unavailable until authenticated. Did you press the retry button?</string>
+  <string name="auth_failed_title">Connection error</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Retry</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d update available</item>
-    <item quantity="other">%d updates available</item>
-  </plurals>
   <string name="no_updates">All themes up to date</string>
   <string name="update_all">Update all</string>
   <string name="checking_for_updates">Checking for updates\u2026</string>

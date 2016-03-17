@@ -41,6 +41,7 @@
   <string name="error_invalid_response">من الغريب، لم يرجع الخادم أي سمات.</string>
   <string name="error_authentication">هناك مشكلة في خادم المصادقة.</string>
   <string name="error_nav_item_needs_authentication">الخيار غير متوفر حتى المصادقة. هل ضغطت على زر إعادة المحاولة؟</string>
+  <string name="auth_failed_title">خطأ في الاتصال</string>
   <!-- Retry connecting to server again -->
   <string name="retry">إعادة المحاولة</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,14 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">دولار</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="zero">%d تحديث متاح</item>
-    <item quantity="one">%d تحديثات متاحة</item>
-    <item quantity="two">%d تحديثات متاحة</item>
-    <item quantity="few">%d تحديثات متاحة</item>
-    <item quantity="many">%d تحديثات متاحة</item>
-    <item quantity="other">%d تحديثات متاحة</item>
-  </plurals>
   <string name="no_updates">جميع السمات محدثة</string>
   <string name="update_all">تحديث الكل</string>
   <string name="checking_for_updates">جاري التحقق من وجود تحديثات</string>

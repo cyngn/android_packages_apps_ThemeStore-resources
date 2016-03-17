@@ -41,6 +41,8 @@
   <string name="error_invalid_response">Curiosamente, o servidor não tem nenhuns temas para mostrar.</string>
   <string name="error_authentication">Houve um problema com a autenticação no servidor.</string>
   <string name="error_nav_item_needs_authentication">Opção indisponível até estar autenticado. Apertou o botão para tentar novamente?</string>
+  <string name="auth_failed_title">Erro de ligação</string>
+  <string name="auth_failed_msg">A loja requer uma ligação de internet ativa.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Tentar novamente</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,8 +56,8 @@
          a 3rd party paid -->
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d atualização disponível</item>
-    <item quantity="other">%d atualizações disponíveis</item>
+    <item quantity="one">%d tema grátis por atualizar</item>
+    <item quantity="other">%d temas grátis por atualizar</item>
   </plurals>
   <string name="no_updates">Todos os temas estão atualizados</string>
   <string name="update_all">Atualizar todos</string>
@@ -135,6 +137,9 @@
   <string name="pref_summary_opensource_licenses">Detalhes da licença para o software de código livre</string>
   <string name="pref_title_opensource_licenses">Licenças de código livre</string>
   <string name="pref_title_buildversion">Versão da compilação</string>
+  <string name="back_button_label">Voltar</string>
+  <string name="skip_button_label">Ignorar</string>
+  <string name="next_button_label">Seguinte</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Nunca atualizar automaticamente</string>
   <string name="pref_update_connection_type_over_wifi">Atualizar automaticamente apenas por wi-fi</string>

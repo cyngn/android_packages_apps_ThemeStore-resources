@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Furcsamód a szerver nem küldött vissza semmilyen témát.</string>
   <string name="error_authentication">Probléma történt a hitelesítő szerverrel.</string>
   <string name="error_nav_item_needs_authentication">Az opció nem érhető el, amíg nem történt hitelesítés. Megnyomta az újra gombot?</string>
+  <string name="auth_failed_title">Kapcsolódási hiba</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Újra</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d frissítés elérhető</item>
-    <item quantity="other">%d frissítés elérhető</item>
-  </plurals>
   <string name="no_updates">Minden téma naprakész</string>
   <string name="update_all">Összes frissítése</string>
   <string name="checking_for_updates">Frissítések keresése\u2026</string>

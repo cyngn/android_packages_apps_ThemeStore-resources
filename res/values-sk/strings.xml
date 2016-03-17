@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Server tém neposkytol žiadny zoznam dostupných tém.</string>
   <string name="error_authentication">Vyskytol sa problém s overovacím serverom.</string>
   <string name="error_nav_item_needs_authentication">Možnosť nebude dostupná do overenia. Stlačili ste tlačidlo na opakovanie?</string>
+  <string name="auth_failed_title">Chyba pripojenia</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Skúsiť znova</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d dostupná aktualizácia</item>
-    <item quantity="few">%d dostupné aktualizácie</item>
-    <item quantity="other">%d dostupných aktualizácií</item>
-  </plurals>
   <string name="no_updates">Všetky témy sú aktuálne</string>
   <string name="update_all">Aktualizovať všetky</string>
   <string name="checking_for_updates">Kontrola aktualizácií\u2026</string>

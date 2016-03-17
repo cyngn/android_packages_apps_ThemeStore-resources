@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Як не дивно, сервер не передав відомості про теми.</string>
   <string name="error_authentication">Виникла проблема із сервером аутентифікації.</string>
   <string name="error_nav_item_needs_authentication">Параметр недоступний без перевірки автентичності. Ви натискали кнопку повторної спроби?</string>
+  <string name="auth_failed_title">Помилка підключення</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Повторити спробу</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d оновлення доступне</item>
-    <item quantity="few">%d оновлення доступно</item>
-    <item quantity="other">%d оновлень доступно</item>
-  </plurals>
   <string name="no_updates">Всі теми мають актуальну версію</string>
   <string name="update_all">Оновити всі</string>
   <string name="checking_for_updates">Перевірка оновлень\u2026</string>

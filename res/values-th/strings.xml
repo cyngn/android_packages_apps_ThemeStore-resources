@@ -41,6 +41,7 @@
   <string name="error_invalid_response">มีปัญหา เซิร์ฟเวอร์ไม่พบรูปแบบธีม</string>
   <string name="error_authentication">มีปัญหากับเซิร์ฟเวอร์การยืนยันตัวตน</string>
   <string name="error_nav_item_needs_authentication">ตัวเลือกนี้ไม่สามารถใช้ได้จนกว่าจะมีการยืนยัน คุณกดปุ่มลองอีกครั้งแล้วหรือยัง</string>
+  <string name="auth_failed_title">การเชื่อมต่อมีปัญหา</string>
   <!-- Retry connecting to server again -->
   <string name="retry">ลองอีกครั้ง</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,9 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="other">%d การปรับปรุงพร้อมใช้</item>
-  </plurals>
   <string name="no_updates">ทุกรูปแบบธีมเป็นรุ่นล่าสุดแล้ว</string>
   <string name="update_all">อัปเดตทั้งหมด</string>
   <string name="checking_for_updates">กำลังตรวจสอบการอัปเดต\u2026</string>

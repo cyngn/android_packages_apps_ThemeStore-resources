@@ -38,6 +38,7 @@
   <string name="error_invalid_response">Ciudat, dar server-ul nu a returnat nicio temă.</string>
   <string name="error_authentication">A existat o problemă cu serverul de autentificare.</string>
   <string name="error_nav_item_needs_authentication">Opțiune indisponibilă până când sunteți autentificat. Ați apăsat butonul de reîncercare?</string>
+  <string name="auth_failed_title">Eroare de conexiune</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Reîncearcă</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -51,11 +52,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d actualizare disponibilă</item>
-    <item quantity="few">%d actualizări disponibile</item>
-    <item quantity="other">%d actualizări disponibile</item>
-  </plurals>
   <string name="no_updates">Toate temele actualizate</string>
   <string name="update_all">Actualizați toate</string>
   <string name="checking_for_updates">Verificare pentru actualizări\u2026</string>
@@ -82,6 +78,7 @@
   <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="price_installed">Instalat</string>
   <string name="price_uninstall">Dezinstalați</string>
+  <string name="apply">Activare</string>
   <string name="applied">Aplicate</string>
   <string name="version">versiune</string>
   <string name="size">dimensiune</string>
@@ -123,10 +120,14 @@
   <string name="about">Despre</string>
   <string name="pref_title_download_notifications">Notificări</string>
   <string name="pref_summary_download_notifications">Anunță-mă când o temă are o actualizare</string>
+  <string name="pref_title_update_connection_type">Auto-actualizare</string>
   <string name="pref_title_clear_search_history">Șterge istoricul căutărilor</string>
   <string name="pref_summary_clear_sarch_history">Elimină toate căutările pe care le-ați efectuat</string>
   <string name="pref_summary_opensource_licenses">Detalii de licență pentru software open source</string>
   <string name="pref_title_opensource_licenses">Licențe Open source</string>
+  <string name="back_button_label">Înapoi</string>
+  <string name="skip_button_label">Omite</string>
+  <string name="next_button_label">Înainte</string>
   <!-- Preferences: Auto update -->
   <!-- Detail included components -->
   <string name="included_components_header_title">Componentele incluse</string>

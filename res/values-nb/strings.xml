@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Merkelig nok, returnerte serveren ikke noen temaer.</string>
   <string name="error_authentication">Det oppstod et problem med godkjenningsserveren.</string>
   <string name="error_nav_item_needs_authentication">Alternativet utilgjengelig til godkjent. har du prøvd på nytt?</string>
+  <string name="auth_failed_title">Tilkoblingsfeil</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Prøv på nytt</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d-oppdatering er tilgjengelig</item>
-    <item quantity="other">%d-oppdateringer er tilgjengelige</item>
-  </plurals>
   <string name="no_updates">Alle temaer oppdaterte</string>
   <string name="update_all">Oppdater alle</string>
   <string name="checking_for_updates">Se etter oppdateringer\u2026</string>

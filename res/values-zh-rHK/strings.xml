@@ -38,6 +38,7 @@
   <string name="error_invalid_response">很奇怪，伺服器沒有傳回任何主題。</string>
   <string name="error_authentication">連線至驗證伺服器時出現問題。</string>
   <string name="error_nav_item_needs_authentication">在驗證前無法使用此選項。您試過按重試按鈕嗎？</string>
+  <string name="auth_failed_title">連線錯誤</string>
   <!-- Retry connecting to server again -->
   <string name="retry">重試</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -51,9 +52,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="other">%d 個更新可用</item>
-  </plurals>
   <string name="no_updates">所有均為最新主題</string>
   <string name="update_all">全部更新</string>
   <string name="checking_for_updates">正在檢查更新\u2026</string>

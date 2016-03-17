@@ -41,6 +41,7 @@
   <string name="error_invalid_response">サーバーが応答していません。</string>
   <string name="error_authentication">認証サーバーでエラーが発生しました。</string>
   <string name="error_nav_item_needs_authentication">認証されるまでオプションは利用できません、再試行ボタンを押しましたか？</string>
+  <string name="auth_failed_title">接続エラー</string>
   <!-- Retry connecting to server again -->
   <string name="retry">再試行</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,9 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">￥</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="other">%d件の更新が利用可能です</item>
-  </plurals>
   <string name="no_updates">テーマはすべて最新の状態です</string>
   <string name="update_all">すべて更新</string>
   <string name="checking_for_updates">更新を確認中\u2026</string>

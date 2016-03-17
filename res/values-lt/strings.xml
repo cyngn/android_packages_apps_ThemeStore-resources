@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Serveris negražino jokių temų.</string>
   <string name="error_authentication">Iškilo problema su autentifikavimo serveriu.</string>
   <string name="error_nav_item_needs_authentication">Parinktis nepasiekiama, kol patvirtinta. Ar jūs paspaudžiate mygtuką kartoti?</string>
+  <string name="auth_failed_title">Prisijungimo klaida</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Bandyti dar kartą</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d pasiekiamas atnaujinimas</item>
-    <item quantity="few">%d pasiekiami atnaujinimai</item>
-    <item quantity="other">%d pasiekiamų atnaujinimų</item>
-  </plurals>
   <string name="no_updates">Visos temos yra naujausios</string>
   <string name="update_all">Atnaujinti visus</string>
   <string name="checking_for_updates">Ieškoma atnaujinimų\u2026</string>

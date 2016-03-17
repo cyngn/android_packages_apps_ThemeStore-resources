@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Qəribədir ki, server heç tema göndərməyib.</string>
   <string name="error_authentication">Kimlik təsdiqləmə serveri ilə bağlı problem vardı.</string>
   <string name="error_nav_item_needs_authentication">Kimlik təsdiqlənənə qədər seçimdən istifadə edilə bilməz. Yenidən düyməsinə basdınız?</string>
+  <string name="auth_failed_title">Bağlantı xətası</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Yenidən yoxla</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d yeniləmə mövcuddur</item>
-    <item quantity="other">%d yeniləmə mövcuddur</item>
-  </plurals>
   <string name="no_updates">Bütün temalar yenidir</string>
   <string name="update_all">Hamısını yenilə</string>
   <string name="checking_for_updates">Yeniləmələr yoxlanılır\u2026</string>

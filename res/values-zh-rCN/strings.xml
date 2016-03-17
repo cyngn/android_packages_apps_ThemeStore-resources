@@ -41,6 +41,8 @@
   <string name="error_invalid_response">奇怪的是，服务器未返回任何主题。</string>
   <string name="error_authentication">与身份认证服务器通信的过程中遇到了问题。</string>
   <string name="error_nav_item_needs_authentication">在完成身份认证前，选项不可用。您是否按了重试按钮？</string>
+  <string name="auth_failed_title">连接错误</string>
+  <string name="auth_failed_msg">商店需要可用的互联网连接。</string>
   <!-- Retry connecting to server again -->
   <string name="retry">重试</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,7 +57,7 @@
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="other">%d 个更新可用</item>
+    <item quantity="other">%d 个免费主题更新</item>
   </plurals>
   <string name="no_updates">所有的主题已是最新</string>
   <string name="update_all">全部更新</string>
@@ -134,6 +136,9 @@
   <string name="pref_summary_opensource_licenses">开源许可证的详细信息</string>
   <string name="pref_title_opensource_licenses">开源许可证</string>
   <string name="pref_title_buildversion">构建版本</string>
+  <string name="back_button_label">后退</string>
+  <string name="skip_button_label">跳过</string>
+  <string name="next_button_label">下一步</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">永不自动更新</string>
   <string name="pref_update_connection_type_over_wifi">仅通过 Wi-Fi 自动更新</string>

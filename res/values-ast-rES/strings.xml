@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Curiosamente, el sirvidor nun devolvió nengún tema.</string>
   <string name="error_authentication">Hebo un problema col sirvidor d\'autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción non disponible fasta que t\'autentiques. ¿Primísti\'l botón Reintentar?</string>
+  <string name="auth_failed_title">Fallu de conexón</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Repetir</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">€</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d anovamientu disponible</item>
-    <item quantity="other">%d anovamientos disponibles</item>
-  </plurals>
   <string name="no_updates">Tolos temes tán anovaos</string>
   <string name="update_all">Anovar too</string>
   <string name="checking_for_updates">Comprobando anovamientos\u2026</string>

@@ -38,16 +38,18 @@
   <string name="price_free">חינם</string>
   <!-- Errors -->
   <string name="error_connection">שגיאת חיבור</string>
-  <string name="error_invalid_response">באופן מוזר, השרת לא החזיר אף ערכת עיצוב.</string>
-  <string name="error_authentication">הייתה בעיה עם שרת האימות.</string>
-  <string name="error_nav_item_needs_authentication">האפשרות אינה זמינה עד ביצוע אימות. האם לחצת על \"נסה שנית\"?</string>
+  <string name="error_invalid_response">למרבה הפלא, השרת לא החזיר אף ערכת עיצוב.</string>
+  <string name="error_authentication">התגלתה בעיה עם שרת האימות.</string>
+  <string name="error_nav_item_needs_authentication">האפשרות אינה זמינה עד לביצוע אימות. האם לחצת על \"נסה שנית\"?</string>
+  <string name="auth_failed_title">שגיאת חיבור</string>
+  <string name="auth_failed_msg">החנות דורשת חיבור אינטרנט פעיל.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">נסה שנית</string>
   <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">הצג בבוחר ערכות העיצוב</string>
   <!-- Subsections For Theme Listings -->
   <string name="free">חינם</string>
-  <string name="all">הכל</string>
+  <string name="all">הכול</string>
   <string name="for_sale">למכירה</string>
   <string name="premium">פרימיום</string>
   <!-- This is what we show as a theme's price in the listing pages when the theme is
@@ -55,15 +57,15 @@
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="one">עדכון %d זמין</item>
-    <item quantity="other">%d עדכונים זמינים</item>
+    <item quantity="one">ערכת עיצוב חינמית %d לעדכון</item>
+    <item quantity="other">%d ערכות עיצוב חינמיות לעדכון</item>
   </plurals>
   <string name="no_updates">כל ערכות העיצוב מעודכנות</string>
-  <string name="update_all">עדכן הכל</string>
+  <string name="update_all">עדכן הכול</string>
   <string name="checking_for_updates">בודק לעדכונים\u2026</string>
   <string name="updating_pkgname">מעדכן את \"%s\"\u2026</string>
   <!-- Subsections for Mystuff -->
-  <string name="my_themes">הערכות שלי</string>
+  <string name="my_themes">ערכות העיצוב שלי</string>
   <string name="installed">מותקן</string>
   <!-- Component Categories -->
   <string name="category_icons">סמלים</string>
@@ -81,7 +83,7 @@
   <string name="visit_website">בקר באתר</string>
   <string name="email_designer">שלח דוא\"ל למעצב</string>
   <string name="more_by_this_designer">עוד ממעצב זה</string>
-  <string name="report_theme">דווח ערכה</string>
+  <string name="report_theme">דיווח ערכת עיצוב</string>
   <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">שלח דוא\"ל דרך\u2026</string>
   <string name="price_installed">מותקן</string>
@@ -90,7 +92,7 @@
   <string name="applied">הוחל</string>
   <string name="version">גרסה</string>
   <string name="size">גודל</string>
-  <string name="incompatible_outdated">%s עוצב עבור גרסה ישנה יותר של CM. ייתכן וייווצרו בעיות תאימות עם ערכת עיצוב זאת.</string>
+  <string name="incompatible_outdated">%s עוצב עבור גרסה ישנה יותר של CM. ייתכנו בעיות תאימות עם ערכת העיצוב.</string>
   <string name="incompatible_newer">%s עוצב עבור גרסה חדשה יותר של CM ולא ניתן להתקינו.</string>
   <!-- Theme Detail Description -->
   <string name="about_theme_name">אודות %s</string>
@@ -109,12 +111,12 @@
   <string name="rate_message_hint">הודעה</string>
   <string name="submit">שלח</string>
   <string name="delete">מחק</string>
-  <string name="rate_the_theme">אנא דרג את ערכת העיצוב בטווח של 1 עד 5 כוכבים</string>
+  <string name="rate_the_theme">אנא דרג את ערכת העיצוב בין 1 עד 5 כוכבים</string>
   <!-- Report theme dialog -->
-  <string name="report_dialog_title">דווח ערכה</string>
+  <string name="report_dialog_title">דיווח ערכת עיצוב</string>
   <string name="report_dialog_reason_title">סיבת הדיווח:</string>
-  <string name="report_dialog_reason_sexual_graphic">תוכן מיני או גרפי</string>
-  <string name="report_dialog_reason_abusive_hateful">תוכן פוגעני או מראה שנאה</string>
+  <string name="report_dialog_reason_sexual_graphic">תוכן מיני או נועז</string>
+  <string name="report_dialog_reason_abusive_hateful">תוכן פוגעני או עוין</string>
   <string name="cancel">בטל</string>
   <!-- Download path -->
   <string name="installing_notification_text">מתקין את \"%1$s\"\u2026</string>
@@ -124,18 +126,21 @@
   <string name="error_dialog_button_text">אישור</string>
   <string name="installing_error_notification_text">שגיאה בהתקנת %1$s</string>
   <string name="download_error_notification_text">שגיאה בהורדה</string>
-  <string name="pm_error_notification_text">לא יכול להתקין את הערכה: %1$s</string>
+  <string name="pm_error_notification_text">לא ניתן להתקין את ערכת העיצוב: %1$s</string>
   <!-- Preferences -->
   <string name="general">כללי</string>
   <string name="about">אודות</string>
   <string name="pref_title_download_notifications">התראות</string>
-  <string name="pref_summary_download_notifications">הודע לי כאשר ישנו עדכון לערכה</string>
+  <string name="pref_summary_download_notifications">הודע לי כאשר קיים עדכון לערכת עיצוב</string>
   <string name="pref_title_update_connection_type">עדכון אוטומטי</string>
   <string name="pref_title_clear_search_history">נקה היסטוריית חיפוש</string>
-  <string name="pref_summary_clear_sarch_history">מוחק את כל החיפושים שביצעת</string>
+  <string name="pref_summary_clear_sarch_history">מסיר את כל החיפושים שביצעת</string>
   <string name="pref_summary_opensource_licenses">פרטי רישיון לתוכנת קוד פתוח</string>
   <string name="pref_title_opensource_licenses">רשיונות קוד פתוח</string>
   <string name="pref_title_buildversion">גרסת תוכנה</string>
+  <string name="back_button_label">חזרה</string>
+  <string name="skip_button_label">דלג</string>
+  <string name="next_button_label">הבא</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">לעולם אל תעדכן אוטומטית</string>
   <string name="pref_update_connection_type_over_wifi">עדכן אוטומטית רק דרך Wi-Fi</string>
@@ -175,7 +180,7 @@
   <!-- Eula Strings -->
   <string name="eula_decline">סרב</string>
   <string name="eula_accept">קבל</string>
-  <string name="eula_message">על-ידי שימוש בחנות ערכות העיצוב, אתה מסכים ל<xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>תנאי השירות של חנות ערכות העיצוב של Cyanogen.<![CDATA[<\a>]]></string>
+  <string name="eula_message">השימוש בחנות ערכות העיצוב, מחייב אותך ל<xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>תנאי השירות של ה- Theme Store של Cyanogen.<![CDATA[<\a>]]></string>
   <!-- Sorting -->
   <string name="sort_newest">החדש ביותר</string>
   <string name="sort_alphabetically">א-ת / A-Z</string>

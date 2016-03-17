@@ -41,6 +41,7 @@
   <string name="error_invalid_response">İlginç ki, sunucu hiç tema göndermedi.</string>
   <string name="error_authentication">Kimlik doğrulama sunucusu ile ilgili bir sorun vardı.</string>
   <string name="error_nav_item_needs_authentication">Kimlik doğrulanana kadar seçenek kullanılamaz. Yeniden dene tuşuna bastınız mı?</string>
+  <string name="auth_failed_title">Bağlantı hatası</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Yeniden dene</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,10 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d güncelleme mevcut</item>
-    <item quantity="other">%d güncelleme mevcut</item>
-  </plurals>
   <string name="no_updates">Tüm temalar güncel</string>
   <string name="update_all">Tümünü güncelle</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor\u2026</string>

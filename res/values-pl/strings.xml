@@ -41,6 +41,7 @@
   <string name="error_invalid_response">Co dziwne, serwer nie zwraca żadnych motywów.</string>
   <string name="error_authentication">Wystąpił problem z serwerem uwierzytelniającym.</string>
   <string name="error_nav_item_needs_authentication">Opcja niedostępna do czasu uwierzytelnienia. Czy został naciśnięty przycisk ponów próbę?</string>
+  <string name="auth_failed_title">Błąd połączenia</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Ponów próbę</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -54,11 +55,6 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">Zł</string>
   <!-- Updating Header Strings -->
-  <plurals name="number_of_updates_avail">
-    <item quantity="one">%d aktualizacja dostępna</item>
-    <item quantity="few">%d aktualizacje dostępne</item>
-    <item quantity="other">%d aktualizacji dostępnych</item>
-  </plurals>
   <string name="no_updates">Wszystkie motywy są aktualne</string>
   <string name="update_all">Zaktualizuj wszystkie</string>
   <string name="checking_for_updates">Szukanie aktualizacji\u2026</string>

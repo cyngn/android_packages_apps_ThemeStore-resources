@@ -41,6 +41,8 @@
   <string name="error_invalid_response">El servidor no ha devuelto ningún tema.</string>
   <string name="error_authentication">Ha habido un problema con el servidor de autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción no disponible hasta la autenticación. ¿Has pulsado el botón reintentar?</string>
+  <string name="auth_failed_title">Error de conexión</string>
+  <string name="auth_failed_msg">Se necesita una conexión a Internet activa.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Reintentar</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,8 +57,8 @@
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d actualización disponible</item>
-    <item quantity="other">%d actualizaciones disponibles</item>
+    <item quantity="one">%d tema gratuito por actualizar</item>
+    <item quantity="other">%d temas gratuitos por actualizar</item>
   </plurals>
   <string name="no_updates">Todos los temas actualizados</string>
   <string name="update_all">Actualizar todo</string>
@@ -136,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Detalles de licencia del software de código abierto</string>
   <string name="pref_title_opensource_licenses">Licencias de software libre</string>
   <string name="pref_title_buildversion">Versión de compilación</string>
+  <string name="back_button_label">Atrás</string>
+  <string name="skip_button_label">Saltar</string>
+  <string name="next_button_label">Siguiente</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">No actualizar automáticamente</string>
   <string name="pref_update_connection_type_over_wifi">Actualizar automáticamente sólo vía Wi-Fi</string>

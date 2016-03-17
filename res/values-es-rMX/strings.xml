@@ -21,12 +21,17 @@
   <!-- TODO: Remove test string -->
   <!-- Store Pricing, also shows pkg status -->
   <!-- Errors -->
+  <string name="auth_failed_msg">Se necesita una conexión a Internet activa.</string>
   <!-- Retry connecting to server again -->
   <!-- When Theme is installed, show this option in detail page -->
   <!-- Subsections For Theme Listings -->
   <!-- This is what we show as a theme's price in the listing pages when the theme is
          a 3rd party paid -->
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d tema gratuito por actualizar</item>
+    <item quantity="other">%d temas gratuitos por actualizar</item>
+  </plurals>
   <!-- Subsections for Mystuff -->
   <!-- Component Categories -->
   <!-- Theme Detail Strings -->
@@ -34,18 +39,33 @@
   <!-- Theme Detail Description -->
   <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <!-- All Reviews for a given theme -->
+  <plurals name="all_reviews_title">
+    <item quantity="one">%s valoración</item>
+    <item quantity="other">%s valoraciones</item>
+  </plurals>
   <!-- Rating Popup -->
   <!-- Report theme dialog -->
   <!-- Download path -->
   <!-- Error strings -->
   <!-- Preferences -->
+  <string name="back_button_label">Atrás</string>
+  <string name="skip_button_label">Saltar</string>
+  <string name="next_button_label">Siguiente</string>
   <!-- Preferences: Auto update -->
   <!-- Detail included components -->
   <!-- Search -->
   <!-- Update Notifications -->
   <!-- Example: "5 theme updates"-->
   <!-- All Reviews for a given theme -->
+  <plurals name="update_notification_title">
+    <item quantity="one">%d actualización de temas</item>
+    <item quantity="other">%d actualizaciones de temas</item>
+  </plurals>
   <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
+  <plurals name="update_notification_msg">
+    <item quantity="one">Toca para actualizar %s</item>
+    <item quantity="other">Toca para actualizar %1$s y %2$s</item>
+  </plurals>
   <!-- Shown in the expanded notification when more themes can be updated than what
      can be shown Example: "+3 more" -->
   <!-- Eula Strings -->

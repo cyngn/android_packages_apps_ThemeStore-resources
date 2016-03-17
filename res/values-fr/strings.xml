@@ -41,6 +41,8 @@
   <string name="error_invalid_response">Curieusement, le serveur n\'a retourné aucun thème.</string>
   <string name="error_authentication">Un problème s\'est produit sur le serveur d\'authentification.</string>
   <string name="error_nav_item_needs_authentication">Option indisponible sans authentification. Avez-vous appuyé sur le bouton Réessayer ?</string>
+  <string name="auth_failed_title">Erreur de connexion</string>
+  <string name="auth_failed_msg">Le magasin nécessite une connexion internet active.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Réessayer</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,8 +57,8 @@
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
-    <item quantity="one">%d mise à jour disponible</item>
-    <item quantity="other">%d mises à jour disponibles</item>
+    <item quantity="one">%d thème gratuit à mettre à jour</item>
+    <item quantity="other">%d thèmes gratuits à mettre à jour</item>
   </plurals>
   <string name="no_updates">Tous les thèmes sont à jour</string>
   <string name="update_all">Tout mettre à jour</string>
@@ -136,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Détails de la licence pour les logiciels open source</string>
   <string name="pref_title_opensource_licenses">Licences open source</string>
   <string name="pref_title_buildversion">Version de build</string>
+  <string name="back_button_label">Précédent</string>
+  <string name="skip_button_label">Ignorer</string>
+  <string name="next_button_label">Suivant</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Ne pas mettre à jour automatiquement</string>
   <string name="pref_update_connection_type_over_wifi">Mettre à jour automatiquement via Wi-Fi uniquement</string>
