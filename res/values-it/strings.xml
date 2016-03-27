@@ -155,7 +155,7 @@
   <string name="included_component_status_bar">Barra di stato</string>
   <string name="included_component_controls">Controlli</string>
   <string name="included_component_wallpaper">Sfondo</string>
-  <string name="included_component_lockscreen_wallpaper">Sfondi schermata di sblocco</string>
+  <string name="included_component_lockscreen_wallpaper">Sfondi schermata di blocco</string>
   <!-- Search -->
   <string name="recent_searches">Ricerche recenti</string>
   <string name="no_recent_searches">Nessuna ricerca recente</string>

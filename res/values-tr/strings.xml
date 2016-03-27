@@ -42,6 +42,7 @@
   <string name="error_authentication">Kimlik doğrulama sunucusu ile ilgili bir sorun vardı.</string>
   <string name="error_nav_item_needs_authentication">Kimlik doğrulanana kadar seçenek kullanılamaz. Yeniden dene tuşuna bastınız mı?</string>
   <string name="auth_failed_title">Bağlantı hatası</string>
+  <string name="auth_failed_msg">Mağaza aktif bir internet bağlantısı gerektirmektedir.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Yeniden dene</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,10 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">Güncellenecek %d ücretsiz tema</item>
+    <item quantity="other">Güncellenecek %d ücretsiz tema</item>
+  </plurals>
   <string name="no_updates">Tüm temalar güncel</string>
   <string name="update_all">Tümünü güncelle</string>
   <string name="checking_for_updates">Güncellemeler kontrol ediliyor\u2026</string>
@@ -133,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Açık kaynak yazılım için lisans ayrıntıları</string>
   <string name="pref_title_opensource_licenses">Açık kaynak lisansları</string>
   <string name="pref_title_buildversion">İnşa sürümü</string>
+  <string name="back_button_label">Geri</string>
+  <string name="skip_button_label">Atla</string>
+  <string name="next_button_label">Sonraki</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Asla otomatik güncelleme</string>
   <string name="pref_update_connection_type_over_wifi">Sadece Wi-Fi ile otomatik güncelle</string>

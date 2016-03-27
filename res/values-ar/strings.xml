@@ -42,6 +42,7 @@
   <string name="error_authentication">هناك مشكلة في خادم المصادقة.</string>
   <string name="error_nav_item_needs_authentication">الخيار غير متوفر حتى المصادقة. هل ضغطت على زر إعادة المحاولة؟</string>
   <string name="auth_failed_title">خطأ في الاتصال</string>
+  <string name="auth_failed_msg">يتطلب المخزن اتصال إنترنت نشطاً.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">إعادة المحاولة</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -137,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">تفاصيل الترخيص للبرمجيات المفتوحة المصدر</string>
   <string name="pref_title_opensource_licenses">تراخيص مفتوحة المصدر</string>
   <string name="pref_title_buildversion">إصدار البناء</string>
+  <string name="back_button_label">عودة</string>
+  <string name="skip_button_label">تخطي</string>
+  <string name="next_button_label">التالي</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">لم تقم أبداً بالتحديث التلقائي</string>
   <string name="pref_update_connection_type_over_wifi">التحديث التلقائي عن طريق الواي فاي فقط</string>

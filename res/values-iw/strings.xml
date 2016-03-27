@@ -138,7 +138,7 @@
   <string name="pref_summary_opensource_licenses">פרטי רישיון לתוכנת קוד פתוח</string>
   <string name="pref_title_opensource_licenses">רשיונות קוד פתוח</string>
   <string name="pref_title_buildversion">גרסת תוכנה</string>
-  <string name="back_button_label">חזרה</string>
+  <string name="back_button_label">חזור</string>
   <string name="skip_button_label">דלג</string>
   <string name="next_button_label">הבא</string>
   <!-- Preferences: Auto update -->

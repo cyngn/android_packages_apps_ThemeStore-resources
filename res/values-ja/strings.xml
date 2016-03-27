@@ -27,7 +27,7 @@
   <string name="components">コンポネート</string>
   <string name="showcase">ショーケース</string>
   <string name="my_stuff">自分の物</string>
-  <string name="theme_chooser">テーマ選択画面</string>
+  <string name="theme_chooser">テーマ選択アプリ</string>
   <string name="settings">設定</string>
   <string name="purchase">購入</string>
   <string name="change_theme">テーマを変更</string>
@@ -45,7 +45,7 @@
   <!-- Retry connecting to server again -->
   <string name="retry">再試行</string>
   <!-- When Theme is installed, show this option in detail page -->
-  <string name="view_in_theme_chooser">テーマ選択画面で表示</string>
+  <string name="view_in_theme_chooser">テーマ選択アプリで表示</string>
   <!-- Subsections For Theme Listings -->
   <string name="free">無料</string>
   <string name="all">すべて</string>
