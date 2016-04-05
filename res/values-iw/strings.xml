@@ -111,7 +111,7 @@
   <string name="rate_message_hint">הודעה</string>
   <string name="submit">שלח</string>
   <string name="delete">מחק</string>
-  <string name="rate_the_theme">אנא דרג את ערכת העיצוב בין 1 עד 5 כוכבים</string>
+  <string name="rate_the_theme">דרג את ערכת העיצוב בין 1 עד 5 כוכבים</string>
   <!-- Report theme dialog -->
   <string name="report_dialog_title">דיווח ערכת עיצוב</string>
   <string name="report_dialog_reason_title">סיבת הדיווח:</string>
