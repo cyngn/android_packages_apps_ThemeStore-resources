@@ -22,12 +22,12 @@
   <string name="search_hint">Encontrar um tema</string>
   <!-- Drawer -->
   <!-- TODO: Remove test string -->
-  <string name="featured">Destacado</string>
+  <string name="featured">Destaque</string>
   <string name="theme_packs">Pacotes de temas</string>
   <string name="components">Componentes</string>
   <string name="showcase">Vitrine</string>
   <string name="my_stuff">Minhas coisas</string>
-  <string name="theme_chooser">Alterar tema</string>
+  <string name="theme_chooser">Seletor de tema</string>
   <string name="settings">Configurações</string>
   <string name="purchase">Comprar</string>
   <string name="change_theme">Alterar tema</string>
@@ -46,11 +46,11 @@
   <!-- Retry connecting to server again -->
   <string name="retry">Tentar novamente</string>
   <!-- When Theme is installed, show this option in detail page -->
-  <string name="view_in_theme_chooser">Visualizar no gerenciador de Temas</string>
+  <string name="view_in_theme_chooser">Visualizar no Seletor de Temas</string>
   <!-- Subsections For Theme Listings -->
   <string name="free">Grátis</string>
   <string name="all">Todos</string>
-  <string name="for_sale">Para venda</string>
+  <string name="for_sale">À venda</string>
   <string name="premium">Premium</string>
   <!-- This is what we show as a theme's price in the listing pages when the theme is
          a 3rd party paid -->
@@ -82,8 +82,8 @@
   <string name="contact_the_designer">Entrar em contato com o autor</string>
   <string name="visit_website">Visite o site</string>
   <string name="email_designer">E-mail do autor</string>
-  <string name="more_by_this_designer">Mais por este autor</string>
-  <string name="report_theme">Reportar tema</string>
+  <string name="more_by_this_designer">Mais deste autor</string>
+  <string name="report_theme">Denunciar tema</string>
   <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Enviar e-mail via\u2026</string>
   <string name="price_installed">Instalado</string>
@@ -116,14 +116,14 @@
   <string name="report_dialog_title">Denunciar tema</string>
   <string name="report_dialog_reason_title">Motivo da denúncia:</string>
   <string name="report_dialog_reason_sexual_graphic">Conteúdo sexual ou gráfico</string>
-  <string name="report_dialog_reason_abusive_hateful">Conteúdo abusivo ou odioso</string>
+  <string name="report_dialog_reason_abusive_hateful">Conteúdo abusivo ou de ódio</string>
   <string name="cancel">Cancelar</string>
   <!-- Download path -->
   <string name="installing_notification_text">Instalando \'%1$s\'\u2026</string>
   <string name="installing">Instalando</string>
   <string name="updating">Atualizando</string>
   <!-- Error strings -->
-  <string name="error_dialog_button_text">Ok</string>
+  <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Erro ao instalar %1$s</string>
   <string name="download_error_notification_text">Erro ao baixar</string>
   <string name="pm_error_notification_text">Não foi possível instalar o tema: %1$s</string>
