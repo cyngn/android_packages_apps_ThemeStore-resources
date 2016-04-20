@@ -16,13 +16,167 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+  <string name="app_name">ئۆرنەكلەر</string>
+  <!-- Action Bar -->
+  <string name="search">ئىزدەش</string>
+  <string name="search_hint">باش تېما ئىزدەش</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
+  <string name="featured">تەۋسىيە</string>
+  <string name="theme_packs">ئۆرنەك بوغچىسى</string>
+  <string name="components">زاپچاس</string>
+  <string name="showcase">كۆرگەزمە تەكچىسى</string>
+  <string name="my_stuff">مېنىڭ نەرسەم</string>
+  <string name="theme_chooser">ئۆرنەك تاللىغۇچ</string>
+  <string name="settings">تەڭشەكلەر</string>
   <string name="purchase">سېتىۋېلىش</string>
   <string name="change_theme">ئۆرنەك ئۆزگەرت</string>
   <string name="unknown_author">يازغۇچى يوچۇن</string>
+  <string name="available_via_store">ئىلە %s تىن ئېرىشىش</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">ھەقسىز</string>
+  <!-- Errors -->
+  <string name="error_connection">ئۇلىنىش خاتالىقى</string>
   <string name="error_invalid_response">ئەجەپلىنەرلىكى، مۇلازىمېتىر ھېچقانداق ئۆرنەك قايتۇرمىدى.</string>
+  <string name="error_authentication">سالاھىيەت ئېنىقلىغۇچى مۇلازىمىتېر بىلەن بولغان ئۇلنىشتا مەسىلە كۆرۈلدى.</string>
+  <string name="error_nav_item_needs_authentication">ساھالىيەت ئېنىقلاشتىن بۇرۇن، تاللاشلارنى ئىشلەتىكىلى بولمايدۇ. قايتا سىناش كونۇپكىسىنى باستىڭىزمۇ؟</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">قايتا سىنا</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">ئۆرنەك تاللىغۇچتا كۆرسەت</string>
+  <!-- Subsections For Theme Listings -->
+  <string name="free">ھەقسىز</string>
+  <string name="all">ھەممىسى</string>
+  <string name="for_sale">سېتىشنى تېزلىتىش</string>
+  <string name="premium">ئالىي دەرىجىلىك نۇسخىسى</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
+  <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="other">%d دانە يېڭىلانمىنى ئىشلەتكىلى بۇلىدۇ</item>
+  </plurals>
+  <string name="no_updates">ھەممە باش تېما ئەڭ يېڭى</string>
+  <string name="update_all">ھەممىنى يېڭىلاش</string>
+  <string name="checking_for_updates">يېڭىلانما تەكشۈرىۋاتىدۇ\u2026</string>
+  <string name="updating_pkgname">يېڭىلاۋاتىدۇ%s\u2026</string>
+  <!-- Subsections for Mystuff -->
+  <string name="my_themes">باش تېمام</string>
+  <string name="installed">ئورنىتىلدى</string>
+  <!-- Component Categories -->
+  <string name="category_icons">سىنبەلگەلەر</string>
+  <string name="category_status_bar">ھالەت بالداق</string>
+  <string name="category_controls">تىزگىنلەشلەر</string>
+  <string name="category_fonts">خەت نۇسخا</string>
+  <string name="category_navigation_bar">يولباشچى بالداق</string>
+  <string name="category_boot_animations">قوزغىلىش جانلاندۇرۇمى</string>
+  <string name="category_wallpapers">تام قەغەزلىرى</string>
+  <string name="category_sound_packs">ئاۋاز بوغچىسى</string>
+  <!-- Theme Detail Strings -->
+  <string name="update">يېڭىلاش</string>
+  <string name="read_more">تېخىمۇ كۆپ</string>
+  <string name="contact_the_designer">لاھيەلىگۈچى بىلەن ئالاقىلىشىش</string>
+  <string name="visit_website">توربەتنى زىيارەت قىلىش</string>
+  <string name="email_designer">لاھيەلىگۈچىگە خەت يېزىش</string>
+  <string name="more_by_this_designer">بۇ لاھيەلىگۈچىنىڭ تېخىمۇ كۆپ ئەسەرلىرى</string>
+  <string name="report_theme">بۇ باش تېمىنى پاش قىلىش</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
+  <string name="send_email_chooser">\u2026 ئىلە ئېلخەت ئەۋەتىش</string>
   <string name="price_installed">ئورنىتىلغان</string>
+  <string name="price_uninstall">يۇيىۋېتىش</string>
+  <string name="apply">قوللىنىش</string>
+  <string name="applied">قوللاندى</string>
+  <string name="version">نەشرى</string>
+  <string name="size">چوڭلىقى</string>
+  <string name="incompatible_outdated">دىققەت: %s كونا نەشرىدىكى CM ئۈچۈن لايىھەلەنگەن، بۇ ئۆرنەكتە ماسلىشىش مەسىلىسىگە يولۇقۇشىڭىز مۇمكىن.</string>
+  <string name="incompatible_newer">%s يېڭى نەشىردىكى CM ئۈچۈن لاھيەلەنگەن، ئورنىتالمىدى.</string>
+  <!-- Theme Detail Description -->
+  <string name="about_theme_name">%s ھەققىدە</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
+  <string name="downloads">%s قېتىم چۈشۈرۈش</string>
+  <string name="rate">باھا</string>
+  <string name="rated">مۇقىم باھا</string>
+  <!-- All Reviews for a given theme -->
+  <plurals name="all_reviews_title">
+    <item quantity="other">%s باھا</item>
+  </plurals>
+  <!-- Rating Popup -->
+  <string name="rate_title">%s نى باھالاش</string>
+  <string name="rate_title_hint">ماۋزۇسى</string>
+  <string name="rate_message_hint">ئۇچۇر</string>
+  <string name="submit">تاپشۇرۇش</string>
+  <string name="delete">ئۆچۈرۈش</string>
+  <string name="rate_the_theme">1 دىن 5 چە يۇلتۇز بىلەن بۇ باش تېمىنى باھالاڭ</string>
+  <!-- Report theme dialog -->
+  <string name="report_dialog_title">باش تېمىنى پاش قىلىش</string>
+  <string name="report_dialog_reason_title">پاش قىلىش سەۋەبى:</string>
+  <string name="report_dialog_reason_sexual_graphic">جىنسىيەت ياكى ساغلام بولمىغان مەزمۇن</string>
+  <string name="report_dialog_reason_abusive_hateful">قالايمىقان ياكى كىشىنى بىزار قىلدىغان مەزمۇن</string>
+  <string name="cancel">بىكار قىلىش</string>
+  <!-- Download path -->
+  <string name="installing_notification_text">%1$s ئورنىتىۋاتىدۇ\u2026</string>
+  <string name="installing">ئورنىتىۋاتىدۇ</string>
+  <string name="updating">يېڭىلاۋاتىدۇ</string>
+  <!-- Error strings -->
+  <string name="error_dialog_button_text">جەزملەش</string>
+  <string name="installing_error_notification_text">%1$s نى ئورنىتىۋاتقاندا خاتالىق چىقتى</string>
+  <string name="download_error_notification_text">چۈشۈرۈۋاتقاندا خاتالىق چىقتى</string>
+  <string name="pm_error_notification_text">باش تېمىنى قاچىليالمىدى: %1$s</string>
+  <!-- Preferences -->
+  <string name="general">ئادەتتىكى</string>
+  <string name="about">ھەققىدە</string>
+  <string name="pref_title_download_notifications">ئۇقتۇرۇشلار</string>
+  <string name="pref_summary_download_notifications">باش تېما يېڭىلانغاندا ماڭا ئۇقتۇرۇش قىلىڭ</string>
+  <string name="pref_title_update_connection_type">ئاپتۇماتېك يېڭىلاش</string>
+  <string name="pref_title_clear_search_history">ئىزدەش تارىخ خاتىرىسىنى تازىلاش</string>
+  <string name="pref_summary_clear_sarch_history">سىز ئىجرا قىلغان ھەممە ئىزدەشنى ئۆچۈرىدۇ</string>
+  <string name="pref_summary_opensource_licenses">ئوچۇق كودلۇن ئىجازەتنامىنىڭ ئۇچۇرى</string>
+  <string name="pref_title_opensource_licenses">ئوچۇق كودلۇق ئىجازەتنامە</string>
+  <string name="pref_title_buildversion">نەشر نومۇرى</string>
+  <!-- Preferences: Auto update -->
+  <string name="pref_update_connection_type_never_update">مەڭگۈ يېڭىلىمىسۇن</string>
+  <string name="pref_update_connection_type_over_wifi">ئىلە Wi-Fi دا ئاپتۇماتېك يېڭىلاش</string>
+  <string name="pref_update_connection_type_any_time">ھەرقانداق ۋاقىتتا ئاپتۇماتېك يېڭىلىغىلى بۇلىدۇ</string>
+  <!-- Detail included components -->
+  <string name="included_components_header_title">ئۆز ئىچىگە ئالغان زاپچاس</string>
+  <string name="included_component_boot_animation">قوزغىلىش جانلاندۇرۇمى</string>
+  <string name="included_component_font">خەت نۇسخىسى</string>
+  <string name="included_component_icon_pack">سىنبەلگە بوغچىسى</string>
+  <string name="included_component_navigation_bar">يولباشچى بالداق</string>
+  <string name="included_component_sound_pack">ئاۋاز بوغچىسى</string>
+  <string name="included_component_status_bar">ھالەت بالداق</string>
+  <string name="included_component_controls">تىزگىنلەشلەر</string>
+  <string name="included_component_wallpaper">تام قەغىزى</string>
+  <string name="included_component_lockscreen_wallpaper">قۇلۇپ ئېكران تام قەغەزلىرى</string>
+  <!-- Search -->
+  <string name="recent_searches">يېقىنقى ئىزدەشلەر</string>
+  <string name="no_recent_searches">يېقىنقى ئىزنا يوق</string>
+  <string name="suggested_searches">تەۋسىيەلىك ئىزدەش</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
+  <plurals name="update_notification_title">
+    <item quantity="other">%d دانە باش تېما يىڭىلاندى</item>
+  </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
+  <plurals name="update_notification_msg">
+    <item quantity="other">چىكىپ %1$s ۋە %2$s نى يېڭىلاڭ</item>
+  </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
+  <string name="update_notification_x_more">+%d تېخىمۇ كۆپ</string>
+  <string name="no_themes_available">نەتىجىسى يوق</string>
+  <string name="get_themes">باش تېمىغا ئېرىشىش</string>
+  <!-- Eula Strings -->
+  <string name="eula_decline">رەت قىلىش</string>
+  <string name="eula_accept">قوشۇل</string>
+  <string name="eula_message">باش تېما دۇكىنىنى ئىشلىتىش ئارقىلىق، سىز <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g> باش تېما دۇكىنىنىڭ مۇلازىمەت بەلگىلىمىسىگە قوشۇلدىڭىز.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
+  <string name="sort_newest">ئەڭ يېڭى</string>
+  <string name="sort_alphabetically">A-Z</string>
+  <string name="sort_rating">نومۇر قويۇش</string>
+  <string name="sort_popular">ئەڭ ئالقىشلانغان</string>
+  <!-- 3rd Party Stores -->
+  <string name="play_store">Play دۇكىنى</string>
 </resources>

@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Temas</string>
+  <!-- Action Bar -->
   <string name="search">Busca</string>
   <string name="search_hint">Buscar un tema</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Destacados</string>
   <string name="theme_packs">Paquetes de temas</string>
   <string name="components">Componentes</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Autor descoñecido</string>
   <string name="available_via_store">Dispoñíbel a través de %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">De balde</string>
+  <!-- Errors -->
   <string name="error_connection">Erro na conexión</string>
   <string name="error_invalid_response">Vaia, o servidor non devolve temas.</string>
   <string name="error_authentication">Produciuse un problema co servidor de autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción non dispoñíbel ata autenticación. Premeu sobre o botón \'tentar de novo\'?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Tentar de novo</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Ver no selector de tema</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">De balde</string>
   <string name="all">Todos</string>
   <string name="for_sale">En venda</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d actualización dispoñíbel</item>
     <item quantity="other">%d actualizacións dispoñíbeis</item>
@@ -51,8 +62,10 @@
   <string name="update_all">Actualizar todo</string>
   <string name="checking_for_updates">Buscando actualizacións\u2026</string>
   <string name="updating_pkgname">Actualizando \'%s\'\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Os meus temas</string>
   <string name="installed">Instalado</string>
+  <!-- Component Categories -->
   <string name="category_icons">Iconas</string>
   <string name="category_status_bar">Barra de estado</string>
   <string name="category_controls">Controis</string>
@@ -61,6 +74,7 @@
   <string name="category_boot_animations">Animacións de inicio</string>
   <string name="category_wallpapers">Fondos de pantalla</string>
   <string name="category_sound_packs">Paquetes de sons</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Actualizar</string>
   <string name="read_more">Ler máis</string>
   <string name="contact_the_designer">Contactar co deseñador</string>
@@ -68,31 +82,52 @@
   <string name="email_designer">Enviar un correo ao deseñador</string>
   <string name="more_by_this_designer">Máis deste deseñador</string>
   <string name="report_theme">Denunciar o tema</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Enviar un correo vía\u2026</string>
   <string name="price_installed">Instalado</string>
   <string name="price_uninstall">Desinstalar</string>
   <string name="apply">Aplicar</string>
   <string name="applied">Aplicado</string>
+  <!-- Theme Detail Description -->
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
+  <!-- All Reviews for a given theme -->
+  <!-- Rating Popup -->
+  <!-- Report theme dialog -->
+  <!-- Download path -->
+  <!-- Error strings -->
+  <!-- Preferences -->
+  <!-- Preferences: Auto update -->
+  <!-- Detail included components -->
+  <!-- Search -->
   <string name="recent_searches">Buscas recentes</string>
   <string name="no_recent_searches">Sen buscas recentes</string>
   <string name="suggested_searches">Buscar suxeridas</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d actualización do tema</item>
     <item quantity="other">%d actualizacións do tema</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">Tocar para actualizar %s</item>
     <item quantity="other">Tocar para actualizar %1$s e %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d máis</string>
   <string name="no_themes_available">Sen resultados</string>
   <string name="get_themes">Obter temas</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Rexeitar</string>
   <string name="eula_accept">Aceptar</string>
   <string name="eula_message">Ao empregar a Tenda de Temas, acepta os <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Termos do Servizo da Tenda de Temas de Cyanogen.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Máis recentes</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Valoración</string>
   <string name="sort_popular">Popular</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play Store</string>
 </resources>

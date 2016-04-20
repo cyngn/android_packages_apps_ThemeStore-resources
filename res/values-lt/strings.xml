@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Temos</string>
+  <!-- Action Bar -->
   <string name="search">Paieška</string>
   <string name="search_hint">Rasti temą</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Populiariausia</string>
   <string name="theme_packs">Temų paketai</string>
   <string name="components">Komponentai</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Autorius nežinomas</string>
   <string name="available_via_store">Pasiekiama per %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Nemokama</string>
+  <!-- Errors -->
   <string name="error_connection">Prisijungimo klaida</string>
   <string name="error_invalid_response">Serveris negražino jokių temų.</string>
   <string name="error_authentication">Iškilo problema su autentifikavimo serveriu.</string>
   <string name="error_nav_item_needs_authentication">Parinktis nepasiekiama, kol patvirtinta. Ar jūs paspaudžiate mygtuką kartoti?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Bandyti dar kartą</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Žiūrėti temos parinkiklyje</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Nemokama</string>
   <string name="all">Visi</string>
   <string name="for_sale">Parduodama</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d pasiekiamas atnaujinimas</item>
     <item quantity="few">%d pasiekiami atnaujinimai</item>
@@ -52,8 +63,10 @@
   <string name="update_all">Atnaujinti visus</string>
   <string name="checking_for_updates">Ieškoma atnaujinimų\u2026</string>
   <string name="updating_pkgname">Atnaujinama „%s“\u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Mano temos</string>
   <string name="installed">Įdiegta</string>
+  <!-- Component Categories -->
   <string name="category_icons">Piktogramos</string>
   <string name="category_status_bar">Būsenos juosta</string>
   <string name="category_controls">Valdymas</string>
@@ -62,6 +75,7 @@
   <string name="category_boot_animations">Paleidimo animacijos</string>
   <string name="category_wallpapers">Darbalaukio fonai</string>
   <string name="category_sound_packs">Garso paketai</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Atnaujinti</string>
   <string name="read_more">Skaityti daugiau</string>
   <string name="contact_the_designer">Susisiekti su dizaineriu</string>
@@ -69,6 +83,7 @@
   <string name="email_designer">Rašyti dizaineriui</string>
   <string name="more_by_this_designer">Daugiau iš šio dizainerio</string>
   <string name="report_theme">Pranešti temą</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Siųsti el. paštą per\u2026</string>
   <string name="price_installed">Įdiegta</string>
   <string name="price_uninstall">Pašalinti</string>
@@ -78,33 +93,41 @@
   <string name="size">dydis</string>
   <string name="incompatible_outdated">%s buvo sukurtą senesniai CM versijai. Gali kilti suderinamumo problemų su šia tema.</string>
   <string name="incompatible_newer">%s buvo sukurtą naujesniai CM versijai ir negali būti įdiegta.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">Apie %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s atsisiuntimai</string>
   <string name="rate">Įvertinti</string>
   <string name="rated">Įvertinta</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s įvertinimas</item>
     <item quantity="few">%s įvertinimai</item>
     <item quantity="other">%s įvertinimų</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">Įvertinti %s</string>
   <string name="rate_title_hint">Pavadinimas</string>
   <string name="rate_message_hint">Pranešimas</string>
   <string name="submit">Pateikti</string>
   <string name="delete">Ištrinti</string>
   <string name="rate_the_theme">Prašome Įvertinti šią temą nuo 1 iki 5 žvaigždučių</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Pranešti temą</string>
   <string name="report_dialog_reason_title">Pranešimo priežastis:</string>
   <string name="report_dialog_reason_sexual_graphic">Seksualinis arba grafinis turinys</string>
   <string name="report_dialog_reason_abusive_hateful">Įžeidžiantis arba bjaurus turinys</string>
   <string name="cancel">Atšaukti</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Diegiama „%1$s“\u2026</string>
   <string name="installing">Diegiama</string>
   <string name="updating">Atnaujinama</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">Gerai</string>
   <string name="installing_error_notification_text">Klaida diegiant %1$s</string>
   <string name="download_error_notification_text">Klaida atsisiunčiant</string>
   <string name="pm_error_notification_text">Nepavyko įdiegti temos: %1$s</string>
+  <!-- Preferences -->
   <string name="general">Bendra</string>
   <string name="about">Apie</string>
   <string name="pref_title_download_notifications">Pranešimai</string>
@@ -115,9 +138,11 @@
   <string name="pref_summary_opensource_licenses">Licencijos duomenys apie atviro kodo programinę įrangą</string>
   <string name="pref_title_opensource_licenses">Atviro kodo licencijos</string>
   <string name="pref_title_buildversion">Versijos numeris</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Niekada neatnaujinti automatiškai</string>
   <string name="pref_update_connection_type_over_wifi">Atnaujinti automatiškai tik per „Wi-Fi“</string>
   <string name="pref_update_connection_type_any_time">Automatiškai atnaujinti bet kuriuo metu</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">Įtraukti komponentai</string>
   <string name="included_component_boot_animation">Paleidimo animacija</string>
   <string name="included_component_font">Šriftas</string>
@@ -128,28 +153,38 @@
   <string name="included_component_controls">Valdymas</string>
   <string name="included_component_wallpaper">Darbalaukio fonas</string>
   <string name="included_component_lockscreen_wallpaper">Ekrano užrakto fonas</string>
+  <!-- Search -->
   <string name="recent_searches">Naujausios paieškos</string>
   <string name="no_recent_searches">Nėra naujausių paieškų</string>
   <string name="suggested_searches">Siūlomos paieškos</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d temos atnaujinimas</item>
     <item quantity="few">%d temų atnaujinimai</item>
     <item quantity="other">%d temų atnaujinimų</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">Palieskite, kad atnaujinti %s</item>
     <item quantity="few">Palieskite, kad atnaujinti %1$s ir %2$s</item>
     <item quantity="other">Palieskite, kad atnaujinti %1$s ir %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d daugiau</string>
   <string name="no_themes_available">Jokių rezultatų</string>
   <string name="get_themes">Gauti temų</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Atsisakyti</string>
   <string name="eula_accept">Sutikti</string>
   <string name="eula_message">Naudodami temų parduotuvę, jūs sutinkate su <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>„Cyanogen“ temų parduotuvės paslaugų teikimo sąlygomis.<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Naujausia</string>
   <string name="sort_alphabetically">A - Z</string>
   <string name="sort_rating">Įvertinimas</string>
   <string name="sort_popular">Populiaru</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">„Play“ parduotuvė</string>
 </resources>

@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Designen</string>
+  <!-- Action Bar -->
   <string name="search">Sichen</string>
   <string name="search_hint">En Design fannen</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Ervirgehuewen</string>
   <string name="theme_packs">Designpäck</string>
   <string name="components">Komponenten</string>
@@ -31,16 +34,24 @@
   <string name="unknown_author">Auteur net bekannt</string>
   <string name="available_via_store">Disponibel iwwer %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Gratis</string>
+  <!-- Errors -->
   <string name="error_connection">Connectiounsfeeler</string>
   <string name="error_invalid_response">Komescherweis huet de Server keng Designen zréckginn.</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Nach eemol probéieren</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">An der Design-Auswiel uweisen</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Gratis</string>
   <string name="all">All</string>
   <string name="for_sale">An der Vente</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d Aktualiséierung disponibel</item>
     <item quantity="other">%d Aktualiséierungen disponibel</item>
@@ -49,8 +60,10 @@
   <string name="update_all">All aktualiséieren</string>
   <string name="checking_for_updates">Sichen no Aktualiséierungen\u2026</string>
   <string name="updating_pkgname">\'%s\'\u2026 gëtt aktualiséiert</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Meng Designen</string>
   <string name="installed">Installéiert</string>
+  <!-- Component Categories -->
   <string name="category_icons">Symboler</string>
   <string name="category_status_bar">Statusläischt</string>
   <string name="category_controls">Steierelementer</string>
@@ -59,6 +72,7 @@
   <string name="category_boot_animations">Startanimatiounen</string>
   <string name="category_wallpapers">Hannergrondbiller</string>
   <string name="category_sound_packs">Tounpäck</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Aktualiséieren</string>
   <string name="read_more">Weider Informatiounen</string>
   <string name="contact_the_designer">Den Designer kontaktéieren</string>
@@ -66,31 +80,40 @@
   <string name="email_designer">E-Mail un den Designer</string>
   <string name="more_by_this_designer">Méi vun dësem Designer</string>
   <string name="report_theme">Design mellen</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="price_installed">Installéiert</string>
   <string name="price_uninstall">Desinstalléieren</string>
   <string name="apply">Applizéieren</string>
   <string name="applied">Applizéiert</string>
   <string name="version">Versioun</string>
   <string name="size">Gréisst</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">Iwwer %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="rate">Bewäerten</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s Bewäertung</item>
     <item quantity="other">%s Bewäertungen</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">%s bewäerten</string>
   <string name="rate_title_hint">Titel</string>
   <string name="rate_message_hint">Message</string>
   <string name="submit">Schécken</string>
   <string name="delete">Läschen</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Design mellen</string>
   <string name="cancel">Ofbriechen</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Installéieren \'%1$s\'\u2026</string>
   <string name="installing">Installatioun leeft</string>
   <string name="updating">Aktualiséierung leeft</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">OK</string>
   <string name="installing_error_notification_text">Feeler beim Installéiere vu(n) %1$s</string>
   <string name="download_error_notification_text">Feeler beim Eroflueden</string>
+  <!-- Preferences -->
   <string name="general">Allgemeng</string>
   <string name="about">Iwwer</string>
   <string name="pref_title_download_notifications">Notifikatiounen</string>
@@ -98,7 +121,9 @@
   <string name="pref_title_clear_search_history">Sichhistorique läschen</string>
   <string name="pref_title_opensource_licenses">Open-Source-Lizenzen</string>
   <string name="pref_title_buildversion">Buildversioun</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Ni automatesch aktualiséieren</string>
+  <!-- Detail included components -->
   <string name="included_component_boot_animation">Startanimatiounen</string>
   <string name="included_component_font">Schrëft</string>
   <string name="included_component_icon_pack">Symbolpak</string>
@@ -108,16 +133,26 @@
   <string name="included_component_controls">Steierelementer</string>
   <string name="included_component_wallpaper">Hannergrondbild</string>
   <string name="included_component_lockscreen_wallpaper">Spärschierm-Hannergrondbild</string>
+  <!-- Search -->
   <string name="recent_searches">Rezent Sichbegrëffer</string>
   <string name="no_recent_searches">Keng rezent Sichbegrëffer</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d méi</string>
   <string name="no_themes_available">Keng Resultater</string>
   <string name="get_themes">Designen eroflueden</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Refuséieren</string>
   <string name="eula_accept">Acceptéieren</string>
+  <!-- Sorting -->
   <string name="sort_newest">Neist</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">Bewäertung</string>
   <string name="sort_popular">Beléift</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play Store</string>
 </resources>

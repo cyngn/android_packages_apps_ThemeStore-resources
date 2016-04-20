@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">รูปแบบธีม</string>
+  <!-- Action Bar -->
   <string name="search">ค้นหา</string>
   <string name="search_hint">ค้นหาชุดรูปแบบ</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">โดดเด่น</string>
   <string name="theme_packs">แพ็คชุดรูปแบบ</string>
   <string name="components">องค์ประกอบ</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">ไม่รู้จักผู้สร้าง</string>
   <string name="available_via_store">มีให้ใช้ได้ใน %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">ฟรี</string>
+  <!-- Errors -->
   <string name="error_connection">การเชื่อมต่อมีปัญหา</string>
   <string name="error_invalid_response">มีปัญหา เซิร์ฟเวอร์ไม่พบรูปแบบธีม</string>
   <string name="error_authentication">มีปัญหากับเซิร์ฟเวอร์การยืนยันตัวตน</string>
   <string name="error_nav_item_needs_authentication">ตัวเลือกนี้ไม่สามารถใช้ได้จนกว่าจะมีการยืนยัน คุณกดปุ่มลองอีกครั้งแล้วหรือยัง</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">ลองอีกครั้ง</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">ดูในเครื่องมือเลือกรูปแบบธีม</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">ฟรี</string>
   <string name="all">ทั้งหมด</string>
   <string name="for_sale">ลดราคา</string>
   <string name="premium">พรีเมี่ยม</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="other">%d การอัปเดตพร้อมใช้</item>
   </plurals>
@@ -50,8 +61,10 @@
   <string name="update_all">อัปเดตทั้งหมด</string>
   <string name="checking_for_updates">กำลังตรวจสอบการอัปเดต\u2026</string>
   <string name="updating_pkgname">กำลังปรับปรุง \u2026 \'%s\'</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">รูปแบบธีมของฉัน</string>
   <string name="installed">ติดตั้งแล้ว</string>
+  <!-- Component Categories -->
   <string name="category_icons">ไอคอน</string>
   <string name="category_status_bar">แถบสถานะ</string>
   <string name="category_controls">ควบคุม</string>
@@ -60,6 +73,7 @@
   <string name="category_boot_animations">ภาพเปิดเครื่อง</string>
   <string name="category_wallpapers">ภาพพื้นหลัง</string>
   <string name="category_sound_packs">แพ็คเสียง</string>
+  <!-- Theme Detail Strings -->
   <string name="update">การอัปเดต</string>
   <string name="read_more">อ่านเพิ่มเติม</string>
   <string name="contact_the_designer">ติดต่อผู้ออกแบบ</string>
@@ -67,6 +81,7 @@
   <string name="email_designer">อีเมลผู้ออกแบบ</string>
   <string name="more_by_this_designer">อื่น ๆ โดยผู้ออกแบบรายนี้</string>
   <string name="report_theme">รูปแบบธีมรายงาน</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">ส่งอีเมลโดย\u2026</string>
   <string name="price_installed">ติดตั้งแล้ว</string>
   <string name="price_uninstall">ถอนการติดตั้ง</string>
@@ -76,31 +91,39 @@
   <string name="size">ขนาด</string>
   <string name="incompatible_outdated">%s ถูกออกแบบมาสำหรับรุ่นเก่าของ CM คุณอาจพบปัญหาความเข้ากันได้กับรูปแบบธีมนี้</string>
   <string name="incompatible_newer">%s ถูกออกแบบมาสำหรับรุ่นใหม่ของ CM และไม่สามารถติดตั้ง</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">เกี่ยวกับ %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s การดาวน์โหลด</string>
   <string name="rate">ให้คะแนน</string>
   <string name="rated">ให้คะแนนแล้ว</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="other">%s การให้คะแนน</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">ให้คะแนน %s</string>
   <string name="rate_title_hint">ชื่อเรื่อง</string>
   <string name="rate_message_hint">ข้อความ</string>
   <string name="submit">ส่ง</string>
   <string name="delete">ลบ</string>
   <string name="rate_the_theme">กรุณาให้คะแนนรูปแบบธีมนี้ระหว่าง 1 ถึง 5 ดาว</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">รูปแบบธีมของรายงาน</string>
   <string name="report_dialog_reason_title">เหตุผลที่รายงาน:</string>
   <string name="report_dialog_reason_sexual_graphic">เนื้อหาเกี่ยวกับเพศหรือโป๊เปลือย</string>
   <string name="report_dialog_reason_abusive_hateful">เนื้อหาแสดงความเกลียดชัง</string>
   <string name="cancel">ยกเลิก</string>
+  <!-- Download path -->
   <string name="installing_notification_text">กำลังติดตั้ง \'%1$s\'\u2026</string>
   <string name="installing">กำลังติดตั้ง</string>
   <string name="updating">กำลังอัปเดต</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">ตกลง</string>
   <string name="installing_error_notification_text">ข้อผิดพลาดในการติดตั้ง %1$s</string>
   <string name="download_error_notification_text">มีข้อผิดพลาดในการดาวน์โหลด</string>
   <string name="pm_error_notification_text">ไม่สามารถติดตั้งรูปแบบธีม: %1$s</string>
+  <!-- Preferences -->
   <string name="general">ทั่วไป</string>
   <string name="about">เกี่ยวกับ</string>
   <string name="pref_title_download_notifications">การแจ้งเตือน</string>
@@ -111,9 +134,11 @@
   <string name="pref_summary_opensource_licenses">รายละเอียดสิทธิ์การใช้งานซอฟต์แวร์โอเพนซอร์ซ</string>
   <string name="pref_title_opensource_licenses">ใบอนุญาต Open source</string>
   <string name="pref_title_buildversion">รุ่นบิวด์</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">ไม่อัปเดตอัตโนมัติ</string>
   <string name="pref_update_connection_type_over_wifi">อัปเดตอัตโนมัติเมื่อใช้ Wi-Fi เท่านั้น</string>
   <string name="pref_update_connection_type_any_time">ปรับปรุงอัตโนมัติเสมอ</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">ส่วนประกอบที่รวมอยู่</string>
   <string name="included_component_boot_animation">ภาพเปิดเครื่อง</string>
   <string name="included_component_font">แบบอักษร</string>
@@ -124,24 +149,34 @@
   <string name="included_component_controls">การควบคุม</string>
   <string name="included_component_wallpaper">ภาพพื้นหลัง</string>
   <string name="included_component_lockscreen_wallpaper">ภาพพื้นหลังหน้าจอล็อค</string>
+  <!-- Search -->
   <string name="recent_searches">การค้นหาล่าสุด</string>
   <string name="no_recent_searches">ไม่มีการค้นหาล่าสุด</string>
   <string name="suggested_searches">การค้นหาที่แนะนำ</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="other">%d อัปเดตของรูปแบบธีม</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="other">แตะเพื่ออัปเดต %1$s และ %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d เพิ่มเติม</string>
   <string name="no_themes_available">ไม่มีผลลัพธ์</string>
   <string name="get_themes">รับรูปแบบธีมเพิ่ม</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">ปฏิเสธ</string>
   <string name="eula_accept">ตกลง</string>
   <string name="eula_message">ในการใช้งานร้านค้ารูปแบบธีมคุณต้องยอมรับ <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>ข้อกำหนดการบริการร้านค้ารูปแบบธีมของ Cyanogen<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">ใหม่ล่าสุด</string>
   <string name="sort_alphabetically">A-Z</string>
   <string name="sort_rating">การจัดอันดับ</string>
   <string name="sort_popular">ยอดนิยม</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Play Store</string>
 </resources>

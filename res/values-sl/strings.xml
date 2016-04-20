@@ -17,8 +17,11 @@
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Teme</string>
+  <!-- Action Bar -->
   <string name="search">Iskanje</string>
   <string name="search_hint">Poišči teme</string>
+  <!-- Drawer -->
+  <!-- TODO: Remove test string -->
   <string name="featured">Predstavljene</string>
   <string name="theme_packs">Paketi tem</string>
   <string name="components">Sestavni deli</string>
@@ -31,18 +34,26 @@
   <string name="unknown_author">Neznan avtor</string>
   <string name="available_via_store">Na voljo preko %s</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
+  <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">Brezplačno</string>
+  <!-- Errors -->
   <string name="error_connection">Napake pri povezavi</string>
   <string name="error_invalid_response">Nenavadno, ampak strežnik ni našel nobene teme.</string>
   <string name="error_authentication">Na strežniku za overitev se je pojavila napaka.</string>
   <string name="error_nav_item_needs_authentication">Možnost ni na voljo, dokler ni overjena. Ali ste pritisnili gumb Poskusi znova?</string>
+  <!-- Retry connecting to server again -->
   <string name="retry">Poskusi znova</string>
+  <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Pokaži v izbirniku tem</string>
+  <!-- Subsections For Theme Listings -->
   <string name="free">Brezplačno</string>
   <string name="all">Vse</string>
   <string name="for_sale">Naprodaj</string>
   <string name="premium">Premium</string>
+  <!-- This is what we show as a theme's price in the listing pages when the theme is
+         a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
+  <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">%d posodobitev na voljo</item>
     <item quantity="two">%d posodobitvi na voljo</item>
@@ -53,8 +64,10 @@
   <string name="update_all">Posodobi vse</string>
   <string name="checking_for_updates">Preverjanje za posodobitve \u2026</string>
   <string name="updating_pkgname">Posodabljanje \"%s\" \u2026</string>
+  <!-- Subsections for Mystuff -->
   <string name="my_themes">Moje teme</string>
   <string name="installed">Nameščeno</string>
+  <!-- Component Categories -->
   <string name="category_icons">Ikone</string>
   <string name="category_status_bar">Vrstica stanja</string>
   <string name="category_controls">Nadzorne tipke</string>
@@ -63,6 +76,7 @@
   <string name="category_boot_animations">Zagonske animacije</string>
   <string name="category_wallpapers">Slike ozadja</string>
   <string name="category_sound_packs">Zvočni paketi</string>
+  <!-- Theme Detail Strings -->
   <string name="update">Posodobi</string>
   <string name="read_more">Več o tem</string>
   <string name="contact_the_designer">Stopite v stik z oblikovalcem</string>
@@ -70,6 +84,7 @@
   <string name="email_designer">Pošljite e-pošto oblikovalcu</string>
   <string name="more_by_this_designer">Več od tega oblikovalca</string>
   <string name="report_theme">Prijavi temo</string>
+  <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <string name="send_email_chooser">Pošlji e-pošto preko \u2026</string>
   <string name="price_installed">Nameščene</string>
   <string name="price_uninstall">Odstrani</string>
@@ -79,34 +94,42 @@
   <string name="size">velikost</string>
   <string name="incompatible_outdated">%s je bila oblikovana za starejšo različico CM-a. Pri tej temi se lahko pojavijo težave z združljivostjo.</string>
   <string name="incompatible_newer">%s je bila oblikovana za starejšo različico CM-a in je ni mogoče namestiti.</string>
+  <!-- Theme Detail Description -->
   <string name="about_theme_name">O %s</string>
+  <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <string name="downloads">%s prenosov</string>
   <string name="rate">Oceni</string>
   <string name="rated">Ocenjeno</string>
+  <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">%s ocena</item>
     <item quantity="two">%s oceni</item>
     <item quantity="few">%s ocene</item>
     <item quantity="other">%s ocen</item>
   </plurals>
+  <!-- Rating Popup -->
   <string name="rate_title">Oceni %s</string>
   <string name="rate_title_hint">Naziv</string>
   <string name="rate_message_hint">Sporočilo</string>
   <string name="submit">Pošlji</string>
   <string name="delete">Izbriši</string>
   <string name="rate_the_theme">Ocenite to temo med 1 in 5 zvezdic</string>
+  <!-- Report theme dialog -->
   <string name="report_dialog_title">Prijavi temo</string>
   <string name="report_dialog_reason_title">Razlog za prijavo:</string>
   <string name="report_dialog_reason_sexual_graphic">Spolna ali grafična vsebina</string>
   <string name="report_dialog_reason_abusive_hateful">Žaljiva ali sovražna vsebina</string>
   <string name="cancel">Prekliči</string>
+  <!-- Download path -->
   <string name="installing_notification_text">Nameščanje \'%1$s\' \u2026</string>
   <string name="installing">Nameščanje</string>
   <string name="updating">Posodabljanje</string>
+  <!-- Error strings -->
   <string name="error_dialog_button_text">V redu</string>
   <string name="installing_error_notification_text">Napaka pri namestitvi %1$s</string>
   <string name="download_error_notification_text">Napaka pri prenosu</string>
   <string name="pm_error_notification_text">Ni mogoče namestiti teme: %1$s</string>
+  <!-- Preferences -->
   <string name="general">Splošno</string>
   <string name="about">O programu</string>
   <string name="pref_title_download_notifications">Obvestila</string>
@@ -117,9 +140,11 @@
   <string name="pref_summary_opensource_licenses">Podrobnosti licence za odprtokodno programsko opremo</string>
   <string name="pref_title_opensource_licenses">Odprtokodne licence</string>
   <string name="pref_title_buildversion">Različica izgradnje</string>
+  <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Nikoli ne posodobi samodejno</string>
   <string name="pref_update_connection_type_over_wifi">Samodejno posodobi samo preko omrežja Wi-Fi</string>
   <string name="pref_update_connection_type_any_time">Samodejno posodobi kadarkoli</string>
+  <!-- Detail included components -->
   <string name="included_components_header_title">Vključeni sestavni deli</string>
   <string name="included_component_boot_animation">Zagonska animacija</string>
   <string name="included_component_font">Pisava</string>
@@ -129,31 +154,41 @@
   <string name="included_component_status_bar">Vrstica stanja</string>
   <string name="included_component_controls">Nadzorne tipke</string>
   <string name="included_component_wallpaper">Slika ozadja</string>
-  <string name="included_component_lockscreen_wallpaper">Slika ozadja zaslona za zaklepanje</string>
+  <string name="included_component_lockscreen_wallpaper">Slika ozadja zaklenjenega zaslona</string>
+  <!-- Search -->
   <string name="recent_searches">Nedavna iskanja</string>
   <string name="no_recent_searches">Ni nedavnih iskanj</string>
   <string name="suggested_searches">Predlagana iskanja</string>
+  <!-- Update Notifications -->
+  <!-- Example: "5 theme updates"-->
+  <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">%d posodobitev tem</item>
     <item quantity="two">%d posodobitvi tem</item>
     <item quantity="few">%d posodobitve tem</item>
     <item quantity="other">%d posodobitev tem</item>
   </plurals>
+  <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">Dotaknite se, da posodobite %s</item>
     <item quantity="two">Dotaknite se, da posodobite %1$s in %2$s</item>
     <item quantity="few">Dotaknite se, da posodobite %1$s in %2$s</item>
     <item quantity="other">Dotaknite se, da posodobite %1$s in %2$s</item>
   </plurals>
+  <!-- Shown in the expanded notification when more themes can be updated than what
+     can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">in še %d</string>
   <string name="no_themes_available">Ni rezultatov</string>
   <string name="get_themes">Dobi teme</string>
+  <!-- Eula Strings -->
   <string name="eula_decline">Odkloni</string>
   <string name="eula_accept">Sprejmi</string>
   <string name="eula_message">Z uporabo Trgovine tem se strinjate s <xliff:g id="eula_link"><![CDATA[<a href=\"https://cyngn.com/legal/themestore-eula\">]]></xliff:g>Pogoji storitve Cyanogen Theme Store<![CDATA[<\a>]]></string>
+  <!-- Sorting -->
   <string name="sort_newest">Najnovejše</string>
   <string name="sort_alphabetically">A-Ž</string>
   <string name="sort_rating">Ocena</string>
   <string name="sort_popular">Priljubljene</string>
+  <!-- 3rd Party Stores -->
   <string name="play_store">Trgovina Play</string>
 </resources>
