@@ -42,6 +42,7 @@
   <string name="error_authentication">Probléma történt a hitelesítő szerverrel.</string>
   <string name="error_nav_item_needs_authentication">Az opció nem érhető el, amíg nem történt hitelesítés. Megnyomta az újra gombot?</string>
   <string name="auth_failed_title">Kapcsolódási hiba</string>
+  <string name="auth_failed_msg">Az áruházhoz aktív internetkapcsolatra van szükség.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Újra</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,10 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d ingyenes téma frissítése</item>
+    <item quantity="other">%d ingyenes téma frissítése</item>
+  </plurals>
   <string name="no_updates">Minden téma naprakész</string>
   <string name="update_all">Összes frissítése</string>
   <string name="checking_for_updates">Frissítések keresése\u2026</string>
@@ -133,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Licenc részletei nyílt forráskódú szoftverhez</string>
   <string name="pref_title_opensource_licenses">Nyílt forráskódú licencek</string>
   <string name="pref_title_buildversion">Build verziója</string>
+  <string name="back_button_label">Vissza</string>
+  <string name="skip_button_label">Kihagy</string>
+  <string name="next_button_label">Tovább</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Soha ne frissítsen automatikusan</string>
   <string name="pref_update_connection_type_over_wifi">Automatikus frissítés csak WiFi-n keresztül</string>
