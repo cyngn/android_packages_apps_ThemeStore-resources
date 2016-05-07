@@ -77,7 +77,7 @@
   <string name="update">업데이트</string>
   <string name="read_more">더 보기</string>
   <string name="contact_the_designer">디자이너에게 문의</string>
-  <string name="visit_website">웹사이트 방문</string>
+  <string name="visit_website">웹 사이트 방문</string>
   <string name="email_designer">디자이너에게 이메일</string>
   <string name="more_by_this_designer">이 디자이너의 다른 테마들</string>
   <string name="report_theme">테마 신고</string>
@@ -131,8 +131,8 @@
   <string name="pref_title_update_connection_type">자동 업데이트</string>
   <string name="pref_title_clear_search_history">검색 기록 삭제</string>
   <string name="pref_summary_clear_sarch_history">검색했던 기록을 모두 삭제</string>
-  <string name="pref_summary_opensource_licenses">오픈 소스 소프트웨어에 대한 라이센스 정보</string>
-  <string name="pref_title_opensource_licenses">오픈 소스 라이센스</string>
+  <string name="pref_summary_opensource_licenses">오픈 소스 소프트웨어에 대한 라이선스 정보</string>
+  <string name="pref_title_opensource_licenses">오픈 소스 라이선스</string>
   <string name="pref_title_buildversion">빌드 버전</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">자동 업데이트 안함</string>
