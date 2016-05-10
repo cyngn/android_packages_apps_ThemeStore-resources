@@ -42,6 +42,7 @@
   <string name="error_authentication">Hebo un problema col sirvidor d\'autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción non disponible fasta que t\'autentiques. ¿Primísti\'l botón Reintentar?</string>
   <string name="auth_failed_title">Fallu de conexón</string>
+  <string name="auth_failed_msg">La tienda rique d\'una conexón activa a internet.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Repetir</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,10 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">€</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d tema de baldre p\'anovar</item>
+    <item quantity="other">%d temes de baldre p\'anovar</item>
+  </plurals>
   <string name="no_updates">Tolos temes tán anovaos</string>
   <string name="update_all">Anovar too</string>
   <string name="checking_for_updates">Comprobando anovamientos\u2026</string>
@@ -133,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Detalles de llicencia pal software de códigu abiertu</string>
   <string name="pref_title_opensource_licenses">Llicencies de códigu abiertu</string>
   <string name="pref_title_buildversion">Versión de construcción</string>
+  <string name="back_button_label">Atrás</string>
+  <string name="skip_button_label">Saltar</string>
+  <string name="next_button_label">Siguiente</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Nun anovar automáticamente</string>
   <string name="pref_update_connection_type_over_wifi">Anovar automáticamente namái pente Wi-Fi</string>
