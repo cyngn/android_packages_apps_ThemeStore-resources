@@ -137,7 +137,7 @@
   <string name="pref_title_opensource_licenses">Lisensi sumber terbuka</string>
   <string name="pref_title_buildversion">Versi kompilasi</string>
   <string name="back_button_label">Kembali</string>
-  <string name="skip_button_label">Melewati</string>
+  <string name="skip_button_label">Lewati</string>
   <string name="next_button_label">Berikutnya</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Jangan pernah perbarui otomatis</string>

@@ -42,6 +42,7 @@
   <string name="error_authentication">인증 서버에 문제가 있습니다.</string>
   <string name="error_nav_item_needs_authentication">옵션은 인증될 때까지 사용할 수 없습니다. 다시 시도하시겠습니까?</string>
   <string name="auth_failed_title">연결 오류</string>
+  <string name="auth_failed_msg">테마 스토어는 인터넷 연결이 필요합니다.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">다시 시도</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,9 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="other">%d개의 업데이트할 무료 테마</item>
+  </plurals>
   <string name="no_updates">모든 테마가 최신</string>
   <string name="update_all">모두 업데이트</string>
   <string name="checking_for_updates">업데이트 확인 중\u2026</string>
@@ -75,7 +79,7 @@
   <string name="update">업데이트</string>
   <string name="read_more">더 보기</string>
   <string name="contact_the_designer">디자이너에게 문의</string>
-  <string name="visit_website">웹사이트 방문</string>
+  <string name="visit_website">웹 사이트 방문</string>
   <string name="email_designer">디자이너에게 이메일</string>
   <string name="more_by_this_designer">이 디자이너의 다른 테마들</string>
   <string name="report_theme">테마 신고</string>
@@ -129,9 +133,12 @@
   <string name="pref_title_update_connection_type">자동 업데이트</string>
   <string name="pref_title_clear_search_history">검색 기록 삭제</string>
   <string name="pref_summary_clear_sarch_history">검색했던 기록을 모두 삭제</string>
-  <string name="pref_summary_opensource_licenses">오픈 소스 소프트웨어에 대한 라이센스 정보</string>
-  <string name="pref_title_opensource_licenses">오픈 소스 라이센스</string>
+  <string name="pref_summary_opensource_licenses">오픈 소스 소프트웨어에 대한 라이선스 정보</string>
+  <string name="pref_title_opensource_licenses">오픈 소스 라이선스</string>
   <string name="pref_title_buildversion">빌드 버전</string>
+  <string name="back_button_label">뒤로</string>
+  <string name="skip_button_label">건너뛰기</string>
+  <string name="next_button_label">다음</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">자동 업데이트 안함</string>
   <string name="pref_update_connection_type_over_wifi">Wi-Fi 연결로만 자동 업데이트</string>

@@ -42,6 +42,7 @@
   <string name="error_authentication">Det oppstod et problem med godkjenningsserveren.</string>
   <string name="error_nav_item_needs_authentication">Alternativet utilgjengelig til godkjent. har du prøvd på nytt?</string>
   <string name="auth_failed_title">Tilkoblingsfeil</string>
+  <string name="auth_failed_msg">Butikken krever en aktiv Internett-tilkobling.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Prøv på nytt</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,10 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d gratis tema som må oppdateres</item>
+    <item quantity="other">%d gratise temaer som må oppdateres</item>
+  </plurals>
   <string name="no_updates">Alle temaer oppdaterte</string>
   <string name="update_all">Oppdater alle</string>
   <string name="checking_for_updates">Se etter oppdateringer\u2026</string>
@@ -133,6 +138,9 @@
   <string name="pref_summary_opensource_licenses">Lisensopplysninger for åpen kildekode</string>
   <string name="pref_title_opensource_licenses">Åpen kildekode-lisenser</string>
   <string name="pref_title_buildversion">Bygge versjon</string>
+  <string name="back_button_label">Tilbake</string>
+  <string name="skip_button_label">Hopp over</string>
+  <string name="next_button_label">Neste</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">Aldri automatisk oppdatering</string>
   <string name="pref_update_connection_type_over_wifi">Automatisk oppdatering kun via Wi-Fi</string>
