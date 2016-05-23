@@ -54,6 +54,11 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d ažuriranje dostupno</item>
+    <item quantity="few">%d ažuriranja dostupna</item>
+    <item quantity="other">%d ažuriranja dostupno</item>
+  </plurals>
   <string name="no_updates">Sve teme su ažurirane</string>
   <string name="update_all">Ažuriraj sve</string>
   <string name="checking_for_updates">Provjera ažuriranja\u2026</string>
