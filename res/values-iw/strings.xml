@@ -58,6 +58,8 @@
   <!-- Updating Header Strings -->
   <plurals name="number_of_updates_avail">
     <item quantity="one">ערכת עיצוב חינמית %d לעדכון</item>
+    <item quantity="two">%d ערכות עיצוב חינמיות לעדכון</item>
+    <item quantity="many">%d ערכות עיצוב חינמיות לעדכון</item>
     <item quantity="other">%d ערכות עיצוב חינמיות לעדכון</item>
   </plurals>
   <string name="no_updates">כל ערכות העיצוב מעודכנות</string>
@@ -103,6 +105,8 @@
   <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
     <item quantity="one">דירוג %s</item>
+    <item quantity="two">%s דירוגים</item>
+    <item quantity="many">%s דירוגים</item>
     <item quantity="other">%s דירוגים</item>
   </plurals>
   <!-- Rating Popup -->
@@ -165,11 +169,15 @@
   <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
     <item quantity="one">עדכון לערכה %d</item>
+    <item quantity="two">עדכונים ל-%d ערכות</item>
+    <item quantity="many">עדכונים ל-%d ערכות</item>
     <item quantity="other">עדכונים ל-%d ערכות</item>
   </plurals>
   <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
     <item quantity="one">לחץ כדי לעדכן את %s</item>
+    <item quantity="two">לחץ כדי לעדכן את %1$s ואת %2$s</item>
+    <item quantity="many">לחץ כדי לעדכן את %1$s ואת %2$s</item>
     <item quantity="other">לחץ כדי לעדכן את %1$s ואת %2$s</item>
   </plurals>
   <!-- Shown in the expanded notification when more themes can be updated than what

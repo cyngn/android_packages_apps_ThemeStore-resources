@@ -97,6 +97,7 @@
   <string name="rated">دارای امتیاز</string>
   <!-- All Reviews for a given theme -->
   <plurals name="all_reviews_title">
+    <item quantity="one">%s امتیاز</item>
     <item quantity="other">%s امتیاز</item>
   </plurals>
   <!-- Rating Popup -->
@@ -155,10 +156,12 @@
   <!-- Example: "5 theme updates"-->
   <!-- All Reviews for a given theme -->
   <plurals name="update_notification_title">
+    <item quantity="one">%d به‌روزرسانی تم</item>
     <item quantity="other">%d به‌روزرسانی تم</item>
   </plurals>
   <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
   <plurals name="update_notification_msg">
+    <item quantity="one">برای به‌روزرسانی %1$s و %2$s لمس کنید</item>
     <item quantity="other">برای به‌روزرسانی %1$s و %2$s لمس کنید</item>
   </plurals>
   <!-- Shown in the expanded notification when more themes can be updated than what

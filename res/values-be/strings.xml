@@ -56,6 +56,11 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d абнаўленне безкаштоўнай тэмы</item>
+    <item quantity="few">%d абнаўленне безкаштоўных тэм</item>
+    <item quantity="other">%d абнаўленне безкаштоўных тэмаў</item>
+  </plurals>
   <string name="no_updates">Няма абнаўленняў</string>
   <string name="update_all">Абнавіць усё</string>
   <string name="checking_for_updates">Праверка абнаўленняў\u2026</string>
