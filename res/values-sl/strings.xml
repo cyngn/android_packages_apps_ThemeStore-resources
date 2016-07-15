@@ -18,7 +18,7 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
   <string name="app_name">Teme</string>
   <!-- Action Bar -->
-  <string name="search">Iskanje</string>
+  <string name="search">Išči</string>
   <string name="search_hint">Poišči teme</string>
   <!-- Drawer -->
   <!-- TODO: Remove test string -->
