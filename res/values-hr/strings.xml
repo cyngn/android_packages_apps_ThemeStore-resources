@@ -27,7 +27,7 @@
   <string name="components">Komponente</string>
   <string name="showcase">Izlog</string>
   <string name="my_stuff">Moje stvari</string>
-  <string name="theme_chooser">Birač tema</string>
+  <string name="theme_chooser">Odabir tema</string>
   <string name="settings">Postavke</string>
   <string name="purchase">Kupi</string>
   <string name="change_theme">Promijeni temu</string>
@@ -46,7 +46,7 @@
   <!-- Retry connecting to server again -->
   <string name="retry">Pokušaj ponovno</string>
   <!-- When Theme is installed, show this option in detail page -->
-  <string name="view_in_theme_chooser">Pogledaj u biraču tema</string>
+  <string name="view_in_theme_chooser">Pogledajte u Odabiru tema</string>
   <!-- Subsections For Theme Listings -->
   <string name="free">Besplatno</string>
   <string name="all">Sve</string>
@@ -90,7 +90,7 @@
   <string name="price_installed">Instalirano</string>
   <string name="price_uninstall">Deinstaliraj</string>
   <string name="apply">Primijeni</string>
-  <string name="applied">Primjenjeno</string>
+  <string name="applied">Primijenjeno</string>
   <string name="version">verzija</string>
   <string name="size">veličina</string>
   <string name="incompatible_outdated">%s je dizajniran za starije verzije CM-a. Mogli bi iskusiti probleme kompatibilnosti s ovom temom.</string>

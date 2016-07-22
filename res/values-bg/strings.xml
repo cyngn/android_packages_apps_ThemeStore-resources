@@ -44,7 +44,7 @@
   <string name="auth_failed_title">Грешка при свързване</string>
   <string name="auth_failed_msg">Магазинът изисква активна интернет връзка.</string>
   <!-- Retry connecting to server again -->
-  <string name="retry">Опитай отново</string>
+  <string name="retry">Нов опит</string>
   <!-- When Theme is installed, show this option in detail page -->
   <string name="view_in_theme_chooser">Преглед на избора на теми</string>
   <!-- Subsections For Theme Listings -->
