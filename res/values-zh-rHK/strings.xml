@@ -151,11 +151,6 @@
     <item quantity="other">%d 個主題更新</item>
   </plurals>
   <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
-  <plurals name="update_notification_msg">
-    <item quantity="other">觸碰以更新%s
-
-觸碰以更新%1$s和%2$s</item>
-  </plurals>
   <!-- Shown in the expanded notification when more themes can be updated than what
      can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">還有 +%d 個</string>

@@ -172,14 +172,6 @@
     <item quantity="other">%d تحديثات للسمة</item>
   </plurals>
   <!-- Example: Touch to update "RedTheme, L-Theme, and AwesomeTheme" -->
-  <plurals name="update_notification_msg">
-    <item quantity="zero">المس لتحديث %s</item>
-    <item quantity="one">المس لتحديث %s و%2$s</item>
-    <item quantity="two">المس لتحديث %s و%2$s</item>
-    <item quantity="few">المس لتحديث %1$ss و%2$s</item>
-    <item quantity="many">المس لتحديث %1$s و%2$s</item>
-    <item quantity="other">المس لتحديث %1$s و%2$s</item>
-  </plurals>
   <!-- Shown in the expanded notification when more themes can be updated than what
      can be shown Example: "+3 more" -->
   <string name="update_notification_x_more">+%d أخرى</string>
@@ -188,7 +180,6 @@
   <!-- Eula Strings -->
   <string name="eula_decline">رفض</string>
   <string name="eula_accept">قبول</string>
-  <string name="eula_message">باستخدام متجر السمات، أنت توافق على < معرف xliff:g = "eula_link" > <! [ CDATA [< href = \ "">]]></xliff:g>Cyanogen https://cyngn.com/legal/themestore-eula\"شروط الخدمة لمتجر سمات Cyanogen\". <![CDATA[<\a>]]></string>
   <!-- Sorting -->
   <string name="sort_newest">الأحدث</string>
   <string name="sort_alphabetically">الألف إلى الياء</string>
