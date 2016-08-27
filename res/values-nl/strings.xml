@@ -40,7 +40,7 @@
   <string name="error_connection">Verbindingsfout</string>
   <string name="error_invalid_response">De server geeft vreemd genoeg geen thema\'s door.</string>
   <string name="error_authentication">Er is een probleem opgetreden met de authenticatieserver.</string>
-  <string name="error_nav_item_needs_authentication">Optie niet beschikbaar tot authenticatie. Heeft u de Opnieuw-knop gebruikt?</string>
+  <string name="error_nav_item_needs_authentication">Optie niet beschikbaar tot authenticatie. Hebt u de Opnieuw-knop gebruikt?</string>
   <string name="auth_failed_title">Verbindingsfout</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Opnieuw proberen</string>
