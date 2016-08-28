@@ -16,7 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="http://schemas.android.com/apk/res/android">
-  <string name="app_name">Etosoj</string>
   <!-- Action Bar -->
   <!-- Drawer -->
   <!-- TODO: Remove test string -->
@@ -33,7 +32,6 @@
   <!-- Theme Detail Strings -->
   <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
   <!-- Theme Detail Description -->
-  <string name="about_theme_name">Pri %s</string>
   <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <!-- All Reviews for a given theme -->
   <!-- Rating Popup -->
@@ -41,7 +39,6 @@
   <!-- Download path -->
   <!-- Error strings -->
   <!-- Preferences -->
-  <string name="about">Pri</string>
   <!-- Preferences: Auto update -->
   <!-- Detail included components -->
   <!-- Search -->
