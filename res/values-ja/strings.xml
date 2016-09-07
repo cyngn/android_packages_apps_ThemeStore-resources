@@ -33,7 +33,7 @@
   <string name="change_theme">テーマを変更</string>
   <string name="unknown_author">作成者不明</string>
   <string name="available_via_store">%s経由で入手可能</string>
-  <string name="font_preview_letters">あア漢字AaBbCc123</string>
+  <string name="font_preview_letters">あア漢Aa123</string>
   <!-- Store Pricing, also shows pkg status -->
   <string name="price_free">無料</string>
   <!-- Errors -->
