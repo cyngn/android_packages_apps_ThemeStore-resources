@@ -42,6 +42,7 @@
   <string name="error_authentication">Produciuse un problema co servidor de autenticación.</string>
   <string name="error_nav_item_needs_authentication">Opción non dispoñíbel ata autenticación. Premeu sobre o botón \'tentar de novo\'?</string>
   <string name="auth_failed_title">Erro na conexión</string>
+  <string name="auth_failed_msg">Requírese dunha conexión a internet activa.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Tentar de novo</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,10 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">$</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="one">%d tema de balde para actualizar</item>
+    <item quantity="other">%d temas de balde para actualizar</item>
+  </plurals>
   <string name="no_updates">Todos os temas actualizados</string>
   <string name="update_all">Actualizar todo</string>
   <string name="checking_for_updates">Buscando actualizacións\u2026</string>
@@ -85,16 +90,68 @@
   <string name="price_uninstall">Desinstalar</string>
   <string name="apply">Aplicar</string>
   <string name="applied">Aplicado</string>
+  <string name="version">versión</string>
+  <string name="size">tamaño</string>
+  <string name="incompatible_outdated">%s foi deseñado para unha versión máis antiga de CM. Poderías experimentar problemas de compatibilidade con este tema.</string>
+  <string name="incompatible_newer">%s foi deseñado para unha versión máis nova de CM e non se pode instalar.</string>
   <!-- Theme Detail Description -->
+  <string name="about_theme_name">Canto a %s</string>
   <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
+  <string name="downloads">%s descargas</string>
+  <string name="rate">Valorar</string>
+  <string name="rated">Valorado</string>
   <!-- All Reviews for a given theme -->
   <!-- Rating Popup -->
+  <string name="rate_title">Valorar %s</string>
+  <string name="rate_title_hint">Título</string>
+  <string name="rate_message_hint">Mensaxe</string>
+  <string name="submit">Enviar</string>
+  <string name="delete">Eliminar</string>
+  <string name="rate_the_theme">Por favor valore este tema entre 1 e 5 estrelas</string>
   <!-- Report theme dialog -->
+  <string name="report_dialog_title">Denunciar o tema</string>
+  <string name="report_dialog_reason_title">Motivo da denuncia:</string>
+  <string name="report_dialog_reason_sexual_graphic">Contido sexual ou gráfico</string>
+  <string name="report_dialog_reason_abusive_hateful">Contido abusivo ou odioso</string>
+  <string name="cancel">Cancelar</string>
   <!-- Download path -->
+  <string name="installing_notification_text">Instalando \'%1$s\'\u2026</string>
+  <string name="installing">Instalando</string>
+  <string name="updating">Actualizando</string>
   <!-- Error strings -->
+  <string name="error_dialog_button_text">Aceptar</string>
+  <string name="installing_error_notification_text">Erro ao instalar %1$s</string>
+  <string name="download_error_notification_text">Erro ao descargar</string>
+  <string name="pm_error_notification_text">Non se pode instalar o tema: %1$s</string>
   <!-- Preferences -->
+  <string name="general">Xeral</string>
+  <string name="about">Sobre</string>
+  <string name="pref_title_download_notifications">Notificacións</string>
+  <string name="pref_summary_download_notifications">Avisarme cando un tema teña unha actualización</string>
+  <string name="pref_title_update_connection_type">Actualizar automaticamente</string>
+  <string name="pref_title_clear_search_history">Borrar o historial de busca</string>
+  <string name="pref_summary_clear_sarch_history">Eliminar todas as buscas realizadas</string>
+  <string name="pref_summary_opensource_licenses">Detalles da licenza do software de código aberto</string>
+  <string name="pref_title_opensource_licenses">Licenzas de código aberto</string>
+  <string name="pref_title_buildversion">Versión da compilación</string>
+  <string name="back_button_label">Volver</string>
+  <string name="skip_button_label">Omitir</string>
+  <string name="next_button_label">Seguinte</string>
   <!-- Preferences: Auto update -->
+  <string name="pref_update_connection_type_never_update">Non actualizar automaticamente</string>
+  <string name="pref_update_connection_type_over_wifi">Actualizar automaticamente só vía Wi-Fi</string>
+  <string name="pref_update_connection_type_any_time">Actualizar automaticamente en calquera momento</string>
   <!-- Detail included components -->
+  <string name="included_components_header_title">Compoñentes incluídos</string>
+  <string name="included_component_boot_animation">Animacións de inicio</string>
+  <string name="included_component_font">Fonte</string>
+  <string name="included_component_icon_pack">Paquete de iconas</string>
+  <string name="included_component_navigation_bar">Barra de navegación</string>
+  <string name="included_component_sound_pack">Paquete de sons</string>
+  <string name="included_component_status_bar">Barra de estado</string>
+  <string name="included_component_controls">Controis</string>
+  <string name="included_component_wallpaper">Fondo de pantalla</string>
+  <string name="included_component_lockscreen_wallpaper">Fondo da pantalla de bloqueo</string>
   <!-- Search -->
   <string name="recent_searches">Buscas recentes</string>
   <string name="no_recent_searches">Sen buscas recentes</string>

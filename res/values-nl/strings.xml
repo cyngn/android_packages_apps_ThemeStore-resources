@@ -42,6 +42,7 @@
   <string name="error_authentication">Er is een probleem opgetreden met de authenticatieserver.</string>
   <string name="error_nav_item_needs_authentication">Optie niet beschikbaar tot authenticatie. Hebt u de Opnieuw-knop gebruikt?</string>
   <string name="auth_failed_title">Verbindingsfout</string>
+  <string name="auth_failed_msg">De winkel vereist een actieve internetverbinding.</string>
   <!-- Retry connecting to server again -->
   <string name="retry">Opnieuw proberen</string>
   <!-- When Theme is installed, show this option in detail page -->
