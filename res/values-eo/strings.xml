@@ -20,6 +20,7 @@
   <!-- Action Bar -->
   <!-- Drawer -->
   <!-- TODO: Remove test string -->
+  <string name="settings">Agordoj</string>
   <!-- Store Pricing, also shows pkg status -->
   <!-- Errors -->
   <!-- Retry connecting to server again -->
@@ -37,7 +38,9 @@
   <!-- A bucketed amount of downlodas. ex: "< 100" or 10,000+" -->
   <!-- All Reviews for a given theme -->
   <!-- Rating Popup -->
+  <string name="rate_message_hint">Mesaĝo</string>
   <!-- Report theme dialog -->
+  <string name="cancel">Nuligi</string>
   <!-- Download path -->
   <!-- Error strings -->
   <!-- Preferences -->

@@ -81,11 +81,11 @@
   <string name="read_more">Irakurri gehiago</string>
   <string name="contact_the_designer">Jarri kontaktuan diseinatzailearekin</string>
   <string name="visit_website">Bisitatu webgunea</string>
-  <string name="email_designer">Eposta diseinatzailea</string>
+  <string name="email_designer">E-posta diseinatzailea</string>
   <string name="more_by_this_designer">Diseinatzaile honen beste lan batzuk</string>
   <string name="report_theme">Salatu gaia</string>
   <!-- Title of the activity chooser that appears when e-mailing a themer in detail view -->
-  <string name="send_email_chooser">Bidali eposta honen bidez\u2026</string>
+  <string name="send_email_chooser">Bidali e-posta honen bidez\u2026</string>
   <string name="price_installed">Instalatuta</string>
   <string name="price_uninstall">Desinstalatu</string>
   <string name="apply">Aplikatu</string>

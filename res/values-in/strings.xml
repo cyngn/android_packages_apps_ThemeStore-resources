@@ -27,7 +27,7 @@
   <string name="components">Komponen</string>
   <string name="showcase">Memamerkan</string>
   <string name="my_stuff">Barang-barang saya</string>
-  <string name="theme_chooser">Pemilih tema</string>
+  <string name="theme_chooser">Tema</string>
   <string name="settings">Pengaturan</string>
   <string name="purchase">Pembelian</string>
   <string name="change_theme">Ganti tema</string>
@@ -70,7 +70,7 @@
   <string name="category_icons">Ikon</string>
   <string name="category_status_bar">Bilah status</string>
   <string name="category_controls">Kontrol</string>
-  <string name="category_fonts">Fon</string>
+  <string name="category_fonts">Font</string>
   <string name="category_navigation_bar">Bilah navigasi</string>
   <string name="category_boot_animations">Animasi but</string>
   <string name="category_wallpapers">Gambar latar</string>
@@ -146,7 +146,7 @@
   <!-- Detail included components -->
   <string name="included_components_header_title">Komponen yang disertakan</string>
   <string name="included_component_boot_animation">Animasi but</string>
-  <string name="included_component_font">Fon</string>
+  <string name="included_component_font">Font</string>
   <string name="included_component_icon_pack">Paket ikon</string>
   <string name="included_component_navigation_bar">Bilah navigasi</string>
   <string name="included_component_sound_pack">Paket suara</string>

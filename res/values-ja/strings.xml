@@ -42,6 +42,7 @@
   <string name="error_authentication">認証サーバーでエラーが発生しました。</string>
   <string name="error_nav_item_needs_authentication">認証されるまでオプションは利用できません、再試行ボタンを押しましたか？</string>
   <string name="auth_failed_title">接続エラー</string>
+  <string name="auth_failed_msg">ストアを使用するには有効なインターネット接続が必要です。</string>
   <!-- Retry connecting to server again -->
   <string name="retry">再試行</string>
   <!-- When Theme is installed, show this option in detail page -->
@@ -55,6 +56,9 @@
          a 3rd party paid -->
   <string name="paid_3rd_party_price">￥</string>
   <!-- Updating Header Strings -->
+  <plurals name="number_of_updates_avail">
+    <item quantity="other">%d件の無料テーマの更新があります</item>
+  </plurals>
   <string name="no_updates">テーマはすべて最新の状態です</string>
   <string name="update_all">すべて更新</string>
   <string name="checking_for_updates">更新を確認中\u2026</string>
@@ -132,6 +136,9 @@
   <string name="pref_summary_opensource_licenses">オープンソースソフトウェアのライセンスの詳細</string>
   <string name="pref_title_opensource_licenses">オープンソースライセンス</string>
   <string name="pref_title_buildversion">ビルドバージョン</string>
+  <string name="back_button_label">前へ</string>
+  <string name="skip_button_label">スキップ</string>
+  <string name="next_button_label">次へ</string>
   <!-- Preferences: Auto update -->
   <string name="pref_update_connection_type_never_update">自動更新しない</string>
   <string name="pref_update_connection_type_over_wifi">Wi-Fi接続時のみ自動更新する</string>
